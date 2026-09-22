@@ -97,13 +97,13 @@ An npm-workspaces frontend (Vue + shared types) plus a standalone Maven backend:
 
 ```
          Vue 3 SPA (Vite)                 Java backend (Spring Boot)      Game API
-   ┌───────────────────────┐        ┌──────────────────────────┐   ┌──────────────────┐
-   │ Pinia store            │  HTTP  │ GameController → Service   │   │ dragonsofmugloar │
-   │ TanStack Vue Query     │ ─────► │  ├─ GameApiClient (retry, │──►│  /api/v2/...     │
-   │ Components + auto-play  │  /api  │  │   timeout, decoding)   │   └──────────────────┘
-   │  (typed by src/types)   │ ◄───── │  ├─ GameStore (sessions)  │
+   ┌───────────────────────┐        ┌────────────────────────────┐    ┌──────────────────┐
+   │ Pinia store           │  HTTP  │ GameController → Service   │    │ dragonsofmugloar │
+   │ TanStack Vue Query    │ ─────► │  ├─ GameApiClient (retry,  │──► │  /api/v2/...     │
+   │ Components + auto-play│  /api  │  │   timeout, decoding)    │    └──────────────────┘
+   │  (typed by src/types) │ ◄───── │  ├─ GameStore (sessions)   │
    └───────────────────────┘        │  └─ StrategyEngine.decide()│
-                                     └──────────────────────────┘
+                                    └────────────────────────────┘
 ```
 
 - **`packages/backend`** — a **Spring Boot 4 / Java 25** app (Maven). It owns all game logic:
