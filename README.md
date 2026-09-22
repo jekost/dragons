@@ -48,6 +48,23 @@ npm run dev          # starts the Java backend (:3001) and the Vue frontend (:51
 **http://localhost:5173**, click **Start game**, and hit **Auto-play**. Watch the bot climb past
 1000, or take over manually by clicking quests and shop items.
 
+### With Docker
+
+Only Docker is needed, not Java or Node:
+
+```bash
+docker build -t dragons .            # or: npm run docker:build
+docker run --rm -p 3001:3001 dragons # or: npm run docker:run
+```
+
+Then open **http://localhost:3001**. It's one image: the build bundles the Vue SPA into the Spring
+Boot jar, so the backend serves the page, `/api` and Swagger UI from the same port. The same
+environment variables as a local run apply (`GAME_API_BASE_URL`, `GAME_API_TIMEOUT_MS`,
+`GAME_API_MAX_RETRIES`), passed with `-e`. The image build skips the tests; run `npm run test:all`
+for those.
+
+### Running the pieces separately
+
 Run the pieces separately if you prefer:
 
 ```bash

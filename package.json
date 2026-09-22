@@ -15,6 +15,8 @@
     "dev:backend": "mvn -q -f packages/backend/pom.xml spring-boot:run",
     "dev:frontend": "npm run dev --workspace @dom/frontend",
     "build": "npm run build --workspace @dom/frontend && mvn -q -f pom.xml -DskipTests package",
+    "docker:build": "docker build -t dragons .",
+    "docker:run": "docker run --rm -p 3001:3001 dragons",
     "test": "npm run test --workspace @dom/frontend",
     "test:backend": "mvn -q -f pom.xml test",
     "test:all": "npm run test && npm run test:backend",

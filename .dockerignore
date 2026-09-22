@@ -1,0 +1,16 @@
+# Keep the build context to what the Dockerfile copies: sources and manifests.
+.git
+.idea
+.claude
+**/node_modules
+**/dist
+**/target
+**/coverage
+*.log
+.env
+.env.local
+
+# Characterization output: CSVs and reports, not needed to build or run the app.
+packages/backend/*.csv
+packages/backend/*.md
+packages/characterization/src
