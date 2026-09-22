@@ -23,6 +23,7 @@ driving the game either fully autonomously or under manual control.
 - [Quick start](#quick-start)
 - [What it does](#what-it-does)
 - [Architecture](#architecture)
+- [API endpoints](#api-endpoints)
 - [The solver strategy](#the-solver-strategy)
 - [Characterization: measuring the hidden mechanics](#characterization-measuring-the-hidden-mechanics)
 - [Testing](#testing)
@@ -126,6 +127,50 @@ handling, and decoding. It's also the natural seam for the wider team stack (Red
 
 ---
 
+## API endpoints
+
+The backend serves a small REST API on `:3001`, all under `/api`. The SPA uses nothing else, and
+Vite proxies `/api` to it in development. Swagger UI at `/swagger-ui.html` lists the same routes and
+lets you call them.
+
+| Method | Path | What it does | Returns |
+| --- | --- | --- | --- |
+| `GET` | `/api/health` | Liveness check | `{"status": "ok"}` |
+| `POST` | `/api/games` | Starts a new game upstream and stores it | `201` + `GameSnapshot` |
+| `GET` | `/api/games/{id}` | Current state, shop, quests and the move the bot recommends. No turn spent. | `GameSnapshot` |
+| `POST` | `/api/games/{id}/auto-step` | Plays one turn: asks `StrategyEngine.decide()` and carries it out | `StepResult` |
+| `POST` | `/api/games/{id}/solve/{adId}` | Attempts the quest you picked | `StepResult` |
+| `POST` | `/api/games/{id}/buy/{itemId}` | Buys the shop item you picked | `StepResult` |
+| `POST` | `/api/games/{id}/investigate` | Looks up reputation. **Costs a turn**, which is why it is a `POST`. | `InvestigationResult` |
+
+Every `POST` except `/api/games` plays a real turn against the live game, even from Swagger UI.
+
+**Response shapes** (TypeScript mirror in `packages/frontend/src/types/index.ts`):
+
+- `GameSnapshot`: `{state, shop, ads, recommendation}`. `state` holds the game id, lives, gold,
+  level, score, high score and turn (reputation only comes from `investigate`). `ads` are the decoded quests. `recommendation` is the `Decision` the bot
+  would make next.
+- `StepResult`: `{decision, solve?, buy?, snapshot}`. It contains what was done, the raw upstream
+  result of the solve or buy, and the game state afterwards. A `stop` decision (the game is over)
+  comes with neither `solve` nor `buy`.
+- `Decision`: a flat record with `type` set to `solve`, `buy` or `stop`, the chosen ad or item,
+  its success probability and expected value, and a human-readable `reason`.
+- `InvestigationResult`: `{reputation?, snapshot}`, with the three reputation figures (`people`,
+  `state`, `underworld`). `reputation` is left out if the game is already over.
+
+**Errors** always come back as `{"error": {"code", "message", "status"}}`:
+
+| Status | Code | When |
+| --- | --- | --- |
+| `400` | `VALIDATION_ERROR` | An id isn't 1–64 letters, digits, `-` or `_` |
+| `404` | `GAME_NOT_FOUND` | The game id isn't in the backend's session store |
+| `404` | `GAME_API_ERROR` | Upstream answered 400/403/404/410, usually because the game has ended or expired |
+| `404` | `NOT_FOUND` | No such route |
+| `502` | `GAME_API_ERROR` | Upstream still failing with 5xx or a network error after its retries |
+| `500` | `INTERNAL_ERROR` | Anything unexpected |
+
+---
+
 ## The solver strategy
 
 The game ends only when **lives reach 0** — there is no built-in victory — so the core challenge is
@@ -174,6 +219,45 @@ Everything here is reported as **settled**, **tried and didn't pan out**, or **s
 negative results are kept deliberately — they are the expensive part, and without them the next
 person re-runs the same dead ends.
 
+### Measured success rate per tier
+
+These are the success rates the solver actually uses. `npm run characterize` measured them over
+**40 live games (923 attempts)** on 2026-09-18, counting only fresh quests (3+ turns left) so that
+expiry could not skew them. They are written to `probabilities.json`:
+
+| Tier | Success rate | Attempts | Counts as safe? |
+| --- | ---: | ---: | --- |
+| Sure thing | **98%** | 97 | ✅ (only below 130 gold, see below) |
+| Walk in the park | **92%** | 104 | ✅ |
+| Piece of cake | **89%** | 105 | ✅ (only below 150 gold, see below) |
+| Quite likely | **77%** | 95 | ✅ |
+| Hmmm.... | 61% | 94 | ❌ |
+| Gamble | 55% | 92 | ❌ |
+| Rather detrimental | 42% | 91 | ❌ |
+| Risky | 41% | 93 | ❌ |
+| Playing with fire | 17% | 72 | ❌ |
+| Suicide mission | 17% | 76 | ❌ |
+| Impossible | 8%* | 4 | ❌ |
+
+The solver counts a quest as safe when its measured rate is at least 70% (`safeProbability` in
+`StrategyConfig`), and takes the cheapest safe quest on the board. Tiers marked ❌ are not banned
+outright: if no quest on the board reaches 70%, the solver still has to pick one, so it takes the
+quest with the best odds. That happens on only about 4% of turns.
+
+\* Only 4 attempts, under the 15-sample minimum. This is a carried-forward guess, not a
+measurement.
+
+The rate also depends on the reward. Pooled over 3,843 attempts from three runs, two tiers stop
+living up to their label above a certain price:
+
+| Tier | Below the price | At or above it |
+| --- | ---: | ---: |
+| Sure thing (130 gold) | **99%** (307/309) | **9%** (13/149) |
+| Piece of cake (150 gold) | **96%** (997/1041) | **46%** (33/72) |
+
+The solver's own results are separate from these rates: it clears 1000 points in **38 of 40 games**
+([see below](#how-the-solver-actually-performs)).
+
 ### ✅ Settled — measured, and acted on
 
 - **The shop is fixed.** Every fresh game returns an identical layout and prices (`hpot` 50; five
@@ -200,8 +284,8 @@ person re-runs the same dead ends.
   the response says so, so `GameState.afterInvestigate()` applies the `+1` locally or the HUD
   silently drifts a turn behind the real game. This is why the SPA exposes it as a deliberate
   button rather than a live tile, and why the solver never calls it.
-- **Reputation is fractional, and moves slowly.** `people` climbs by about **0.1 per solved quest**
-  — `0.1, 0.2, 0.30000000000000004, …` — so the figures are doubles rounded to two decimals. Typed
+- **Reputation is fractional, and moves slowly.** `people` climbs by **0.1 per solved quest**
+  — `0.1, 0.2, 0.3, …` — so the figures are floats rounded to two decimals. Typed
   as `int` they read 0 for the first half-dozen solves of a game and then sat a whole point low,
   since Jackson truncates toward zero rather than rounding. `state` and `underworld` barely move at
   all: across three games `underworld` never left 0, and `state` held 0 for ten solves before
@@ -236,6 +320,20 @@ person re-runs the same dead ends.
   came back mostly within noise, and its one big gap — "Sure thing" 100% vs 81% — is confounded by
   the reward cliff, since the arms do not meet the same quests. Unresolved; the solver treats
   upgrades as surplus spending rather than an odds improvement.
+- **Do the upgrades differ from each other?** The shop sells ten upgrades besides the potion: five
+  at 100 gold (`cs`, `gas`, `tricks`, `wax`, `wingpot`) and five at 300 (`ch`, `iron`, `mtrix`,
+  `rf`, `wingpotmax`). The API gives only `{id, name, cost}`, not what each one does. Both the
+  solver and the level experiment always buy the *cheapest* one available, so the upgrades were
+  never compared. We don't know whether a 300-gold upgrade is worth more than a 100-gold one, or
+  whether some upgrades help with certain kinds of quest.
+  - **Are the 300-gold upgrades really a bad deal?** As far as we know, a 300-gold upgrade gives
+    2 levels while a 100-gold one gives 1. That is 150 gold per level against 100, so on paper the
+    expensive ones are worse value. That only holds if a level is all an upgrade buys, and nobody
+    has checked. A 300-gold item might do something a 100-gold one doesn't (help with particular
+    quests, for example). It also gets 2 levels in a single purchase, which could matter if each
+    purchase costs a turn. And if levels don't help at all (the first question above), neither
+    price is worth paying. Our logs can't settle it: `attempts.csv` shows a few +2 level jumps, but
+    the level experiment can buy twice in a row, so those may just be two cheap upgrades.
 - **Is there any real difficulty scaling over time?** Holding level fixed, "Sure thing" falls from
   100% to 22% across turn buckets — but rewards climb over the same span, and the cliff explains
   that on its own. The two have not been separated cleanly.
@@ -358,6 +456,8 @@ packages/
   spending rather than an odds improvement.
 - A/B the tuning constants (`safeProbability`, `goldDumpThreshold`, `upgradeGoldReserve`) with
   `npm run benchmark`. They were reasoned about, never measured; the harness now exists.
+- Compare the upgrades against each other: assign each game one specific upgrade instead of
+  always the cheapest, so their effects can be told apart.
 - Measure whether reputation affects outcomes at all. The SPA can read it, but no strategy does —
   and since each look costs a turn, a characterization arm would have to budget for that.
 - Add end-to-end (Playwright) tests driving the real UI.
