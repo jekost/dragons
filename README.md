@@ -54,6 +54,10 @@ npm run dev:backend   # mvn spring-boot:run   (http://localhost:3001)
 npm run dev:frontend  # vite                  (http://localhost:5173, proxies /api → :3001)
 ```
 
+The backend's API is documented with Swagger UI at **http://localhost:3001/swagger-ui.html**, and the
+raw OpenAPI spec is at `/v3/api-docs`. Open it on the backend port directly, because Vite only
+proxies `/api`. Every `POST` there plays a real turn against the live game.
+
 Other scripts (from the repo root):
 
 ```bash
