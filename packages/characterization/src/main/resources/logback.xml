@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  The tool runs through `exec:java`, i.e. a plain main() — Spring Boot never boots, so its logging
+  defaults never apply and Logback would fall back to its own: root at DEBUG, every line prefixed
+  with a timestamp, thread and logger name. For a run that prints a progress table for twenty
+  minutes that is a regression twice over: the padded columns stop lining up, and Spring and the
+  HTTP client bury them in DEBUG chatter.
+
+  So: bare `%msg%n`, which keeps the console output identical to what the System.out calls
+  produced, and INFO at the root to silence the libraries. The reports on disk are the durable
+  artifacts; this is the human-readable progress view.
+-->
+<configuration>
+  <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <pattern>%msg%n</pattern>
+    </encoder>
+  </appender>
+
+  <root level="INFO">
+    <appender-ref ref="CONSOLE"/>
+  </root>
+</configuration>

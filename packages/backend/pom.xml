@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>com.mugloar</groupId>
+    <artifactId>dragons-parent</artifactId>
+    <version>1.0.0</version>
+    <relativePath>../../pom.xml</relativePath>
+  </parent>
+
+  <artifactId>dragons-backend</artifactId>
+  <name>dragons-backend</name>
+  <description>Java backend that plays Dragons of Mugloar and reaches 1000+ points.</description>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+    <!--
+      Boot 4 split autoconfigure into per-technology modules, and starter-web no longer carries the
+      RestClient one. Without this, `RestClient` still compiles (it ships in spring-web) but no
+      `RestClient.Builder` bean exists, so GameApiClient fails to wire at startup.
+    -->
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-restclient</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-test</artifactId>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-maven-plugin</artifactId>
+        <configuration>
+          <!--
+            Repackaging normally *replaces* the main artifact with the executable fat jar, whose
+            classes sit under BOOT-INF/ and so cannot be used as a dependency. The characterization
+            module depends on this one, so keep the plain jar as the main artifact and give the
+            runnable one a classifier: target/dragons-backend-1.0.0-exec.jar.
+          -->
+          <classifier>exec</classifier>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>com.mugloar</groupId>
+    <artifactId>dragons-parent</artifactId>
+    <version>1.0.0</version>
+    <relativePath>../../pom.xml</relativePath>
+  </parent>
+
+  <artifactId>dragons-characterization</artifactId>
+  <name>dragons-characterization</name>
+  <description>
+    Offline tool that measures the game's hidden mechanics against the live API. Not part of the
+    running application: it depends on the backend, never the other way round, and its output
+    (probabilities.json and the reports) is committed so the tool need not be re-run to build.
+  </description>
+
+  <dependencies>
+    <dependency>
+      <groupId>com.mugloar</groupId>
+      <artifactId>dragons-backend</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-test</artifactId>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>exec-maven-plugin</artifactId>
+        <configuration>
+          <!-- The parent skips exec by default so it is a no-op on the other modules; this is the
+               one module that actually has a main class. -->
+          <skip>false</skip>
+          <mainClass>com.mugloar.characterization.CharacterizationMain</mainClass>
+          <classpathScope>compile</classpathScope>
+          <!--
+            exec:java runs inside the Maven JVM, so its working directory is wherever mvn was
+            launched, NOT this module. Hand the tool a basedir explicitly.
+
+            Note this points at the *backend* module, not at this one: the tool rewrites
+            backend/src/main/resources/probabilities.json, which the running application then
+            loads from its classpath. That write-to-read channel is the only coupling between the
+            two modules, and this property is what keeps it pointing at the right place now that
+            the tool lives somewhere else.
+          -->
+          <systemProperties>
+            <systemProperty>
+              <key>mugloar.basedir</key>
+              <value>${project.basedir}/../backend</value>
+            </systemProperty>
+          </systemProperties>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>

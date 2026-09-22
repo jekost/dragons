@@ -1,0 +1,1440 @@
+game,arm,rewardArm,turn,level,lives,gold,score,tier,adId,message,reward,expiresIn,success
+0,NONE,HIGH,0,0,3,0,0,"Piece of cake","vBsTAY1m","Steal cat delivery to Ximun Howland and share some of the profits with the people.",60,7,true
+0,NONE,HIGH,1,0,3,60,60,"Piece of cake","eJbIXJe9","Escort Cherokee Kingston to village in Pengarden where they can meet with their long lost sheep",55,6,true
+0,NONE,HIGH,2,0,3,115,115,"Piece of cake","w5Mb5CHT","Create an advertisement campaign for Eeva Jenkins to promote their chariot based business",31,5,true
+0,NONE,LOW,3,0,3,146,146,"Piece of cake","ITYywv3y","Help Arezu Callow to transport a magic house to thrift shoppe in Redheart",9,6,true
+0,NONE,LOW,4,0,3,155,155,"Piece of cake","GsBIs0is","Help Marceline Evanson to clean their sheep",8,7,true
+0,NONE,LOW,5,0,3,163,163,"Walk in the park","YchQPy3b","Help Leann Shepard to transport a magic beer mug to thrift shoppe in Northdrone",14,3,true
+0,NONE,NA,6,0,3,177,177,"Piece of cake","2ZQo8awN","Help Ronit Augustine to write their biographical novel about their difficulties with a deranged house",18,7,true
+0,NONE,LOW,7,0,3,195,195,"Quite likely","dNG2FI8t","Help Frej Jackson to reach an agreement with Eugeneia Daniell on the matters of disputed squirrel",15,7,false
+0,NONE,LOW,8,0,2,195,195,"Quite likely","cpLC0YOb","Help Anh Mínervudóttir to transport a magic clothes to village in Ridgeshaw",16,6,true
+0,NONE,HIGH,9,0,2,211,211,"Quite likely","VlJkv0qx","Escort Prasanna Jenkins to village in Sharpbane where they can meet with their long lost water",74,5,true
+0,NONE,HIGH,10,0,2,285,285,"Gamble","sTg3ft1I","Create an advertisement campaign for Antwan Scarlett to promote their pan based business",37,4,false
+0,NONE,LOW,12,0,2,235,285,"Piece of cake","4LARZPTq","Help Mariamne Björnsdóttir to reach an agreement with Funda Christopher on the matters of disputed chicken",15,4,true
+0,NONE,HIGH,13,0,2,250,300,"Rather detrimental","jV4R3hZB","Help Antoni Quickley to sell an unordinary water on the local market",36,4,false
+0,NONE,LOW,15,0,2,200,300,"Walk in the park","lRsrUEgv","Help Shyam Meadows to sell an unordinary weed on the local market",27,6,false
+0,NONE,HIGH,17,0,2,150,300,"Piece of cake","NZzzPtek","Escort Yrian Hepburn to meadow in Thornmere where they can meet with their long lost pot",74,4,false
+0,NONE,HIGH,19,0,2,100,300,"Walk in the park","RYiMI8Em","Escort Zoya Summerfield to pasture in Penmoore where they can meet with their long lost cat",77,6,true
+0,NONE,LOW,20,0,2,177,377,"Suicide mission","umJ2YX9X","Help Quintillus Presley to write their biographical novel about their difficulties with a deranged weed",28,5,false
+0,NONE,LOW,22,0,2,127,377,"Gamble","rqxrzKPi","Create an advertisement campaign for Seija Kingston to promote their weed based business",32,4,false
+0,NONE,HIGH,24,0,2,77,377,"Gamble","9sdx5jKa","Help defending meadow in Lightdale from the intruders",110,4,false
+0,NONE,NA,26,0,2,27,377,"Sure thing","19WiJtaj","Help defending peninsula in Highdean from the intruders",131,4,true
+0,NONE,NA,27,0,2,158,508,"Sure thing","Yk1meLRm","Help defending pasture in Westscale from the intruders",108,7,true
+0,NONE,NA,28,0,2,266,616,"Walk in the park","BtyV4bvP","Help defending peninsula in Towergill from the intruders",82,4,true
+0,NONE,NA,29,0,2,348,698,"Piece of cake","y5PezrPJ","Help defending thrift shoppe in Snowscale from the intruders",107,7,true
+0,NONE,NA,30,0,2,455,805,"Walk in the park","pUptUtVN","Help defending meadow in Ferncawl from the intruders",88,7,true
+0,NONE,HIGH,31,0,2,543,893,"Piece of cake","0hFD42L2","Help defending village in Dovewatch from the intruders",101,7,true
+0,NONE,NA,32,0,2,644,994,"Piece of cake","FmOakJyK","Help defending plains in Ravenwhyte from the intruders",94,6,true
+0,NONE,HIGH,33,0,2,738,1088,"Playing with fire","twrSTNAL","Investigate Yakiv Pickering and find out their relation to the magic horse.",130,3,true
+0,NONE,HIGH,34,0,2,868,1218,"Playing with fire","wrdlqXvd","Help defending meadow in Ridgebane from the intruders",81,6,false
+0,NONE,HIGH,36,0,2,818,1218,"Hmmm....","STPdqxDs","Help defending steppe in Oldfire from the intruders",109,6,true
+0,NONE,HIGH,37,0,2,927,1327,"Hmmm....","2wIgcQZV","Help defending thrift shoppe in Fallheart from the intruders",102,6,true
+0,NONE,LOW,38,0,2,1029,1429,"Gamble","Wsr74wty","Help defending field in Redchester from the intruders",77,6,true
+0,NONE,LOW,39,0,2,1106,1506,"Hmmm....","l9jrCOl0","Help defending village in Orrinham from the intruders",79,6,true
+0,NONE,HIGH,40,0,2,1185,1585,"Gamble","CS0CAENf","Help defending peninsula in Voidshaw from the intruders",90,3,true
+0,NONE,LOW,41,0,2,1275,1675,"Risky","qlb6Y7Be","Help defending steppe in Masonbane from the intruders",85,7,true
+0,NONE,LOW,42,0,2,1360,1760,"Risky","1JtrNW1B","Help defending meadow in Towerhill from the intruders",72,7,true
+0,NONE,HIGH,43,0,2,1432,1832,"Risky","JxPOEmWh","Help defending grassland in Eastdeen from the intruders",103,6,true
+0,NONE,HIGH,44,0,2,1535,1935,"Suicide mission","YCnbdvuj","Help defending village in Dorndale from the intruders",85,6,false
+0,NONE,HIGH,46,0,2,1485,1935,"Hmmm....","hmxfQwMv","Help defending thrift shoppe in Highloft from the intruders",90,3,true
+0,NONE,NA,47,0,2,1575,2025,"Quite likely","4ePMLrLg","Help defending well in Westkeep from the intruders",82,7,true
+0,NONE,LOW,48,0,2,1657,2107,"Rather detrimental","2yT2jGTZ","Help defending island in Fallloft from the intruders",49,6,true
+0,NONE,LOW,49,0,2,1706,2156,"Suicide mission","onNaZiB1","Help defending well in Ravenmire from the intruders",51,7,true
+1,FAST,LOW,0,0,3,0,0,"Risky","SfZO1gpg","Create an advertisement campaign for Fern Comstock to promote their horse based business",31,7,true
+1,FAST,LOW,1,0,3,31,31,"Walk in the park","9s2QV7ER","Help Edvárd Gardner to sell an unordinary chariot on the local market",18,7,true
+1,FAST,HIGH,2,0,3,49,49,"Piece of cake","YsT9cLnp","Help Photios Francis to reach an agreement with Léontine Millard on the matters of disputed beer mug",17,5,true
+1,FAST,LOW,3,0,3,66,66,"Piece of cake","C6nJvjAo","Help Jung-sook Holly to clean their turnips",2,6,true
+1,FAST,LOW,4,0,3,68,68,"Piece of cake","cwbm7SC2","Help Ela Chandler to fix their pan",7,3,true
+1,FAST,LOW,5,0,3,75,75,"Sure thing","8KcnEoGU","Help Songül Davison to clean their pot",6,5,true
+1,FAST,NA,6,0,3,81,81,"Sure thing","jZYCdhCK","Help Blair Shakesheave to clean their bucket",7,5,true
+1,FAST,LOW,7,0,3,88,88,"Walk in the park","Gw0yZfA5","Help Barakat Attaway to transport a magic bucket to steppe in Orrinfirth",15,7,true
+1,FAST,LOW,9,1,3,3,103,"Walk in the park","3jRU0pPR","Help Fritz Dickman to sell an unordinary horse on the local market",21,5,true
+1,FAST,HIGH,10,1,3,24,124,"Walk in the park","hW5ItJWv","Steal house delivery to Ronit Hibbert and share some of the profits with the people.",81,7,true
+1,FAST,LOW,12,2,3,5,205,"Piece of cake","0aV1VfcP","Help Tylar Boatwright to sell an unordinary wagon on the local market",24,3,true
+1,FAST,LOW,13,2,3,29,229,"Piece of cake","hkDvwej6","Rescue Cerridwen Pettigrew from meadow in Scalemoore where they are attacked by angry pot",35,6,true
+1,FAST,LOW,14,2,3,64,264,"Piece of cake","7e67NGlb","Create an advertisement campaign for Saqui Roberts to promote their potatoes based business",38,7,true
+1,FAST,HIGH,16,3,3,2,302,"Gamble","4T1JqBfw","Create an advertisement campaign for Şehrazat Abrahams to promote their potatoes based business",37,5,true
+1,FAST,HIGH,17,3,3,39,339,"Piece of cake","OXUoWkdU","Escort Frideswide Sowards to village in Masonpine where they can meet with their long lost chariot",60,3,true
+1,FAST,LOW,18,3,3,99,399,"Quite likely","Dv80dRcl","Create an advertisement campaign for Khánh Honeycutt to promote their squirrel based business",31,7,false
+1,FAST,HIGH,19,3,2,99,399,"Piece of cake","fubrYRFR","Create an advertisement campaign for Eustorgio Danniell to promote their water based business",46,6,true
+1,FAST,LOW,21,4,2,45,445,"Sure thing","WRcMwgD2","Escort Baptiste Jónsson to savannah in Fallwater where they can meet with their long lost horse",81,7,true
+1,FAST,LOW,23,5,2,26,526,"Hmmm....","kPHtuArx","Rescue Firmin Osbourne from steppe in Evercaster where they are attacked by angry potatoes",36,6,true
+1,FAST,LOW,24,5,2,62,562,"Piece of cake","RTvsg2Ra","Rescue Matty Hightower from pasture in Newfire where they are attacked by angry potatoes",40,4,true
+1,FAST,LOW,26,6,2,2,602,"Piece of cake","kut0H76d","Escort Vivyan Attwater to grassland in Greygill where they can meet with their long lost chariot",66,5,true
+1,FAST,HIGH,27,6,2,68,668,"Piece of cake","JQ2GwSvN","Help defending meadow in Lowewater from the intruders",171,4,true
+1,FAST,LOW,28,6,2,239,839,"Hmmm....","WH4Tm49Q","Rescue Olamide Hightower from steppe in Southton where they are attacked by angry dog",29,4,false
+1,FAST,HIGH,30,6,2,189,839,"Sure thing","yXgYKmTy","Help defending meadow in Voidcaster from the intruders",173,6,true
+1,FAST,LOW,31,6,2,362,1012,"Walk in the park","3asykyyf","Help defending plains in Penmountain from the intruders",146,5,true
+1,FAST,LOW,32,6,2,508,1158,"Hmmm....","Fde1BjDS","Rescue Ainsley Porcher from pasture in Reddrone where they are attacked by angry bucket",43,3,false
+1,FAST,HIGH,34,6,2,458,1158,"Quite likely","AM5z3vMx","Help defending meadow in Newhole from the intruders",160,4,false
+1,FAST,LOW,36,6,2,408,1158,"Piece of cake","pp6foLJL","Help defending grassland in Fernwater from the intruders",139,6,true
+1,FAST,LOW,37,6,2,547,1297,"Quite likely","JQ2Ue2l5","Help defending thrift shoppe in Ravengannon from the intruders",123,6,true
+1,FAST,LOW,38,6,2,670,1420,"Piece of cake","hwkrheD6","Help defending steppe in Razorgill from the intruders",134,7,true
+1,FAST,HIGH,39,6,2,804,1554,"Quite likely","vYmsBmYR","Help defending thrift shoppe in Thorngarden from the intruders",144,7,false
+1,FAST,HIGH,41,6,2,754,1554,"Hmmm....","6RnA3Lwj","Help defending steppe in Redport from the intruders",126,7,false
+1,FAST,LOW,43,6,2,704,1554,"Quite likely","AImmX2ow","Help defending grassland in Burnsmountain from the intruders",125,6,false
+1,FAST,LOW,45,6,2,654,1554,"Walk in the park","bUFyY3qU","Help defending savannah in Redheart from the intruders",115,5,true
+1,FAST,HIGH,46,6,2,769,1669,"Hmmm....","DNR7QOC0","Help defending rocky plains in Newbury from the intruders",139,7,true
+1,FAST,HIGH,47,6,2,908,1808,"Hmmm....","DJJgKVXw","Help defending foggy riverside in Frostdean from the intruders",144,7,true
+1,FAST,NA,48,6,2,1052,1952,"Piece of cake","IjF13qxv","Help defending island in Southdeen from the intruders",112,3,true
+1,FAST,LOW,49,6,2,1164,2064,"Playing with fire","ovPrTxif","Help defending rocky plains in Towerfirth from the intruders",126,7,false
+2,NONE,HIGH,0,0,3,0,0,"Piece of cake","YIN0qQrf","Steal water delivery to Simba Hamilton and share some of the profits with the people.",55,7,true
+2,NONE,LOW,1,0,3,55,55,"Quite likely","74tEgiv8","Help Brutus Dickinson to transport a magic chariot to pasture in Strongsheen",11,6,false
+2,NONE,LOW,2,0,2,55,55,"Piece of cake","0w6gGSkx","Help Eva Jónsson to clean their weed",5,6,true
+2,NONE,LOW,3,0,2,60,60,"Piece of cake","334Rocmo","Help Šimo Ashworth to clean their horse",6,4,true
+2,NONE,HIGH,4,0,2,66,66,"Piece of cake","wyO5FAdv","Escort Włodek Kingston to meadow in Northgannon where they can meet with their long lost water",59,6,true
+2,NONE,NA,5,0,2,125,125,"Piece of cake","vhy038av","Create an advertisement campaign for Juliet Odson to promote their beer mug based business",34,4,true
+2,NONE,NA,6,0,2,159,159,"Piece of cake","ZMRKDuYr","Steal horse delivery to Alysia Anthonyson and share some of the profits with the people.",68,7,true
+2,NONE,HIGH,7,0,2,227,227,"Walk in the park","NPfQOFdo","Escort Kapel Osbourne to grassland in Frosthill where they can meet with their long lost horse",56,7,true
+2,NONE,HIGH,8,0,2,283,283,"Gamble","jMdrQHrf","Escort Feidlimid Burrell to savannah in Sharpmire where they can meet with their long lost house",84,3,true
+2,NONE,HIGH,9,0,2,367,367,"Hmmm....","B8lCK6IV","Escort Bambi Wilkinson to plains in Burnspool where they can meet with their long lost potatoes",51,7,true
+2,NONE,HIGH,10,0,2,418,418,"Quite likely","3LeSyoVn","Steal cat delivery to Jaakob Anthonyson and share some of the profits with the people.",47,7,true
+2,NONE,HIGH,11,0,2,465,465,"Piece of cake","2lu9czDO","Steal house delivery to Ekain Bullock and share some of the profits with the people.",51,4,true
+2,NONE,LOW,12,0,2,516,516,"Piece of cake","kqwfJzHX","Steal water delivery to Cirila Thurstan and share some of the profits with the people.",46,7,true
+2,NONE,HIGH,13,0,2,562,562,"Piece of cake","U5zpAVvY","Escort Derick William to plains in Masoncawl where they can meet with their long lost pan",59,6,true
+2,NONE,LOW,14,0,2,621,621,"Piece of cake","4Ioos3fN","Create an advertisement campaign for Kaan Davidson to promote their squirrel based business",20,6,true
+2,NONE,LOW,15,0,2,641,641,"Piece of cake","8VeQ91qJ","Help Eiríkr Hollins to sell an unordinary wagon on the local market",22,6,true
+2,NONE,HIGH,16,0,2,663,663,"Piece of cake","C3FjNmP9","Escort Braeden Dickson to steppe in Dornhole where they can meet with their long lost bucket",58,5,true
+2,NONE,HIGH,17,0,2,721,721,"Sure thing","GCkN3Xtq","Steal super awesome diamond wagon from Lebron Priestley",182,4,false
+2,NONE,NA,19,0,2,671,721,"Sure thing","nwyoa4q6","Steal super awesome diamond pan from Rajiv Parsley",170,5,false
+2,NONE,HIGH,21,0,2,621,721,"Walk in the park","cIMqwdlK","Steal super awesome diamond chariot from Sidney Orange",159,7,false
+2,NONE,LOW,23,0,2,571,721,"Sure thing","aBkg5hpr","Steal super awesome diamond chariot from Zoi Suggitt",151,7,false
+2,NONE,LOW,25,0,2,521,721,"Piece of cake","6aqafp9K","Help defending meadow in Newfirth from the intruders",114,6,true
+2,NONE,HIGH,26,0,2,635,835,"Sure thing","rpyvMomO","Steal super awesome diamond cat from Élisabeth Bircann",182,6,false
+2,NONE,HIGH,28,0,2,585,835,"Walk in the park","85YkTi5I","Help defending village in Razorham from the intruders",109,6,true
+2,NONE,LOW,29,0,2,694,944,"Sure thing","A6IxZGJq","Help defending thrift shoppe in Northseed from the intruders",107,7,true
+2,NONE,NA,30,0,2,801,1051,"Sure thing","GV0mYCUe","Steal super awesome diamond bucket from Ioseph Turnbull",169,5,false
+2,NONE,HIGH,32,0,2,751,1051,"Hmmm....","Myj2rRYE","Investigate Esaias Beverley and find out their relation to the magic pot.",132,3,true
+2,NONE,LOW,33,0,2,883,1183,"Piece of cake","deGiKxBH","Help defending peninsula in Dornwhyte from the intruders",106,7,true
+2,NONE,HIGH,34,0,2,989,1289,"Suicide mission","NCb4d9rr","Investigate Keavy Jakeman and find out their relation to the magic sheep.",147,3,false
+2,NONE,LOW,36,0,2,939,1289,"Piece of cake","iOqNHhZj","Help defending grassland in Ridgescale from the intruders",82,7,true
+2,NONE,LOW,37,0,2,1021,1371,"Hmmm....","dU2ZSPTY","Help defending village in Burnsfirth from the intruders",83,7,false
+2,NONE,HIGH,39,0,2,971,1371,"Quite likely","0am6Gkfr","Help defending village in Burnsville from the intruders",101,5,true
+2,NONE,HIGH,40,0,2,1072,1472,"Rather detrimental","jtKKv2Rn","Help defending plains in Southdinny from the intruders",105,3,false
+2,NONE,LOW,42,0,2,1022,1472,"Rather detrimental","5SeLkF2x","Help defending peninsula in Ridgetown from the intruders",70,5,false
+2,NONE,HIGH,44,0,2,972,1472,"Rather detrimental","CnaAN9xF","Help defending church in Scalebane from the intruders",99,7,false
+2,NONE,HIGH,46,0,2,922,1472,"Suicide mission","Exdk6Gcq","Help defending field in Burnsspring from the intruders",97,3,false
+2,NONE,HIGH,48,0,2,872,1472,"Playing with fire","hdr7T7U8","Help defending well in Penpool from the intruders",80,5,false
+3,FAST,LOW,0,0,3,0,0,"Walk in the park","8AgbOxwW","Help Ælfgar Jernigan to clean their pot",3,7,true
+3,FAST,LOW,1,0,3,3,3,"Piece of cake","7M3Ugn3W","Help Priscila Chapman to fix their dog",1,7,true
+3,FAST,HIGH,2,0,3,4,4,"Piece of cake","g8sr1VRc","Steal chariot delivery to Chloe Thomson and share some of the profits with the people.",48,5,true
+3,FAST,HIGH,3,0,3,52,52,"Quite likely","gs0jb3fr","Create an advertisement campaign for Eun-jeong Franklin to promote their house based business",34,4,true
+3,FAST,HIGH,4,0,3,86,86,"Piece of cake","2mk3Xxtd","Create an advertisement campaign for Jaromir Akerman to promote their horse based business",32,3,true
+3,FAST,HIGH,6,1,3,18,118,"Sure thing","Y4d4x3je","Help Ratimir Thornton to transport a magic cat to meadow in Metalmoore",13,5,true
+3,FAST,LOW,7,1,3,31,131,"Piece of cake","l3yVezjG","Help Jürgen Sackville to transport a magic beer mug to steppe in Lightmoore",13,7,true
+3,FAST,LOW,8,1,3,44,144,"Piece of cake","p0kM4cSG","Help Róża Imore to sell an unordinary turnips on the local market",15,4,true
+3,FAST,LOW,9,1,3,59,159,"Piece of cake","ZLncEqJE","Help Tatum Bloxham to transport a magic pot to grassland in Blooddean",22,6,true
+3,FAST,LOW,10,1,3,81,181,"Walk in the park","uxUR2PZR","Help Pierino Sampson to transport a magic sheep to peninsula in Strongbury",23,6,true
+3,FAST,HIGH,12,2,3,4,204,"Sure thing","GwxiN0pr","Steal squirrel delivery to Eliana Franklyn and share some of the profits with the people.",65,6,true
+3,FAST,HIGH,13,2,3,69,269,"Walk in the park","8mdjnmYe","Steal beer mug delivery to Krešimir Derrick and share some of the profits with the people.",67,4,true
+3,FAST,HIGH,15,3,3,36,336,"Quite likely","SijLrnZ1","Help Cilka Jameson to write their biographical novel about their difficulties with a deranged water",60,6,true
+3,FAST,LOW,16,3,3,96,396,"Sure thing","jxcriyTF","Rescue Shifra Richards from grassland in Highshore where they are attacked by angry horse",38,5,true
+3,FAST,LOW,18,4,3,34,434,"Piece of cake","BkEWUsZW","Rescue Aramis Soames from peninsula in Greydale where they are attacked by angry bucket",38,3,false
+3,FAST,HIGH,19,4,2,34,434,"Sure thing","f1py0vwZ","Escort Gerlind Bircann to grassland in Scalecawl where they can meet with their long lost beer mug",49,4,true
+3,FAST,HIGH,20,4,2,83,483,"Hmmm....","HZe8rriW","Investigate Tomos Ellsworth and find out their relation to the magic house.",186,3,true
+3,FAST,LOW,23,6,2,69,669,"Walk in the park","JSbX7INz","Escort Terra Baldwin to savannah in Eastshaw where they can meet with their long lost chicken",101,5,false
+3,FAST,HIGH,25,6,2,19,669,"Walk in the park","17FxrMn5","Help defending village in Ridgeshaw from the intruders",173,5,true
+3,FAST,NA,26,6,2,192,842,"Piece of cake","uaNpgbEb","Rescue Alpha Walterson from steppe in Everdean where they are attacked by angry pan",42,5,true
+3,FAST,LOW,27,6,2,234,884,"Walk in the park","g6oyBNrj","Escort Ji-hu Scriven to savannah in Greykeep where they can meet with their long lost turnips",82,4,false
+3,FAST,HIGH,29,6,2,184,884,"Walk in the park","12oV5EJd","Help defending pasture in Northpeak from the intruders",160,5,true
+3,FAST,HIGH,30,6,2,344,1044,"Quite likely","bNlaiPZ9","Investigate Ewan Cummins and find out their relation to the magic chicken.",203,3,true
+3,FAST,LOW,31,6,2,547,1247,"Gamble","2KyQ4AYL","Help defending thrift shoppe in Towerfire from the intruders",138,7,true
+3,FAST,HIGH,32,6,2,685,1385,"Quite likely","XzPHJGxi","Help defending village in Everkeep from the intruders",162,5,true
+3,FAST,LOW,33,6,2,847,1547,"Gamble","2zIfOGID","Help defending thrift shoppe in Metalshaw from the intruders",192,4,true
+3,FAST,HIGH,34,6,2,1039,1739,"Quite likely","Jk4VyRds","Help defending village in Whitesheen from the intruders",160,6,true
+3,FAST,LOW,35,6,2,1199,1899,"Quite likely","xoj1J0t6","Help defending plains in Towercrest from the intruders",128,3,true
+3,FAST,LOW,36,6,2,1327,2027,"Walk in the park","hqPEnb1Z","Help defending village in Fernbury from the intruders",106,7,true
+3,FAST,HIGH,37,6,2,1433,2133,"Piece of cake","PsEr3A2K","Help defending meadow in Fallfirth from the intruders",173,4,true
+3,FAST,HIGH,38,6,2,1606,2306,"Piece of cake","mN5LWoCs","Help defending thrift shoppe in Millerchester from the intruders",160,4,true
+3,FAST,HIGH,39,6,2,1766,2466,"Piece of cake","vUqsFHE8","Help defending village in Darkburg from the intruders",157,3,true
+3,FAST,HIGH,40,6,2,1923,2623,"Piece of cake","dLGNNAog","Help defending grassland in Pencaster from the intruders",146,5,true
+3,FAST,LOW,41,6,2,2069,2769,"Piece of cake","OyniFApd","Help defending savannah in Fangpeak from the intruders",128,6,true
+3,FAST,LOW,42,6,2,2197,2897,"Risky","BOgXvNZO","Help defending meadow in Redpine from the intruders",144,7,true
+3,FAST,HIGH,43,6,2,2341,3041,"Quite likely","b3yPD3eL","Help defending meadow in Millermire from the intruders",141,6,true
+3,FAST,HIGH,44,6,2,2482,3182,"Quite likely","dDWsZVEu","Help defending grassland in Towerloft from the intruders",125,6,true
+3,FAST,LOW,45,6,2,2607,3307,"Risky","JHzd2Siw","Help defending woodland in Dovehole from the intruders",133,7,false
+3,FAST,HIGH,47,6,2,2557,3307,"Gamble","hQk8RD2A","Help defending hill in Strongmere from the intruders",133,4,true
+3,FAST,LOW,48,6,2,2690,3440,"Playing with fire","BSMzDmtJ","Help defending island in Dorncaster from the intruders",106,7,false
+4,NONE,LOW,0,0,3,0,0,"Piece of cake","8LhkyH2e","Help Aliz Trueman to clean their turnips",1,7,true
+4,NONE,HIGH,1,0,3,1,1,"Piece of cake","3Z9hFMNP","Steal weed delivery to Durai Richardson and share some of the profits with the people.",65,6,true
+4,NONE,LOW,2,0,3,66,66,"Piece of cake","bW4AjTGB","Help Cleena Caulfield to clean their chicken",8,5,true
+4,NONE,LOW,3,0,3,74,74,"Sure thing","7ugXpyMh","Help Leda Patterson to clean their chariot",4,6,true
+4,NONE,LOW,4,0,3,78,78,"Quite likely","7X1xoipp","Create an advertisement campaign for Margarit Branson to promote their house based business",29,7,false
+4,NONE,LOW,5,0,2,78,78,"Sure thing","z3MIVfCO","Help Mladenka Brandon to reach an agreement with Desideratus Savidge on the matters of disputed potatoes",14,5,true
+4,NONE,NA,6,0,2,92,92,"Sure thing","zthwHBKw","Steal water delivery to Awiti Cartwright and share some of the profits with the people.",52,7,true
+4,NONE,HIGH,7,0,2,144,144,"Hmmm....","upFLmqTp","Create an advertisement campaign for Vivi Clemens to promote their pot based business",29,7,false
+4,NONE,HIGH,9,0,2,94,144,"Walk in the park","SO8pmS7f","Help Koraljka Jamison to reach an agreement with Eutímio Hollands on the matters of disputed bucket",19,5,true
+4,NONE,LOW,10,0,2,113,163,"Rather detrimental","yDY1UIPi","Create an advertisement campaign for Christobel Spearing to promote their chicken based business",28,4,true
+4,NONE,LOW,11,0,2,141,191,"Gamble","ijtumdvu","Create an advertisement campaign for Dores Colbert to promote their weed based business",26,7,true
+4,NONE,LOW,12,0,2,167,217,"Piece of cake","Olruq7dP","Help Klára Honeycutt to sell an unordinary water on the local market",23,5,true
+4,NONE,NA,13,0,2,190,240,"Piece of cake","5zY2tV9q","Create an advertisement campaign for Egbert Roderick to promote their horse based business",34,6,true
+4,NONE,LOW,14,0,2,224,274,"Gamble","tkl6B0yQ","Create an advertisement campaign for Terezie Goddard to promote their bucket based business",29,7,false
+4,NONE,HIGH,16,0,2,174,274,"Risky","V8Blg8qJ","Escort Dieudonné Isaacson to grassland in Highwater where they can meet with their long lost wagon",80,5,false
+4,NONE,HIGH,18,0,2,124,274,"Quite likely","lGenoIjk","Escort Adoniram Kjartansdóttir to grassland in Razormountain where they can meet with their long lost clothes",61,6,true
+4,NONE,HIGH,19,0,2,185,335,"Walk in the park","iFMmmXJB","Steal weed delivery to Caratacos Murgatroyd and share some of the profits with the people.",58,3,true
+4,NONE,LOW,20,0,2,243,393,"Walk in the park","sPSeJqVA","Create an advertisement campaign for Jeanne Holland to promote their potatoes based business",31,6,true
+4,NONE,HIGH,21,0,2,274,424,"Walk in the park","hDSXJYYj","Escort Shufen Christians to meadow in Scalewatch where they can meet with their long lost clothes",78,7,true
+4,NONE,HIGH,22,0,2,352,502,"Walk in the park","XO2Gz5XB","Escort Małgosia Rowland to savannah in Lightgannon where they can meet with their long lost horse",72,5,true
+4,NONE,HIGH,23,0,2,424,574,"Walk in the park","aaN9noDN","Escort Haru Traylor to pasture in Newham where they can meet with their long lost sheep",57,5,true
+4,NONE,LOW,24,0,2,481,631,"Rather detrimental","NHOU3eLM","Investigate U-jin Ericson and find out their relation to the magic turnips.",109,3,true
+4,NONE,NA,25,0,2,590,740,"Piece of cake","knwSuDhs","Help defending peninsula in Thorndeen from the intruders",96,7,true
+4,NONE,HIGH,26,0,2,686,836,"Piece of cake","iVT6J8Uj","Help defending pasture in Evershaw from the intruders",124,7,true
+4,NONE,HIGH,27,0,2,810,960,"Piece of cake","Z1XxrgQq","Help defending grassland in Westshore from the intruders",115,6,true
+4,NONE,LOW,28,0,2,925,1075,"Piece of cake","5Bg4yODE","Help defending field in Eastloft from the intruders",87,7,true
+4,NONE,LOW,29,0,2,1012,1162,"Suicide mission","dF7NWZKY","Investigate Dancho Ecclestone and find out their relation to the magic potatoes.",143,3,false
+4,NONE,NA,31,0,2,962,1162,"Piece of cake","LC41ujAA","Help defending grassland in Strongmountain from the intruders",97,6,true
+4,NONE,NA,32,0,2,1059,1259,"Quite likely","VWnlRpI0","Help defending meadow in Whitefirth from the intruders",113,3,true
+4,NONE,NA,33,0,2,1172,1372,"Quite likely","tRP8uLCk","Help defending thrift shoppe in Lowemire from the intruders",120,7,true
+4,NONE,HIGH,34,0,2,1292,1492,"Quite likely","Nw4sOh7z","Help defending savannah in Fallwatch from the intruders",99,7,true
+4,NONE,HIGH,35,0,2,1391,1591,"Gamble","ToHZVUca","Help defending pasture in Highsheen from the intruders",106,7,false
+4,NONE,HIGH,37,0,2,1341,1591,"Quite likely","4VzYz661","Help defending peninsula in Newshore from the intruders",105,6,true
+4,NONE,HIGH,38,0,2,1446,1696,"Quite likely","XDvQ35ab","Help defending plains in Strongloft from the intruders",110,7,false
+4,NONE,NA,40,0,2,1396,1696,"Sure thing","cYTF54Q2","Help defending pasture in Bleakloft from the intruders",83,3,true
+4,NONE,LOW,41,0,2,1479,1779,"Risky","p2KlQwQW","Help defending plains in Metalkeep from the intruders",81,7,true
+4,NONE,LOW,42,0,2,1560,1860,"Hmmm....","FjI1aMCI","Help defending savannah in Fallville from the intruders",74,4,true
+4,NONE,HIGH,43,0,2,1634,1934,"Walk in the park","sZz5H3FF","Help defending field in Razorbury from the intruders",97,3,true
+4,NONE,HIGH,44,0,2,1731,2031,"Risky","E2eSWiYT","Help defending village in Ferngannon from the intruders",94,5,false
+4,NONE,HIGH,46,0,2,1681,2031,"Gamble","zbEgawyy","Help defending grassland in Fallfire from the intruders",88,3,true
+4,NONE,HIGH,47,0,2,1769,2119,"Suicide mission","zbaiDNeM","Help defending thicket in Westwhyte from the intruders",72,7,true
+4,NONE,HIGH,48,0,2,1841,2191,"Gamble","Kjg3KgRy","Help defending woodland in Scalespring from the intruders",72,3,false
+5,FAST,HIGH,0,0,3,0,0,"Piece of cake","79r9j4Ye","Escort Reuven Rowntree to village in Northpeak where they can meet with their long lost house",83,7,true
+5,FAST,LOW,1,0,3,83,83,"Piece of cake","HArzgXPa","Help Gaëtane Pierson to reach an agreement with Gabriël Belcher on the matters of disputed wagon",7,6,true
+5,FAST,HIGH,2,0,3,90,90,"Piece of cake","SygkGlyr","Create an advertisement campaign for Dee Kynaston to promote their beer mug based business",34,5,true
+5,FAST,LOW,4,1,3,24,124,"Hmmm....","BOekPgcL","Help Varghese Hallgrímsson to transport a magic pan to thrift shoppe in Greypeak",15,5,true
+5,FAST,NA,5,1,3,39,139,"Sure thing","NoSHbXf0","Steal pot delivery to Lidiya Milford and share some of the profits with the people.",60,5,true
+5,FAST,NA,6,1,3,99,199,"Quite likely","WBlmI464","Escort Kawehi Beckham to pasture in Scalekeep where they can meet with their long lost horse",84,6,false
+5,FAST,HIGH,7,1,2,99,199,"Walk in the park","ewhgiYRO","Escort Bet Brynjólfsdóttir to steppe in Sharpkeep where they can meet with their long lost house",75,7,true
+5,FAST,HIGH,9,2,2,74,274,"Walk in the park","CkXc1mhD","Help Beso Gabrielson to sell an unordinary sheep on the local market",35,5,false
+5,FAST,HIGH,11,2,2,24,274,"Walk in the park","1rHy16Pc","Create an advertisement campaign for Gotthilf Belmont to promote their chariot based business",26,3,true
+5,FAST,HIGH,12,2,2,50,300,"Piece of cake","owWv3Tx7","Help Agneza Gibbons to sell an unordinary pan on the local market",25,3,true
+5,FAST,LOW,13,2,2,75,325,"Piece of cake","foUhpDPS","Rescue Germaine Elliston from grassland in Frostcrest where they are attacked by angry chariot",19,4,true
+5,FAST,HIGH,14,2,2,94,344,"Walk in the park","2hAuk8jh","Escort Christ Averill to peninsula in Everford where they can meet with their long lost clothes",96,7,true
+5,FAST,HIGH,16,3,2,90,440,"Hmmm....","Bbbl77gG","Create an advertisement campaign for Vavřinec Kjartansson to promote their pan based business",40,5,true
+5,FAST,LOW,18,4,2,30,480,"Risky","4udaRZTE","Rescue Wright Goody from meadow in Snowmoore where they are attacked by angry cat",32,3,true
+5,FAST,LOW,19,4,2,62,512,"Piece of cake","kV6Ago1T","Rescue Beso Hunnisett from peninsula in Thorndeen where they are attacked by angry wagon",36,7,true
+5,FAST,HIGH,20,4,2,98,548,"Quite likely","jOUlpddS","Steal dog from Adamo Fitzroy",97,7,true
+5,FAST,HIGH,22,5,2,95,645,"Walk in the park","SAiWAd8w","Steal weed from Joo-won Andrews",112,6,true
+5,FAST,LOW,24,6,2,107,757,"Piece of cake","sBjgheI6","Escort Nikolaj Prescott to savannah in Orrinmountain where they can meet with their long lost weed",85,5,true
+5,FAST,HIGH,25,6,2,192,842,"Suicide mission","5hVWrWWW","Investigate Cyrillus Clifton and find out their relation to the magic wagon.",235,3,false
+5,FAST,HIGH,27,6,2,142,842,"Piece of cake","QuQYVsXX","Escort Kristiāna Bronson to village in Fallpool where they can meet with their long lost chicken",119,4,true
+5,FAST,LOW,28,6,2,261,961,"Piece of cake","KnOFEgYa","Rescue Salli Solomon from steppe in Snowhill where they are attacked by angry clothes",43,4,true
+5,FAST,LOW,29,6,2,304,1004,"Piece of cake","xVtcPCpb","Rescue Efigênia Dickinson from meadow in Darkford where they are attacked by angry chariot",35,7,false
+5,FAST,LOW,31,6,2,254,1004,"Gamble","5mjb2sds","Help defending savannah in Doveshaw from the intruders",125,6,false
+5,FAST,LOW,33,6,2,204,1004,"Walk in the park","l3IdPfpU","Help defending peninsula in Lightport from the intruders",125,5,true
+5,FAST,NA,34,6,2,329,1129,"Sure thing","x4iwJiav","Help defending thrift shoppe in Northdale from the intruders",150,5,true
+5,FAST,LOW,35,6,2,479,1279,"Quite likely","GhD60RsT","Help defending plains in Falldrone from the intruders",149,7,true
+5,FAST,LOW,36,6,2,628,1428,"Quite likely","BK81JRa7","Help defending meadow in Fallshore from the intruders",131,7,true
+5,FAST,HIGH,37,6,2,759,1559,"Piece of cake","2uSLyUl0","Help defending steppe in Whitefair from the intruders",162,5,true
+5,FAST,HIGH,38,6,2,921,1721,"Quite likely","GRHwhKYi","Help defending thrift shoppe in Metalmere from the intruders",184,3,true
+5,FAST,HIGH,39,6,2,1105,1905,"Piece of cake","0TaRIFJ7","Help defending savannah in Orrinmere from the intruders",149,4,true
+5,FAST,HIGH,40,6,2,1254,2054,"Piece of cake","ICMZTYjs","Help defending field in Darkmere from the intruders",139,5,true
+5,FAST,HIGH,41,6,2,1393,2193,"Walk in the park","JroSJ7b2","Help defending grassland in Fallwell from the intruders",162,5,true
+5,FAST,LOW,42,6,2,1555,2355,"Piece of cake","b1jJh7w8","Help defending plains in Burnskeep from the intruders",91,4,true
+5,FAST,LOW,43,6,2,1646,2446,"Quite likely","kSFjJOaM","Help defending pasture in Sharpdean from the intruders",126,6,true
+5,FAST,LOW,44,6,2,1772,2572,"Quite likely","meeTRKkO","Help defending savannah in Everbane from the intruders",130,3,true
+5,FAST,LOW,45,6,2,1902,2702,"Rather detrimental","HNTgASl4","Help defending thicket in Greyshaw from the intruders",122,6,false
+5,FAST,HIGH,47,6,2,1852,2702,"Playing with fire","fmOnmK0F","Help defending hill in Masondrone from the intruders",142,6,false
+5,FAST,HIGH,49,6,2,1802,2702,"Playing with fire","e8b9Mqfk","Help defending church in Lightdean from the intruders",118,5,false
+6,NONE,HIGH,0,0,3,0,0,"Piece of cake","eZz25p7U","Help Jaymes Rollins to sell an unordinary house on the local market",27,7,true
+6,NONE,HIGH,1,0,3,27,27,"Walk in the park","rPWWsZ6p","Create an advertisement campaign for Pejo Midgley to promote their chicken based business",29,6,true
+6,NONE,HIGH,2,0,3,56,56,"Hmmm....","SKPqWAI8","Escort Sabah Rowland to plains in Scalefire where they can meet with their long lost wagon",76,7,false
+6,NONE,LOW,3,0,2,56,56,"Walk in the park","BpjcR13R","Help Piotr Witherspoon to fix their water",10,4,true
+6,NONE,HIGH,4,0,2,66,66,"Quite likely","UOeXwmvR","Help Yuriy Rogerson to write their biographical novel about their difficulties with a deranged chariot",39,3,true
+6,NONE,NA,5,0,2,105,105,"Walk in the park","f028l0cT","Help Di̇lek Belanger to write their biographical novel about their difficulties with a deranged dog",31,6,true
+6,NONE,NA,6,0,2,136,136,"Walk in the park","8zRDXn3i","Create an advertisement campaign for Eni̇s Ellison to promote their turnips based business",24,7,true
+6,NONE,HIGH,7,0,2,160,160,"Hmmm....","sKMpWT11","Escort Cefin Hampton to field in Lowekeep where they can meet with their long lost pot",68,7,true
+6,NONE,LOW,8,0,2,228,228,"Risky","Ut6BCULa","Help Máirtín Desprez to transport a magic dog to thrift shoppe in Lowemoore",14,6,true
+6,NONE,HIGH,9,0,2,242,242,"Piece of cake","jChhl6w4","Help Effie Allaire to transport a magic water to steppe in Fallhole",11,5,true
+6,NONE,HIGH,10,0,2,253,253,"Hmmm....","EIV59k1D","Create an advertisement campaign for Fantine Bradford to promote their weed based business",43,7,true
+6,NONE,HIGH,11,0,2,296,296,"Gamble","haMBtOCH","Help Mattaniah Hlöðversson to sell an unordinary pot on the local market",32,4,false
+6,NONE,NA,13,0,2,246,296,"Piece of cake","sY5sI8pE","Steal house delivery to Albertus Bancroft and share some of the profits with the people.",55,6,true
+6,NONE,LOW,14,0,2,301,351,"Quite likely","oRyawK7b","Help Avksentiy Patrick to write their biographical novel about their difficulties with a deranged turnips",34,7,true
+6,NONE,LOW,15,0,2,335,385,"Quite likely","HrSH2d7q","Help Osborn Summerfield to write their biographical novel about their difficulties with a deranged pot",40,6,true
+6,NONE,HIGH,16,0,2,375,425,"Piece of cake","g3rUsv47","Escort Ziv Strange to village in Lightdinny where they can meet with their long lost chicken",77,7,true
+6,NONE,HIGH,17,0,2,452,502,"Sure thing","YJD7zWce","Steal squirrel delivery to Egbert Jefferson and share some of the profits with the people.",79,7,true
+6,NONE,LOW,18,0,2,531,581,"Piece of cake","a2ESdL4c","Help Krystina Raynerson to write their biographical novel about their difficulties with a deranged potatoes",21,4,true
+6,NONE,HIGH,19,0,2,552,602,"Piece of cake","1ksI4589","Create an advertisement campaign for Batari Martell to promote their turnips based business",33,3,true
+6,NONE,NA,20,0,2,585,635,"Piece of cake","b5vn98LH","Create an advertisement campaign for Soleil Meadows to promote their squirrel based business",22,6,true
+6,NONE,LOW,21,0,2,607,657,"Hmmm....","hnztptVT","Escort Hildr Hlöðversson to savannah in Westwatch where they can meet with their long lost potatoes",60,6,true
+6,NONE,LOW,22,0,2,667,717,"Hmmm....","lHH7fRWR","Help defending thrift shoppe in Metalwatch from the intruders",99,6,true
+6,NONE,LOW,23,0,2,766,816,"Playing with fire","3QyCbivV","Escort Noreen Hawkins to steppe in Bleakgill where they can meet with their long lost water",68,4,false
+6,NONE,LOW,25,0,2,716,816,"Hmmm....","dNwxxRWI","Escort Bazyli Hulduson to field in Darkseed where they can meet with their long lost pot",51,5,true
+6,NONE,HIGH,26,0,2,767,867,"Piece of cake","mAJ7EpMk","Help defending peninsula in Highpool from the intruders",102,5,true
+6,NONE,NA,27,0,2,869,969,"Piece of cake","pQfG8pUY","Escort Ján Abrahams to savannah in Scalecaster where they can meet with their long lost clothes",72,4,true
+6,NONE,HIGH,28,0,2,941,1041,"Rather detrimental","MIqDj0x9","Investigate Onesimus Woodhams and find out their relation to the magic pot.",137,3,false
+6,NONE,NA,30,0,2,891,1041,"Piece of cake","6gvIx1sq","Help defending village in Highport from the intruders",96,5,true
+6,NONE,HIGH,31,0,2,987,1137,"Risky","YKuLFiKv","Investigate Tin Strickland and find out their relation to the magic squirrel.",146,3,false
+6,NONE,NA,33,0,2,937,1137,"Piece of cake","zUZDyS0Y","Help defending grassland in Blacksheen from the intruders",93,5,true
+6,NONE,HIGH,34,0,2,1030,1230,"Hmmm....","S3Zqzw3t","Investigate Ouranos Stringer and find out their relation to the magic squirrel.",144,3,true
+6,NONE,LOW,35,0,2,1174,1374,"Gamble","MXh14uNj","Help defending village in Highhole from the intruders",84,7,true
+6,NONE,LOW,36,0,2,1258,1458,"Piece of cake","VXkdWEji","Help defending pasture in Everfair from the intruders",95,7,true
+6,NONE,HIGH,37,0,2,1353,1553,"Piece of cake","ZmjTDN5i","Help defending pasture in Fangdale from the intruders",105,5,true
+6,NONE,HIGH,38,0,2,1458,1658,"Walk in the park","4rNgus8n","Help defending plains in Ridgeshaw from the intruders",96,4,true
+6,NONE,HIGH,39,0,2,1554,1754,"Piece of cake","nw0AwJKG","Help defending plains in Highdean from the intruders",95,7,true
+6,NONE,HIGH,40,0,2,1649,1849,"Piece of cake","V7cP0QSu","Help defending meadow in Penmountain from the intruders",90,7,true
+6,NONE,LOW,41,0,2,1739,1939,"Walk in the park","eLWcIUTa","Help defending meadow in Ridgedrone from the intruders",66,7,true
+6,NONE,HIGH,42,0,2,1805,2005,"Risky","0RZsWO4X","Help defending plains in Fangford from the intruders",97,3,true
+6,NONE,HIGH,43,0,2,1902,2102,"Rather detrimental","FoLL71Y2","Help defending thrift shoppe in Dovegarden from the intruders",87,4,true
+6,NONE,HIGH,44,0,2,1989,2189,"Rather detrimental","DrDvPVTK","Help defending peninsula in Metalcawl from the intruders",74,6,false
+6,NONE,HIGH,46,0,2,1939,2189,"Suicide mission","1Fw1RtfL","Help defending woodland in Oldshore from the intruders",91,6,false
+6,NONE,LOW,48,0,2,1889,2189,"Gamble","PLFSoTWc","Help defending forest in Strongbury from the intruders",59,4,false
+7,FAST,LOW,0,0,3,0,0,"Sure thing","si9YF9BW","Help Cristen Hepburn to fix their dog",3,7,true
+7,FAST,LOW,1,0,3,3,3,"Piece of cake","AwFKSUcb","Help Fouad Philips to fix their house",2,6,false
+7,FAST,HIGH,2,0,2,3,3,"Piece of cake","sBOO4eSy","Create an advertisement campaign for Setare Sergeant to promote their horse based business",30,5,true
+7,FAST,HIGH,3,0,2,33,33,"Quite likely","jbH5SX9P","Create an advertisement campaign for Domitian Hunnisett to promote their water based business",35,4,false
+7,FAST,LOW,4,0,1,33,33,"Walk in the park","heCxVxYs","Help Hann Stidolph to transport a magic dog to field in Masonhole",19,6,true
+7,FAST,NA,6,0,2,2,52,"Piece of cake","JdbDLJdQ","Help Issy Stevens to clean their chicken",5,5,true
+7,FAST,LOW,7,0,2,7,57,"Piece of cake","fHeJUNx8","Help Leann Stevenson to reach an agreement with Feray Washington on the matters of disputed turnips",8,7,true
+7,FAST,HIGH,8,0,2,15,65,"Hmmm....","BpQzrMdJ","Help Micky Christopher to sell an unordinary chariot on the local market",10,6,true
+7,FAST,LOW,9,0,2,25,75,"Gamble","5JrkezgJ","Create an advertisement campaign for Dell Yule to promote their potatoes based business",21,5,false
+7,FAST,HIGH,10,0,1,25,75,"Piece of cake","XXHN7LiC","Help Jolie Washington to sell an unordinary potatoes on the local market",30,4,false
+8,NONE,LOW,0,0,3,0,0,"Walk in the park","ILTSAu6W","Help Valentyna Gylfason to clean their cat",3,7,true
+8,NONE,LOW,1,0,3,3,3,"Walk in the park","0PMJ83ie","Help Herman Carlisle to fix their beer mug",6,6,true
+8,NONE,HIGH,2,0,3,9,9,"Walk in the park","WK0w81jF","Escort Bridgette Martell to village in Dornbane where they can meet with their long lost wagon",66,5,true
+8,NONE,HIGH,3,0,3,75,75,"Piece of cake","aYYiPGWD","Escort Lowie Jamison to thrift shoppe in Greyspring where they can meet with their long lost clothes",60,6,true
+8,NONE,HIGH,4,0,3,135,135,"Piece of cake","FpAw2lSp","Create an advertisement campaign for Ælfþryð Harford to promote their water based business",22,3,true
+8,NONE,LOW,5,0,3,157,157,"Piece of cake","t233QRsZ","Help Gróa Bamborough to clean their pan",7,5,true
+8,NONE,LOW,6,0,3,164,164,"Piece of cake","FAUfUEOf","Help Kitty Bowe to transport a magic horse to steppe in Razormoore",19,5,true
+8,NONE,LOW,7,0,3,183,183,"Piece of cake","LzgFQCNS","Help Lita Broadbent to transport a magic sheep to meadow in Snowgill",24,6,true
+8,NONE,LOW,8,0,3,207,207,"Walk in the park","caBembxE","Create an advertisement campaign for Trees Hilmarsdóttir to promote their pan based business",28,7,false
+8,NONE,HIGH,9,0,2,207,207,"Piece of cake","h6zDpNUA","Escort Verna Sergeant to thrift shoppe in Bleakspring where they can meet with their long lost dog",76,7,false
+8,NONE,HIGH,11,0,2,157,207,"Gamble","BSHtocBA","Escort Stina Treloar to peninsula in Northdeen where they can meet with their long lost wagon",61,6,true
+8,NONE,NA,12,0,2,218,268,"Piece of cake","KWxkkxLY","Steal chariot delivery to Mikayla Kitchens and share some of the profits with the people.",44,7,true
+8,NONE,NA,13,0,2,262,312,"Hmmm....","LdRZMXa5","Help Pembe Underwood to sell an unordinary house on the local market",20,7,true
+8,NONE,HIGH,14,0,2,282,332,"Quite likely","Nodn7f6m","Create an advertisement campaign for Modesto Underhill to promote their wagon based business",35,7,true
+8,NONE,HIGH,15,0,2,317,367,"Piece of cake","Nt7ddkwY","Steal pot delivery to Caitlyn Quickley and share some of the profits with the people.",52,7,true
+8,NONE,HIGH,16,0,2,369,419,"Piece of cake","WuZYoeAh","Create an advertisement campaign for Zoroaster Burnham to promote their pot based business",47,6,true
+8,NONE,HIGH,17,0,2,416,466,"Piece of cake","YgMFWXZM","Help Eirenaios Sangster to sell an unordinary potatoes on the local market",34,4,true
+8,NONE,LOW,18,0,2,450,500,"Gamble","iJcWwCFW","Help Cuimín Marchand to write their biographical novel about their difficulties with a deranged wagon",35,7,true
+8,NONE,NA,19,0,2,485,535,"Quite likely","2riLKMfQ","Create an advertisement campaign for Shari Townsend to promote their pot based business",31,7,true
+8,NONE,NA,20,0,2,516,566,"Gamble","ypz7SeJB","Help Adamo Snyders to write their biographical novel about their difficulties with a deranged cat",39,3,true
+8,NONE,LOW,21,0,2,555,605,"Piece of cake","oH3Svi1K","Help defending thrift shoppe in Blackdean from the intruders",115,7,true
+8,NONE,LOW,22,0,2,670,720,"Piece of cake","x6V3jT0A","Help defending pasture in Pencrest from the intruders",120,6,true
+8,NONE,HIGH,23,0,2,790,840,"Piece of cake","5sVux4sD","Help defending thrift shoppe in Sharpwatch from the intruders",146,5,true
+8,NONE,HIGH,24,0,2,936,986,"Piece of cake","hxqCRQ12","Help defending plains in Fangdale from the intruders",131,5,true
+8,NONE,HIGH,25,0,2,1067,1117,"Walk in the park","hCm8nI9a","Help defending village in Metalmountain from the intruders",117,5,true
+8,NONE,NA,26,0,2,1184,1234,"Piece of cake","XCQxKKgj","Escort Laurie Southgate to pasture in Razorfire where they can meet with their long lost pot",63,4,true
+8,NONE,NA,27,0,2,1247,1297,"Piece of cake","lB9dcv8d","Help defending meadow in Sharpton from the intruders",106,7,true
+8,NONE,NA,28,0,2,1353,1403,"Piece of cake","2HMXCz0m","Help defending meadow in Ravengill from the intruders",96,7,true
+8,NONE,NA,29,0,2,1449,1499,"Walk in the park","GeoLUpUo","Help defending thrift shoppe in Penhole from the intruders",116,4,true
+8,NONE,LOW,30,0,2,1565,1615,"Suicide mission","v5QxQNbL","Investigate Wenzeslaus Hightower and find out their relation to the magic clothes.",100,3,false
+8,NONE,NA,32,0,2,1515,1615,"Sure thing","OerJYZrC","Help defending peninsula in Razorpeak from the intruders",97,5,true
+8,NONE,HIGH,33,0,2,1612,1712,"Walk in the park","nU1HiRSF","Help defending meadow in Bleakkeep from the intruders",107,4,true
+8,NONE,NA,34,0,2,1719,1819,"Piece of cake","KojEmc9w","Help defending thrift shoppe in Thornhole from the intruders",109,4,true
+8,NONE,HIGH,35,0,2,1828,1928,"Hmmm....","B3om1qfk","Help defending steppe in Newgannon from the intruders",129,3,false
+8,NONE,LOW,37,0,2,1778,1928,"Quite likely","GD0QHSra","Help defending steppe in Olddinny from the intruders",68,7,true
+8,NONE,LOW,38,0,2,1846,1996,"Risky","7cyZHjaZ","Help defending village in Everburg from the intruders",72,6,false
+8,NONE,LOW,40,0,2,1796,1996,"Quite likely","056QPnSK","Help defending grassland in Masonshore from the intruders",71,4,true
+8,NONE,NA,41,0,2,1867,2067,"Piece of cake","1XvSQK9X","Help defending village in Orrindale from the intruders",104,7,true
+8,NONE,HIGH,42,0,2,1971,2171,"Risky","2aavtbIy","Help defending pasture in Masondinny from the intruders",90,5,false
+8,NONE,HIGH,44,0,2,1921,2171,"Risky","l1gpAYCf","Help defending field in Northwhyte from the intruders",91,6,false
+8,NONE,HIGH,46,0,2,1871,2171,"Suicide mission","x0RftGdy","Help defending pasture in Frostham from the intruders",92,4,false
+8,NONE,LOW,48,0,2,1821,2171,"Hmmm....","E6EHgzKi","Help defending cave in Oldhill from the intruders",72,6,true
+8,NONE,HIGH,49,0,2,1893,2243,"Rather detrimental","0gFzSmBA","Help defending well in Fallpool from the intruders",87,3,false
+9,FAST,HIGH,0,0,3,0,0,"Sure thing","1Si8QF44","Steal wagon delivery to Sonam Traylor and share some of the profits with the people.",54,7,true
+9,FAST,LOW,1,0,3,54,54,"Piece of cake","3dh0NZy8","Help Ayo Constable to fix their house",2,6,true
+9,FAST,LOW,2,0,3,56,56,"Piece of cake","vvCszE9E","Help Liên Sandford to clean their clothes",8,5,true
+9,FAST,LOW,3,0,3,64,64,"Piece of cake","sKSMjEMn","Help Tolga Turnbull to transport a magic clothes to plains in Ridgeport",15,4,true
+9,FAST,LOW,4,0,3,79,79,"Piece of cake","HDvpzcQT","Create an advertisement campaign for Margaret Gibbons to promote their potatoes based business",32,3,true
+9,FAST,HIGH,6,1,3,11,111,"Piece of cake","v3DhRupU","Escort Lissi Blackburn to meadow in Snowville where they can meet with their long lost beer mug",75,5,true
+9,FAST,HIGH,7,1,3,86,186,"Quite likely","Js7SmOba","Help Yannic Underwood to write their biographical novel about their difficulties with a deranged bucket",40,7,true
+9,FAST,HIGH,9,2,3,26,226,"Piece of cake","5Kkpbrzh","Steal pan delivery to Afra Kennard and share some of the profits with the people.",50,7,true
+9,FAST,LOW,10,2,3,76,276,"Walk in the park","GEGTPWQW","Help Ahuva Hallman to reach an agreement with Hene Bernard on the matters of disputed house",7,4,true
+9,FAST,LOW,11,2,3,83,283,"Piece of cake","gzuuBRna","Help Netanyahu Derrickson to sell an unordinary pot on the local market",28,3,true
+9,FAST,HIGH,13,3,3,11,311,"Gamble","4TOvmmbB","Help Ese Bernard to write their biographical novel about their difficulties with a deranged chariot",44,6,false
+9,FAST,LOW,14,3,2,11,311,"Piece of cake","X7UPWDgG","Create an advertisement campaign for Chandra Atwater to promote their pan based business",34,4,true
+9,FAST,LOW,15,3,2,45,345,"Quite likely","vAT0ewa3","Help Amen Fairbairn to write their biographical novel about their difficulties with a deranged chariot",40,7,true
+9,FAST,LOW,16,3,2,85,385,"Rather detrimental","0QtDaHPJ","Rescue Synnøve Osbourne from pasture in Orrinsheen where they are attacked by angry chariot",27,5,false
+9,FAST,LOW,18,3,2,35,385,"Quite likely","yBpmiCVj","Help Frøya Sniders to write their biographical novel about their difficulties with a deranged wagon",44,6,false
+9,FAST,HIGH,19,3,1,35,385,"Piece of cake","CBpQ7JGO","Escort Amabilia Maynard to grassland in Thorngarden where they can meet with their long lost pot",87,4,true
+9,FAST,HIGH,21,3,2,72,472,"Quite likely","LaKz51sk","Help defending pasture in Whitedeen from the intruders",146,7,true
+9,FAST,LOW,24,5,2,18,618,"Hmmm....","GuoftSk8","Rescue Joaquim Ecclestone from steppe in Sharpport where they are attacked by angry house",22,4,false
+9,FAST,LOW,25,5,1,18,618,"Piece of cake","u0D8m4by","Rescue Elisabete L'hernault from peninsula in Fangdale where they are attacked by angry bucket",20,6,true
+9,FAST,NA,26,5,1,38,638,"Sure thing","2kseYre4","Help defending field in Fallwell from the intruders",156,7,true
+9,FAST,HIGH,29,6,2,44,794,"Piece of cake","1kj9M66U","Help defending grassland in Voidton from the intruders",168,6,true
+9,FAST,LOW,30,6,2,212,962,"Piece of cake","qpeJnFjU","Help defending pasture in Strongwell from the intruders",134,6,true
+9,FAST,NA,31,6,2,346,1096,"Piece of cake","BiRhAJwu","Help defending plains in Fallcrest from the intruders",167,4,true
+9,FAST,NA,32,6,2,513,1263,"Walk in the park","ZMSur4n7","Help defending peninsula in Voidwell from the intruders",138,7,true
+9,FAST,HIGH,33,6,2,651,1401,"Gamble","8sdtDHQO","Investigate Khasan Brassington and find out their relation to the magic chariot.",242,3,false
+9,FAST,HIGH,35,6,2,601,1401,"Piece of cake","Q8hRXmj5","Help defending steppe in Blackfire from the intruders",158,7,true
+9,FAST,HIGH,36,6,2,759,1559,"Piece of cake","5ppoGZSA","Help defending village in Dornville from the intruders",163,7,true
+9,FAST,HIGH,37,6,2,922,1722,"Hmmm....","HkiaKKzy","Help defending pasture in Darkbane from the intruders",181,3,true
+9,FAST,HIGH,38,6,2,1103,1903,"Piece of cake","MzHXqjli","Help defending savannah in Razorwatch from the intruders",134,4,true
+9,FAST,LOW,39,6,2,1237,2037,"Risky","4qQXcyEO","Help defending grassland in Towerhole from the intruders",106,4,false
+9,FAST,LOW,41,6,2,1187,2037,"Piece of cake","d25EDWe8","Help defending meadow in Southdean from the intruders",114,4,true
+9,FAST,NA,42,6,2,1301,2151,"Walk in the park","rq6sA75b","Help defending meadow in Voiddrone from the intruders",146,5,true
+9,FAST,LOW,43,6,2,1447,2297,"Playing with fire","OCRX5k0Z","Help defending grassland in Whitemountain from the intruders",102,6,true
+9,FAST,HIGH,44,6,2,1549,2399,"Risky","Sr3F5Msi","Help defending peninsula in Burnswell from the intruders",117,6,true
+9,FAST,LOW,45,6,2,1666,2516,"Walk in the park","TalAjbqY","Help defending foggy riverside in Orrincaster from the intruders",123,6,true
+9,FAST,LOW,46,6,2,1789,2639,"Quite likely","2eNsisdT","Help defending steppe in Redwhyte from the intruders",123,4,true
+9,FAST,LOW,47,6,2,1912,2762,"Gamble","9O3icv9X","Help defending hill in Burnsgannon from the intruders",110,7,true
+9,FAST,LOW,48,6,2,2022,2872,"Quite likely","JAaJiad0","Help defending woodland in Eastcrest from the intruders",130,7,true
+9,FAST,NA,49,6,2,2152,3002,"Walk in the park","WnVfauHG","Help defending forest in Pendinny from the intruders",131,3,true
+10,NONE,HIGH,0,0,3,0,0,"Piece of cake","az7J9PHz","Escort 'ismat Rowland to peninsula in Oldwater where they can meet with their long lost horse",60,7,true
+10,NONE,HIGH,1,0,3,60,60,"Piece of cake","TsKK5haK","Create an advertisement campaign for Christoph Hargrave to promote their pan based business",40,6,true
+10,NONE,LOW,2,0,3,100,100,"Piece of cake","FLZqbYZg","Help Ceolmund Rennoll to fix their horse",1,5,true
+10,NONE,LOW,3,0,3,101,101,"Piece of cake","xblHeWq4","Help Wilhelmus Goody to clean their dog",5,4,true
+10,NONE,LOW,4,0,3,106,106,"Piece of cake","Se1tcE5T","Help Tupaarnaq Stevenson to clean their beer mug",8,3,true
+10,NONE,HIGH,5,0,3,114,114,"Sure thing","zryzHO6b","Steal pot delivery to Nicanor Granville and share some of the profits with the people.",53,7,true
+10,NONE,LOW,6,0,3,167,167,"Piece of cake","uT1RMneJ","Steal squirrel delivery to Trish Oliverson and share some of the profits with the people.",41,7,true
+10,NONE,LOW,7,0,3,208,208,"Walk in the park","SrbBC0yc","Help Namrata Brynjólfsson to clean their beer mug",3,4,true
+10,NONE,LOW,8,0,3,211,211,"Walk in the park","dEkYeOQz","Create an advertisement campaign for Amen Scarlett to promote their horse based business",31,7,true
+10,NONE,HIGH,9,0,3,242,242,"Quite likely","CMeVSll2","Escort Arlen Haylock to steppe in Darkville where they can meet with their long lost house",83,5,true
+10,NONE,LOW,10,0,3,325,325,"Hmmm....","qt3P2WuA","Help Siegward Clinton to transport a magic bucket to steppe in Southmire",13,4,true
+10,NONE,HIGH,11,0,3,338,338,"Piece of cake","VqRXM4cF","Create an advertisement campaign for Noelia Ledford to promote their chariot based business",36,7,true
+10,NONE,HIGH,12,0,3,374,374,"Sure thing","IxeU1I7O","Steal water delivery to Upasana Romilly and share some of the profits with the people.",61,5,true
+10,NONE,NA,13,0,3,435,435,"Sure thing","UtVz5bc1","Escort Gioele Britton to plains in Thorncawl where they can meet with their long lost weed",50,3,true
+10,NONE,HIGH,14,0,3,485,485,"Hmmm....","foLKFgOR","Escort Deep Hibbert to village in Towercrest where they can meet with their long lost wagon",71,7,true
+10,NONE,LOW,15,0,3,556,556,"Gamble","KeMrgHyE","Help Fionnbharr Kingston to sell an unordinary cat on the local market",26,5,true
+10,NONE,LOW,16,0,3,582,582,"Rather detrimental","TWfEmpDv","Help Meinard Reynell to sell an unordinary beer mug on the local market",19,5,true
+10,NONE,LOW,17,0,3,601,601,"Quite likely","WNxI3ZJt","Escort Trendafilka Michaelson to pasture in Lowecawl where they can meet with their long lost cat",66,6,true
+10,NONE,LOW,18,0,3,667,667,"Piece of cake","3nlypYEm","Escort Ladislas Jackson to meadow in Dorndinny where they can meet with their long lost pot",59,6,true
+10,NONE,NA,19,0,3,726,726,"Piece of cake","nu9WzArw","Steal potatoes delivery to Erich Vincent and share some of the profits with the people.",60,6,true
+10,NONE,NA,20,0,3,786,786,"Hmmm....","LsEvG6Qj","Create an advertisement campaign for Agnès Leonardson to promote their chariot based business",38,4,true
+10,NONE,LOW,21,0,3,824,824,"Walk in the park","W3p5ynPC","Help defending savannah in Razorbury from the intruders",99,7,false
+10,NONE,LOW,22,0,2,824,824,"Piece of cake","hq3O8BLA","Help defending field in Bloodmountain from the intruders",93,7,false
+10,NONE,NA,24,0,2,774,824,"Piece of cake","UTLTnd6B","Help defending village in Metalgill from the intruders",120,4,true
+10,NONE,NA,25,0,2,894,944,"Walk in the park","5cjSRiHx","Help defending meadow in Frostfire from the intruders",114,3,true
+10,NONE,NA,26,0,2,1008,1058,"Risky","EKCxoUMn","Help defending thrift shoppe in Olddean from the intruders",105,5,true
+10,NONE,NA,27,0,2,1113,1163,"Walk in the park","7mj6oSHg","Help defending savannah in Thornkeep from the intruders",105,7,true
+10,NONE,HIGH,28,0,2,1218,1268,"Risky","MKhY88RH","Investigate Kotone Collins and find out their relation to the magic dog.",134,3,true
+10,NONE,HIGH,29,0,2,1352,1402,"Piece of cake","n6XMDnp5","Help defending plains in Scaleshore from the intruders",110,6,true
+10,NONE,HIGH,30,0,2,1462,1512,"Piece of cake","vtvqFR4y","Help defending pasture in Dorndeen from the intruders",105,5,true
+10,NONE,HIGH,31,0,2,1567,1617,"Quite likely","trw5Dy9X","Investigate Siniša Cummins and find out their relation to the magic pot.",159,3,true
+10,NONE,HIGH,32,0,2,1726,1776,"Piece of cake","0DHXXezR","Help defending plains in Fernscale from the intruders",93,5,true
+10,NONE,LOW,33,0,2,1819,1869,"Walk in the park","E5Yp4BsU","Help defending savannah in Scalemire from the intruders",110,7,true
+10,NONE,NA,34,0,2,1929,1979,"Sure thing","JqHKkcDB","Help defending pasture in Newshore from the intruders",104,7,true
+10,NONE,HIGH,35,0,2,2033,2083,"Piece of cake","hwJVFh67","Help defending meadow in Pendean from the intruders",109,7,true
+10,NONE,LOW,36,0,2,2142,2192,"Piece of cake","1BV2EQeF","Help defending pasture in Everfirth from the intruders",81,7,true
+10,NONE,LOW,37,0,2,2223,2273,"Hmmm....","JKn3n0Vi","Help defending meadow in Razorton from the intruders",76,6,true
+10,NONE,HIGH,38,0,2,2299,2349,"Gamble","y3uolQo8","Help defending meadow in Oldshaw from the intruders",111,6,true
+10,NONE,HIGH,39,0,2,2410,2460,"Piece of cake","zFnWOHeQ","Help defending thrift shoppe in Burnsham from the intruders",101,3,true
+10,NONE,HIGH,40,0,2,2511,2561,"Walk in the park","AU5jcSgj","Help defending thrift shoppe in Masonpine from the intruders",101,7,true
+10,NONE,HIGH,41,0,2,2612,2662,"Risky","IrV9Yjt9","Help defending thrift shoppe in Millerhill from the intruders",107,7,false
+10,NONE,LOW,43,0,2,2562,2662,"Piece of cake","SLQywew3","Help defending savannah in Voidmoore from the intruders",72,3,true
+10,NONE,LOW,44,0,2,2634,2734,"Quite likely","7hMb99Di","Help defending woodland in Eastspring from the intruders",70,7,true
+10,NONE,HIGH,45,0,2,2704,2804,"Suicide mission","P6wdjCCI","Help defending well in Whitepeak from the intruders",84,6,false
+10,NONE,HIGH,47,0,2,2654,2804,"Hmmm....","n0hzBm98","Help defending thicket in Razorchester from the intruders",86,6,false
+10,NONE,LOW,49,0,2,2604,2804,"Risky","yb6lLFL0","Help defending manor in Metalford from the intruders",49,3,false
+11,FAST,LOW,0,0,3,0,0,"Piece of cake","w6i0HE5f","Help Chiranjivi Hadaway to fix their weed",8,7,true
+11,FAST,LOW,1,0,3,8,8,"Piece of cake","V7BGMTZS","Help Edda Traylor to reach an agreement with Jasvinder Raynerson on the matters of disputed squirrel",10,6,true
+11,FAST,LOW,2,0,3,18,18,"Piece of cake","o2rBgbg7","Help Jen Forester to transport a magic turnips to meadow in Northmere",20,7,true
+11,FAST,LOW,3,0,3,38,38,"Walk in the park","wkK65vwx","Help Taniqua Kjartansdóttir to fix their pan",3,4,true
+11,FAST,HIGH,4,0,3,41,41,"Walk in the park","BZAkxHkj","Create an advertisement campaign for Bonnie Haroldson to promote their chariot based business",39,3,true
+11,FAST,NA,5,0,3,80,80,"Sure thing","c6J3pJDf","Steal water delivery to Titiana Whinery and share some of the profits with the people.",47,6,true
+11,FAST,LOW,7,1,3,27,127,"Piece of cake","QhDPeSQN","Help Hiawatha Cantrell to transport a magic beer mug to steppe in Oldshore",13,6,true
+11,FAST,HIGH,8,1,3,40,140,"Sure thing","ipmH3suO","Steal bucket delivery to Liudvikas Linwood and share some of the profits with the people.",48,6,true
+11,FAST,LOW,9,1,3,88,188,"Piece of cake","C87qdaSP","Create an advertisement campaign for Kean Traylor to promote their sheep based business",25,5,true
+11,FAST,LOW,11,2,3,13,213,"Sure thing","4Nj2qpaB","Help Seraphina Normanson to reach an agreement with Cahya Baldrick on the matters of disputed pot",10,4,true
+11,FAST,HIGH,12,2,3,23,223,"Hmmm....","npZDs2Qw","Rescue Theotimos Walmsley from plains in Northdale where they are attacked by angry horse",37,5,false
+11,FAST,LOW,13,2,2,23,223,"Hmmm....","bQoyOolT","Help Günther Gorbold to transport a magic turnips to plains in Newdrone",17,3,false
+11,FAST,HIGH,14,2,1,23,223,"Walk in the park","goFaI1A3","Steal weed delivery to Agnes Forrest and share some of the profits with the people.",60,7,true
+11,FAST,LOW,16,2,2,33,283,"Walk in the park","kA90hzRe","Help Nere Hargrave to write their biographical novel about their difficulties with a deranged chariot",32,5,true
+11,FAST,HIGH,17,2,2,65,315,"Rather detrimental","kaTnHeZL","Help Jarmo Haylock to write their biographical novel about their difficulties with a deranged dog",48,4,false
+11,FAST,HIGH,19,2,2,15,315,"Walk in the park","Uob1xI0Z","Escort Mairwen Rowbottom to plains in Voidkeep where they can meet with their long lost pan",94,7,true
+11,FAST,NA,21,3,2,9,409,"Piece of cake","dRUT2EZm","Rescue Jurica Daniell from pasture in Scalefair where they are attacked by angry pot",47,6,true
+11,FAST,HIGH,22,3,2,56,456,"Gamble","wkhpgqSA","Escort Carol Stephens to steppe in Penburg where they can meet with their long lost water",82,5,true
+11,FAST,HIGH,24,4,2,38,538,"Quite likely","XF1bQ1BC","Rescue Tallulah Dickinson from savannah in Falldean where they are attacked by angry pot",27,6,true
+11,FAST,NA,25,4,2,65,565,"Piece of cake","PxdlJZqu","Escort Webster Hawkins to grassland in Fallmountain where they can meet with their long lost dog",100,4,false
+11,FAST,HIGH,27,4,2,15,565,"Walk in the park","c9T3iaX1","Help defending plains in Lighthole from the intruders",148,6,true
+11,FAST,LOW,29,5,2,63,713,"Risky","6nKNtC5O","Rescue Emmalyn Threston from village in Towerville where they are attacked by angry dog",32,6,false
+11,FAST,LOW,31,5,2,13,713,"Walk in the park","ovxjNRfP","Rescue Maryla Stevenson from peninsula in Whitewater where they are attacked by angry clothes",25,5,true
+11,FAST,LOW,32,5,2,38,738,"Piece of cake","OBUBSErG","Help defending meadow in Fallbane from the intruders",122,6,true
+11,FAST,LOW,34,6,2,60,860,"Piece of cake","ASWvBMMs","Help defending village in Ferncaster from the intruders",123,5,true
+11,FAST,HIGH,35,6,2,183,983,"Piece of cake","5ceUqMFt","Help defending steppe in Whiteheart from the intruders",149,6,true
+11,FAST,LOW,36,6,2,332,1132,"Risky","rJ2OQv8M","Help defending meadow in Stronggannon from the intruders",117,7,false
+11,FAST,LOW,38,6,2,282,1132,"Walk in the park","O5CGNKr3","Help defending grassland in Newdeen from the intruders",130,6,true
+11,FAST,HIGH,39,6,2,412,1262,"Risky","Z24gj9bD","Help defending plains in Northscale from the intruders",128,4,true
+11,FAST,HIGH,40,6,2,540,1390,"Quite likely","etakMav2","Help defending savannah in Newseed from the intruders",146,7,true
+11,FAST,NA,41,6,2,686,1536,"Walk in the park","r5CUi8YW","Help defending field in Scaleheart from the intruders",147,3,true
+11,FAST,LOW,42,6,2,833,1683,"Gamble","v2t2HriU","Help defending peninsula in Newchester from the intruders",115,5,true
+11,FAST,HIGH,43,6,2,948,1798,"Hmmm....","o9sB63L1","Help defending thrift shoppe in Snowmire from the intruders",128,5,true
+11,FAST,HIGH,44,6,2,1076,1926,"Quite likely","j4NFvhLH","Help defending steppe in Ridgegannon from the intruders",142,5,true
+11,FAST,LOW,45,6,2,1218,2068,"Quite likely","2fNDEXXa","Help defending island in Southwell from the intruders",88,7,true
+11,FAST,HIGH,46,6,2,1306,2156,"Quite likely","wyVUAr6U","Help defending village in Ravenwatch from the intruders",126,3,true
+11,FAST,HIGH,47,6,2,1432,2282,"Quite likely","jMjpiRjh","Help defending thicket in Ferndeen from the intruders",126,6,false
+11,FAST,HIGH,49,6,2,1382,2282,"Quite likely","mbHMmV5R","Help defending hill in Eastfirth from the intruders",125,4,true
+12,NONE,LOW,0,0,3,0,0,"Gamble","wEg0E8Rh","Create an advertisement campaign for Wubbe Gardner to promote their squirrel based business",32,7,false
+12,NONE,HIGH,1,0,2,0,0,"Gamble","haXGwP1J","Escort Ettie Presley to thrift shoppe in Sharpwatch where they can meet with their long lost turnips",65,6,true
+12,NONE,LOW,2,0,2,65,65,"Hmmm....","Zf4xFDAB","Help Tòmas Kingsley to fix their chariot",8,5,false
+12,NONE,HIGH,4,0,2,15,65,"Walk in the park","fpnIJgBI","Escort Tyra Walters to plains in Northspring where they can meet with their long lost beer mug",66,6,true
+12,NONE,NA,5,0,2,81,131,"Walk in the park","UCJtm9ab","Help Ffraid Southers to reach an agreement with Patrizio Tittensor on the matters of disputed potatoes",11,4,true
+12,NONE,NA,6,0,2,92,142,"Piece of cake","7IFVU9fb","Help Malena Ashworth to sell an unordinary wagon on the local market",30,7,true
+12,NONE,LOW,7,0,2,122,172,"Piece of cake","5hBQp6q4","Help Terje Addison to transport a magic water to steppe in Greyscale",7,7,true
+12,NONE,LOW,8,0,2,129,179,"Piece of cake","GaYZr17K","Help Octavia Hibbert to transport a magic water to plains in Loweloft",20,6,true
+12,NONE,LOW,9,0,2,149,199,"Piece of cake","vNCazoer","Create an advertisement campaign for Alpha Sanford to promote their chicken based business",25,7,true
+12,NONE,LOW,10,0,2,174,224,"Piece of cake","kFfWOxgW","Create an advertisement campaign for Fido Pemberton to promote their turnips based business",34,4,true
+12,NONE,HIGH,11,0,2,208,258,"Rather detrimental","817qBqyQ","Create an advertisement campaign for Rüşen Saunders to promote their chicken based business",39,3,false
+12,NONE,NA,13,0,2,158,258,"Sure thing","DsStft3c","Steal water delivery to Eevi Kipling and share some of the profits with the people.",64,6,true
+12,NONE,HIGH,14,0,2,222,322,"Rather detrimental","do3kJEvp","Create an advertisement campaign for Élise Stainthorpe to promote their sheep based business",27,4,false
+12,NONE,HIGH,16,0,2,172,322,"Piece of cake","Py48lrAo","Steal house delivery to Dor Boothman and share some of the profits with the people.",60,6,true
+12,NONE,LOW,17,0,2,232,382,"Piece of cake","C2D2x5TR","Create an advertisement campaign for Æþelræd D'airelle to promote their water based business",22,4,true
+12,NONE,LOW,18,0,2,254,404,"Suicide mission","ZtAiDVGA","Create an advertisement campaign for Prokopiy Mathews to promote their pan based business",17,7,false
+12,NONE,LOW,20,0,2,204,404,"Hmmm....","D0j0JaoN","Escort Lilijana Stock to meadow in Newchester where they can meet with their long lost pan",71,6,true
+12,NONE,NA,21,0,2,275,475,"Sure thing","ix1bAONu","Help defending steppe in Razorburg from the intruders",99,7,true
+12,NONE,NA,22,0,2,374,574,"Piece of cake","cjVSQtqa","Help defending field in Whitedeen from the intruders",119,7,true
+12,NONE,NA,23,0,2,493,693,"Piece of cake","Xv2iSCz0","Escort Yoshiko Richardson to grassland in Greypine where they can meet with their long lost beer mug",68,7,true
+12,NONE,LOW,24,0,2,561,761,"Piece of cake","XuQLYBzT","Help defending thrift shoppe in Penhill from the intruders",75,7,true
+12,NONE,LOW,25,0,2,636,836,"Gamble","FOEWIFBI","Escort Ormonde Pickering to field in Lightport where they can meet with their long lost chicken",58,4,false
+12,NONE,LOW,27,0,2,586,836,"Piece of cake","KRGSmoLZ","Help defending plains in Fernbane from the intruders",96,4,true
+12,NONE,LOW,28,0,2,682,932,"Piece of cake","XabOQMST","Help defending steppe in Fernseed from the intruders",107,3,true
+12,NONE,NA,29,0,2,789,1039,"Sure thing","TMvsUPlJ","Help defending peninsula in Millerdeen from the intruders",88,7,true
+12,NONE,HIGH,30,0,2,877,1127,"Quite likely","m5Rao4Uk","Investigate Coeus Pierson and find out their relation to the magic horse.",133,3,true
+12,NONE,HIGH,31,0,2,1010,1260,"Rather detrimental","tJ0Td3cC","Help defending steppe in Dovemountain from the intruders",114,7,false
+12,NONE,HIGH,33,0,2,960,1260,"Walk in the park","xPd7a68N","Help defending thrift shoppe in Fernhole from the intruders",100,4,true
+12,NONE,LOW,34,0,2,1060,1360,"Piece of cake","7auC4H0s","Help defending steppe in Blackwater from the intruders",86,7,true
+12,NONE,LOW,35,0,2,1146,1446,"Risky","xTphhjHa","Help defending plains in Fernmountain from the intruders",81,3,true
+12,NONE,NA,36,0,2,1227,1527,"Piece of cake","Jp4lqC3L","Help defending pasture in Towerdrone from the intruders",99,5,false
+12,NONE,LOW,38,0,2,1177,1527,"Quite likely","ew00DyQ4","Help defending plains in Redbury from the intruders",72,7,true
+12,NONE,HIGH,39,0,2,1249,1599,"Hmmm....","ylN4j9Bq","Help defending plains in Ferndrone from the intruders",109,7,true
+12,NONE,HIGH,40,0,2,1358,1708,"Hmmm....","uWlO0Xg6","Help defending peninsula in Metalgill from the intruders",90,6,true
+12,NONE,LOW,41,0,2,1448,1798,"Playing with fire","f7oCARIJ","Help defending steppe in Redfire from the intruders",59,6,false
+12,NONE,LOW,43,0,2,1398,1798,"Playing with fire","ofIqJfY3","Help defending meadow in Olddeen from the intruders",64,6,false
+12,NONE,LOW,45,0,2,1348,1798,"Playing with fire","iiquFSaB","Help defending thicket in Darkpool from the intruders",59,6,true
+12,NONE,LOW,46,0,2,1407,1857,"Risky","iNxLVIsJ","Help defending thrift shoppe in Eastloft from the intruders",82,3,false
+12,NONE,HIGH,48,0,2,1357,1857,"Rather detrimental","HO8HegcI","Help defending cave in Ravendinny from the intruders",80,3,false
+13,FAST,LOW,0,0,3,0,0,"Piece of cake","DbIWq98e","Help Mélisande Þórsson to clean their weed",3,7,true
+13,FAST,LOW,1,0,3,3,3,"Piece of cake","GQ6LPA6x","Help Meritxell Mínervudóttir to fix their potatoes",9,6,true
+13,FAST,LOW,2,0,3,12,12,"Piece of cake","c79qhiNk","Help Carey Lauderman to reach an agreement with Haidar Lesassier on the matters of disputed clothes",11,7,true
+13,FAST,HIGH,3,0,3,23,23,"Piece of cake","42pSL0rW","Steal turnips delivery to Ern Townsend and share some of the profits with the people.",73,4,true
+13,FAST,HIGH,4,0,3,96,96,"Sure thing","0Yhl7XIB","Steal dog delivery to Clodovicus Clifton and share some of the profits with the people.",55,3,true
+13,FAST,NA,6,1,3,51,151,"Piece of cake","DmZNyL53","Help Limbani Thorburn to clean their cat",9,4,true
+13,FAST,LOW,7,1,3,60,160,"Hmmm....","B9PYE7A6","Help Eniola Jónsson to transport a magic clothes to pasture in Dovefire",10,4,true
+13,FAST,HIGH,8,1,3,70,170,"Quite likely","AnduDloK","Escort Catia Jardine to pasture in Voiddale where they can meet with their long lost pan",73,6,true
+13,FAST,LOW,10,2,3,43,243,"Piece of cake","scpgVHqO","Help Lucyna Michaelson to reach an agreement with Nunzio Fairclough on the matters of disputed bucket",8,4,true
+13,FAST,HIGH,11,2,3,51,251,"Piece of cake","RHBISfPg","Create an advertisement campaign for Marilena Traviss to promote their pan based business",33,4,true
+13,FAST,LOW,12,2,3,84,284,"Piece of cake","QGgfwhb2","Create an advertisement campaign for Melody Wakefield to promote their beer mug based business",31,7,true
+13,FAST,LOW,14,3,3,15,315,"Piece of cake","GU3NNFA7","Rescue Lynda Bannister from plains in Evertown where they are attacked by angry bucket",19,7,true
+13,FAST,LOW,15,3,3,34,334,"Hmmm....","8NFcxlhb","Help Pero Merchant to write their biographical novel about their difficulties with a deranged potatoes",53,7,true
+13,FAST,LOW,16,3,3,87,387,"Hmmm....","kPLknA0o","Help Mauri Christopherson to write their biographical novel about their difficulties with a deranged horse",36,7,true
+13,FAST,LOW,18,4,3,23,423,"Risky","Fi9xre1a","Help Zeferino Pressley to write their biographical novel about their difficulties with a deranged potatoes",23,3,true
+13,FAST,HIGH,19,4,3,46,446,"Walk in the park","dHmI499v","Steal turnips from Lizaveta Spencer",111,5,false
+13,FAST,NA,20,4,2,46,446,"Piece of cake","3UHJm2hg","Escort Kazimierz Fitzroy to field in Darkbury where they can meet with their long lost house",91,3,true
+13,FAST,LOW,22,5,2,37,537,"Hmmm....","WBy9CBgW","Escort Anelie Martell to village in Oldshore where they can meet with their long lost chicken",69,6,true
+13,FAST,LOW,24,6,2,6,606,"Walk in the park","BYWSTHV2","Rescue Damocles Mathers from field in Whitepeak where they are attacked by angry pan",27,4,true
+13,FAST,HIGH,25,6,2,33,633,"Hmmm....","81KbnRpP","Steal bucket from Deniece Rollins",133,4,true
+13,FAST,NA,26,6,2,166,766,"Sure thing","Cn53ZtmB","Help defending thrift shoppe in Redwater from the intruders",174,6,true
+13,FAST,NA,27,6,2,340,940,"Sure thing","kQEA4RT9","Help defending village in Millerwatch from the intruders",176,7,true
+13,FAST,HIGH,28,6,2,516,1116,"Walk in the park","x5Zz1c6v","Escort Ragnheiður Blackman to grassland in Eastchester where they can meet with their long lost pan",128,3,true
+13,FAST,LOW,29,6,2,644,1244,"Piece of cake","BCtmPpOC","Rescue Mattityahu Tirrell from village in Westpine where they are attacked by angry squirrel",40,7,true
+13,FAST,LOW,30,6,2,684,1284,"Quite likely","RODUVTKw","Rescue Ihsan Fairclough from field in Razorville where they are attacked by angry clothes",27,5,false
+13,FAST,HIGH,32,6,2,634,1284,"Quite likely","dSGNZa5u","Help defending savannah in Frostcrest from the intruders",179,7,true
+13,FAST,LOW,33,6,2,813,1463,"Piece of cake","QIMCY0G6","Help defending field in Southshaw from the intruders",126,4,true
+13,FAST,LOW,34,6,2,939,1589,"Quite likely","Tms9FaEV","Help defending plains in Newcaster from the intruders",139,7,true
+13,FAST,LOW,35,6,2,1078,1728,"Piece of cake","50i1cCoS","Help defending grassland in Metalspring from the intruders",110,7,true
+13,FAST,HIGH,36,6,2,1188,1838,"Quite likely","2vpISgNM","Help defending meadow in Everseed from the intruders",160,7,false
+13,FAST,LOW,38,6,2,1138,1838,"Walk in the park","MtUrzHim","Help defending meadow in Westburg from the intruders",114,4,true
+13,FAST,HIGH,39,6,2,1252,1952,"Walk in the park","GZ6DcocJ","Help defending savannah in Redpeak from the intruders",150,7,true
+13,FAST,LOW,40,6,2,1402,2102,"Piece of cake","hb70kgHa","Help defending steppe in Bleakheart from the intruders",152,4,true
+13,FAST,HIGH,41,6,2,1554,2254,"Walk in the park","YzTXAUBe","Help defending peninsula in Newgill from the intruders",136,7,true
+13,FAST,LOW,42,6,2,1690,2390,"Walk in the park","ftHu4TB0","Help defending thrift shoppe in Southdrone from the intruders",114,7,true
+13,FAST,HIGH,43,6,2,1804,2504,"Walk in the park","fh1UloHc","Help defending grassland in Lowecawl from the intruders",126,7,true
+13,FAST,HIGH,44,6,2,1930,2630,"Quite likely","fSuCYYhS","Help defending meadow in Lowewell from the intruders",147,6,true
+13,FAST,LOW,45,6,2,2077,2777,"Piece of cake","N2GamEju","Help defending island in Oldmere from the intruders",118,6,true
+13,FAST,LOW,46,6,2,2195,2895,"Rather detrimental","wqq2ZUnM","Help defending hill in Metalhole from the intruders",106,7,false
+13,FAST,LOW,48,6,2,2145,2895,"Playing with fire","44ZuY4R8","Help defending manor in Towerpeak from the intruders",126,3,false
+14,NONE,HIGH,0,0,3,0,0,"Piece of cake","u7x3oPaA","Steal squirrel delivery to 'ismat Hadaway and share some of the profits with the people.",68,7,true
+14,NONE,HIGH,1,0,3,68,68,"Walk in the park","D8sqoNnV","Escort 'ismat Hathaway to savannah in Pendrone where they can meet with their long lost bucket",69,6,false
+14,NONE,LOW,2,0,2,68,68,"Gamble","5Z1FEny6","Help Łucja Strange to fix their bucket",10,5,true
+14,NONE,LOW,3,0,2,78,78,"Walk in the park","Q4cTnNeC","Help Caelia Burrell to fix their pot",8,5,true
+14,NONE,LOW,4,0,2,86,86,"Piece of cake","E4w9uqNF","Help Sheree Kitchens to clean their chicken",8,3,true
+14,NONE,NA,5,0,2,94,94,"Piece of cake","ANkvtQbl","Help Deangelo Victors to clean their cat",9,5,true
+14,NONE,NA,6,0,2,103,103,"Walk in the park","12TvABuu","Help Nur Martinson to write their biographical novel about their difficulties with a deranged horse",23,5,true
+14,NONE,HIGH,7,0,2,126,126,"Quite likely","5IgIJT2j","Escort Kyveli Guðmundsdóttir to grassland in Fernspring where they can meet with their long lost bucket",90,7,true
+14,NONE,HIGH,8,0,2,216,216,"Piece of cake","BM6P9QBe","Escort Grigol Gardner to steppe in Lightscale where they can meet with their long lost sheep",68,6,true
+14,NONE,LOW,9,0,2,284,284,"Hmmm....","FQOdiez4","Help Shapur Westcott to sell an unordinary sheep on the local market",20,5,false
+14,NONE,HIGH,11,0,2,234,284,"Hmmm....","2IniCm75","Escort Pinar Wendler to peninsula in Strongchester where they can meet with their long lost clothes",53,4,false
+14,NONE,NA,13,0,2,184,284,"Piece of cake","OZs8fKhO","Help Kleon Threston to write their biographical novel about their difficulties with a deranged chicken",38,6,true
+14,NONE,HIGH,14,0,2,222,322,"Hmmm....","VwrAKjjC","Help Nienke Breckenridge to write their biographical novel about their difficulties with a deranged wagon",41,7,true
+14,NONE,LOW,15,0,2,263,363,"Hmmm....","UnZzP17A","Create an advertisement campaign for Odysseus Giel to promote their water based business",18,6,true
+14,NONE,HIGH,16,0,2,281,381,"Piece of cake","TzTjOpuR","Steal squirrel delivery to Uttara Robertson and share some of the profits with the people.",54,7,true
+14,NONE,LOW,17,0,2,335,435,"Piece of cake","otXRgRgy","Create an advertisement campaign for Dagrun Overton to promote their turnips based business",26,6,true
+14,NONE,NA,18,0,2,361,461,"Piece of cake","YmSJKE7a","Help Kaimana Armstrong to sell an unordinary squirrel on the local market",34,3,true
+14,NONE,NA,19,0,2,395,495,"Quite likely","0nI81Hax","Escort Joab Cropper to thrift shoppe in Frostham where they can meet with their long lost cat",61,6,true
+14,NONE,NA,20,0,2,456,556,"Gamble","vJ7Y6Sci","Help Perdita Hampson to write their biographical novel about their difficulties with a deranged pan",29,4,false
+14,NONE,LOW,22,0,2,406,556,"Walk in the park","thz0kgzU","Help defending pasture in Highdrone from the intruders",106,7,true
+14,NONE,HIGH,23,0,2,512,662,"Walk in the park","pNKsCZTo","Help defending pasture in Loweham from the intruders",123,5,true
+14,NONE,LOW,24,0,2,635,785,"Playing with fire","uQCR4N61","Escort Cengi̇z Underhill to thrift shoppe in Whitehole where they can meet with their long lost weed",60,6,false
+14,NONE,NA,26,0,2,585,785,"Piece of cake","6ARERa6U","Help defending plains in Dornmoore from the intruders",78,7,true
+14,NONE,NA,27,0,2,663,863,"Sure thing","wDGswN8c","Help defending savannah in Lowehole from the intruders",102,7,true
+14,NONE,NA,28,0,2,765,965,"Piece of cake","iVE4fJ4B","Help defending field in Dornhole from the intruders",109,6,true
+14,NONE,HIGH,29,0,2,874,1074,"Risky","Htm4KJXj","Investigate Doireann Phillips and find out their relation to the magic dog.",129,3,false
+14,NONE,HIGH,31,0,2,824,1074,"Risky","iehFPmUb","Investigate Menashsheh Freeman and find out their relation to the magic squirrel.",125,3,true
+14,NONE,LOW,32,0,2,949,1199,"Suicide mission","F1HA6TPH","Help defending peninsula in Bleakkeep from the intruders",73,7,false
+14,NONE,HIGH,34,0,2,899,1199,"Walk in the park","fnD7qHnZ","Help defending village in Southhill from the intruders",99,6,true
+14,NONE,LOW,35,0,2,998,1298,"Risky","1UkYbIB3","Help defending village in Southtown from the intruders",78,7,false
+14,NONE,LOW,37,0,2,948,1298,"Suicide mission","OlQpZ2Wr","Help defending thrift shoppe in Fallmountain from the intruders",81,6,true
+14,NONE,HIGH,38,0,2,1029,1379,"Piece of cake","e6gekTxt","Help defending thrift shoppe in Millerhill from the intruders",91,4,true
+14,NONE,HIGH,39,0,2,1120,1470,"Walk in the park","eyeAgt2q","Help defending grassland in Lightdale from the intruders",91,4,true
+14,NONE,HIGH,40,0,2,1211,1561,"Quite likely","PyepgjDz","Help defending grassland in Masonburg from the intruders",90,5,true
+14,NONE,LOW,41,0,2,1301,1651,"Piece of cake","nWf2rffi","Help defending grassland in Voidport from the intruders",73,7,true
+14,NONE,LOW,42,0,2,1374,1724,"Quite likely","H6BPWIW7","Help defending savannah in Voidgarden from the intruders",80,5,true
+14,NONE,HIGH,43,0,2,1454,1804,"Rather detrimental","sqpYYspA","Help defending thrift shoppe in Frostshore from the intruders",93,7,false
+14,NONE,HIGH,45,0,2,1404,1804,"Walk in the park","dkRLHUiX","Help defending field in Razorshaw from the intruders",94,4,false
+14,NONE,HIGH,47,0,2,1354,1804,"Gamble","CdrwFnMc","Help defending island in Frostham from the intruders",82,4,false
+14,NONE,LOW,49,0,2,1304,1804,"Playing with fire","1csWezcj","Help defending rocky plains in Newshore from the intruders",86,6,false
+15,FAST,HIGH,0,0,3,0,0,"Piece of cake","YsFofem4","Create an advertisement campaign for Malaika Spalding to promote their chariot based business",45,7,true
+15,FAST,LOW,1,0,3,45,45,"Walk in the park","r4Zom1wU","Help Žarko Snyders to reach an agreement with Ilike Cantrell on the matters of disputed sheep",6,6,true
+15,FAST,LOW,2,0,3,51,51,"Walk in the park","yuVJagWA","Help Sionann Kjartansdóttir to clean their clothes",8,6,true
+15,FAST,HIGH,3,0,3,59,59,"Piece of cake","VsVBBVNR","Help Einarr Edduson to transport a magic beer mug to plains in Thornsheen",13,4,true
+15,FAST,LOW,4,0,3,72,72,"Walk in the park","fiyi6983","Help Buck Christison to reach an agreement with Judocus Hawkins on the matters of disputed potatoes",9,5,true
+15,FAST,HIGH,5,0,3,81,81,"Walk in the park","dpRpSiKy","Escort Edit Wembley to thrift shoppe in Northkeep where they can meet with their long lost bucket",79,7,false
+15,FAST,NA,6,0,2,81,81,"Sure thing","at0zahTa","Help Guto Bancroft to sell an unordinary weed on the local market",17,4,true
+15,FAST,LOW,7,0,2,98,98,"Piece of cake","epAlU8gP","Help Sherif Huldudóttir to reach an agreement with Sjoerd Wootton on the matters of disputed sheep",12,7,true
+15,FAST,LOW,9,1,2,10,110,"Piece of cake","zuy7ZGyb","Create an advertisement campaign for Violette Threston to promote their bucket based business",27,4,true
+15,FAST,LOW,10,1,2,37,137,"Sure thing","NoYfpF4A","Help Esmond Paternoster to reach an agreement with Sawyl Mottershead on the matters of disputed cat",13,4,true
+15,FAST,LOW,11,1,2,50,150,"Sure thing","JHalwWyO","Help Adino Branson to reach an agreement with Yissakhar Millard on the matters of disputed bucket",16,3,true
+15,FAST,NA,12,1,2,66,166,"Piece of cake","ACyn6L47","Steal weed delivery to Eutimio Blakeslee and share some of the profits with the people.",79,6,true
+15,FAST,LOW,14,2,2,45,245,"Piece of cake","ZIsoiFt6","Rescue Fawn Garrard from savannah in Lightpine where they are attacked by angry weed",22,7,true
+15,FAST,LOW,15,2,2,67,267,"Risky","urETdOrn","Create an advertisement campaign for Euripides Scrivens to promote their squirrel based business",25,3,true
+15,FAST,LOW,16,2,2,92,292,"Suicide mission","tK4XtzQS","Help Winston Chambers to write their biographical novel about their difficulties with a deranged house",48,5,false
+15,FAST,HIGH,18,2,2,42,292,"Piece of cake","1Ayk7FAF","Steal beer mug delivery to Ewen Brittain and share some of the profits with the people.",75,3,true
+15,FAST,HIGH,20,3,2,17,367,"Quite likely","yKG5gG36","Create an advertisement campaign for Chibueze Ericson to promote their chicken based business",49,6,false
+15,FAST,HIGH,21,3,1,17,367,"Piece of cake","l5BtZtAY","Help defending village in Masonmoore from the intruders",166,7,true
+15,FAST,LOW,24,4,2,33,533,"Piece of cake","o0VHxu7n","Rescue Anastasiy Winslow from pasture in Newville where they are attacked by angry squirrel",22,4,true
+15,FAST,LOW,25,4,2,55,555,"Walk in the park","oMRZ6opF","Rescue Sigi Sandford from savannah in Whitedrone where they are attacked by angry water",18,3,true
+15,FAST,LOW,26,4,2,73,573,"Walk in the park","RDL3XYS8","Rescue Patricia Huddleston from steppe in Masonkeep where they are attacked by angry clothes",35,3,true
+15,FAST,LOW,28,5,2,8,608,"Quite likely","1ckLyHn3","Rescue Pravina Turnbull from meadow in Voidseed where they are attacked by angry horse",28,6,true
+15,FAST,LOW,29,5,2,36,636,"Quite likely","87eXOmhQ","Rescue Mirjana Statham from pasture in Sharpwatch where they are attacked by angry wagon",43,4,false
+15,FAST,LOW,30,5,1,36,636,"Quite likely","LHNXFf2y","Rescue Hiltrud Hallman from village in Bloodheart where they are attacked by angry clothes",46,5,true
+15,FAST,LOW,32,5,2,32,682,"Piece of cake","Xs8FTgHC","Help defending steppe in Metalcawl from the intruders",131,4,true
+15,FAST,HIGH,34,6,2,63,813,"Piece of cake","S8ct1iSQ","Help defending peninsula in Towerchester from the intruders",173,7,true
+15,FAST,HIGH,35,6,2,236,986,"Piece of cake","84G6OnJS","Help defending thrift shoppe in Razorcawl from the intruders",170,3,false
+15,FAST,LOW,37,6,2,186,986,"Piece of cake","2RXFiYmU","Help defending savannah in Everton from the intruders",139,6,true
+15,FAST,LOW,38,6,2,325,1125,"Walk in the park","a3qFbJ8t","Help defending pasture in Frosthole from the intruders",147,4,true
+15,FAST,HIGH,39,6,2,472,1272,"Piece of cake","5YwMEFPw","Help defending meadow in Sharpshaw from the intruders",163,3,true
+15,FAST,LOW,40,6,2,635,1435,"Rather detrimental","QH1e4P2n","Help defending grassland in Lowedale from the intruders",139,3,true
+15,FAST,HIGH,41,6,2,774,1574,"Piece of cake","Jo1zYICb","Help defending steppe in Masonwell from the intruders",131,5,true
+15,FAST,HIGH,42,6,2,905,1705,"Playing with fire","nlojwJid","Help defending village in Ridgepine from the intruders",168,3,true
+15,FAST,LOW,43,6,2,1073,1873,"Walk in the park","p2K0qfvG","Help defending thrift shoppe in Dovepine from the intruders",130,6,true
+15,FAST,HIGH,44,6,2,1203,2003,"Suicide mission","w2Epy7tY","Help defending pasture in Northport from the intruders",130,3,false
+15,FAST,LOW,46,6,2,1153,2003,"Suicide mission","KwSz6bEL","Help defending church in Fangfair from the intruders",78,5,false
+15,FAST,LOW,48,6,2,1103,2003,"Suicide mission","IQYJSYsp","Help defending cave in Frostspring from the intruders",101,7,false
+16,NONE,LOW,0,0,3,0,0,"Hmmm....","wZWQayqq","Help Cailin Lincoln to transport a magic chariot to savannah in Millerfirth",13,7,true
+16,NONE,HIGH,1,0,3,13,13,"Walk in the park","5GSIoY2g","Help Diego Radcliff to sell an unordinary cat on the local market",24,6,true
+16,NONE,HIGH,2,0,3,37,37,"Hmmm....","K8Ubip6U","Create an advertisement campaign for Tahmuras Giffard to promote their cat based business",38,5,true
+16,NONE,LOW,3,0,3,75,75,"Walk in the park","ji0UZXnI","Help Gallagher Sowards to transport a magic horse to plains in Blackbane",11,4,true
+16,NONE,LOW,4,0,3,86,86,"Piece of cake","YE9R2MEU","Help Györgyi Hopkins to clean their sheep",4,7,true
+16,NONE,NA,5,0,3,90,90,"Piece of cake","EZgK1LWP","Create an advertisement campaign for Dinesha Ledford to promote their cat based business",24,7,true
+16,NONE,NA,6,0,3,114,114,"Walk in the park","K73pLBTK","Steal horse delivery to Jolanta Edgell and share some of the profits with the people.",45,4,true
+16,NONE,LOW,7,0,3,159,159,"Piece of cake","iRbBHLys","Help Dimitar Randell to reach an agreement with Aithan Courtier on the matters of disputed sheep",12,7,true
+16,NONE,HIGH,8,0,3,171,171,"Piece of cake","MSf85tL7","Steal pan delivery to Ilda Shelton and share some of the profits with the people.",52,6,true
+16,NONE,LOW,9,0,3,223,223,"Piece of cake","gwhaAxVp","Help Philomena D'airelle to transport a magic turnips to thrift shoppe in Penham",17,5,true
+16,NONE,HIGH,10,0,3,240,240,"Gamble","qAj2BAvj","Create an advertisement campaign for Haven Gabriels to promote their dog based business",37,3,false
+16,NONE,LOW,11,0,2,240,240,"Walk in the park","f5RRTIn3","Create an advertisement campaign for Orsina Jephson to promote their chariot based business",29,7,true
+16,NONE,HIGH,12,0,2,269,269,"Piece of cake","S59LetFo","Steal sheep delivery to Batbayar Eglington and share some of the profits with the people.",47,4,false
+16,NONE,LOW,14,0,2,219,269,"Piece of cake","QxF08PCI","Help Noelani Thwaite to sell an unordinary pot on the local market",28,6,true
+16,NONE,LOW,15,0,2,247,297,"Piece of cake","z4Mabkup","Help Antelmo Haywood to write their biographical novel about their difficulties with a deranged dog",30,7,true
+16,NONE,HIGH,16,0,2,277,327,"Piece of cake","SdPQ7Gav","Steal cat delivery to Hajar Tittensor and share some of the profits with the people.",58,5,true
+16,NONE,LOW,17,0,2,335,385,"Piece of cake","Tz7T57TQ","Help Aridai Kynaston to write their biographical novel about their difficulties with a deranged bucket",32,4,true
+16,NONE,HIGH,18,0,2,367,417,"Quite likely","v0YSVpyu","Escort Manfredo Thurstan to pasture in Greymere where they can meet with their long lost dog",57,7,true
+16,NONE,HIGH,19,0,2,424,474,"Piece of cake","E4UhLwUI","Steal wagon delivery to Sunčica Peacock and share some of the profits with the people.",61,5,true
+16,NONE,HIGH,20,0,2,485,535,"Gamble","SL6afiEk","Escort Tamari Everett to grassland in Dornton where they can meet with their long lost house",68,6,true
+16,NONE,HIGH,21,0,2,553,603,"Piece of cake","1rJaS3K2","Steal potatoes delivery to Kaui Ellsworth and share some of the profits with the people.",59,3,true
+16,NONE,NA,22,0,2,612,662,"Piece of cake","yyVhq9dx","Steal weed delivery to Božena Yohe and share some of the profits with the people.",58,3,false
+16,NONE,NA,24,0,2,562,662,"Sure thing","mjlGDgvu","Help defending pasture in Redscale from the intruders",106,7,true
+16,NONE,LOW,25,0,2,668,768,"Risky","3hrIW7vI","Escort Amabilia Solomon to thrift shoppe in Orrincawl where they can meet with their long lost clothes",71,5,true
+16,NONE,LOW,26,0,2,739,839,"Hmmm....","GGdzUejL","Escort Saulė Arneson to steppe in Fernwatch where they can meet with their long lost turnips",66,4,true
+16,NONE,HIGH,27,0,2,805,905,"Risky","kMqneYHK","Help defending village in Sharpheart from the intruders",113,5,false
+16,NONE,LOW,29,0,2,755,905,"Piece of cake","Sy4BIigW","Help defending savannah in Southfair from the intruders",104,5,false
+16,NONE,HIGH,31,0,2,705,905,"Piece of cake","i3sk83fR","Steal super awesome diamond pan from Mandy Summers",168,7,false
+16,NONE,HIGH,33,0,2,655,905,"Piece of cake","PZHNGXCp","Steal super awesome diamond water from Martita Sappington",161,3,false
+16,NONE,LOW,35,0,2,605,905,"Piece of cake","GTJdsXpP","Help defending field in Scaleport from the intruders",83,7,true
+16,NONE,HIGH,36,0,2,688,988,"Walk in the park","AvaBRUPI","Help defending meadow in Voidpine from the intruders",104,6,true
+16,NONE,HIGH,37,0,2,792,1092,"Walk in the park","4AplDFGs","Help defending pasture in Millerheart from the intruders",97,3,true
+16,NONE,NA,38,0,2,889,1189,"Sure thing","NMpBuBYz","Steal super awesome diamond dog from Jeff Suggitt",178,3,false
+16,NONE,HIGH,40,0,2,839,1189,"Sure thing","xLl9hsTI","Steal super awesome diamond wagon from Constanze Wyndham",163,6,false
+16,NONE,LOW,42,0,2,789,1189,"Sure thing","Om3qWveo","Steal super awesome diamond water from Saija Masters",141,4,false
+16,NONE,HIGH,44,0,2,739,1189,"Piece of cake","tJhkDO1C","Steal super awesome diamond clothes from Lane Brasher",187,6,false
+16,NONE,HIGH,46,0,2,689,1189,"Piece of cake","UF6nh1Wt","Steal super awesome diamond horse from Madara Nicolson",168,5,false
+16,NONE,HIGH,48,0,2,639,1189,"Suicide mission","9QFXPVeq","Help defending rocky plains in Millerville from the intruders",83,5,false
+17,FAST,HIGH,0,0,3,0,0,"Sure thing","Ho6pfcbI","Steal house delivery to Bertina Hudnall and share some of the profits with the people.",60,7,true
+17,FAST,HIGH,1,0,3,60,60,"Hmmm....","v78idqs1","Escort Xiomara Michaels to thrift shoppe in Whitewhyte where they can meet with their long lost horse",58,6,true
+17,FAST,LOW,3,1,3,18,118,"Quite likely","advMpLdo","Help Theotleip Delaney to reach an agreement with Aldo Mottershead on the matters of disputed cat",8,6,true
+17,FAST,LOW,4,1,3,26,126,"Walk in the park","vDr6KXOv","Help Catia Waterman to sell an unordinary beer mug on the local market",26,3,true
+17,FAST,NA,5,1,3,52,152,"Piece of cake","iivn6b87","Help Vidar Meadows to clean their cat",9,6,true
+17,FAST,NA,6,1,3,61,161,"Walk in the park","YhIGhwo8","Create an advertisement campaign for Rodya Nielson to promote their potatoes based business",40,7,false
+17,FAST,LOW,7,1,2,61,161,"Quite likely","s8pnH3B4","Help Filipa Tollemache to reach an agreement with Bassam Ledford on the matters of disputed squirrel",10,7,false
+17,FAST,HIGH,9,1,2,11,161,"Quite likely","N9UnuOs5","Help Keira Sigurðardóttir to write their biographical novel about their difficulties with a deranged sheep",44,6,true
+17,FAST,HIGH,10,1,2,55,205,"Walk in the park","GE9jsf1C","Create an advertisement campaign for Ronnie Dennell to promote their turnips based business",22,5,true
+17,FAST,LOW,11,1,2,77,227,"Quite likely","1kdP93C5","Help Patricio Wannell to transport a magic cat to field in Strongkeep",25,3,false
+17,FAST,NA,13,1,2,27,227,"Gamble","lHvDS3Xe","Help Sargon Keighley to write their biographical novel about their difficulties with a deranged sheep",26,5,true
+17,FAST,HIGH,14,1,2,53,253,"Risky","tGgGSfRc","Help Frigg Westbrook to write their biographical novel about their difficulties with a deranged turnips",44,7,true
+17,FAST,HIGH,15,1,2,97,297,"Gamble","db25ERZp","Help Endre Kellogg to write their biographical novel about their difficulties with a deranged pan",40,6,false
+17,FAST,HIGH,17,1,2,47,297,"Hmmm....","GXTlPqIy","Create an advertisement campaign for Leofflæd Branson to promote their beer mug based business",41,4,false
+17,FAST,LOW,18,1,1,47,297,"Playing with fire","VDb4l334","Help Sunitha Garrard to write their biographical novel about their difficulties with a deranged turnips",28,6,false
+18,NONE,HIGH,0,0,3,0,0,"Quite likely","dLFosSUO","Escort Euaristos Milford to field in Frostbury where they can meet with their long lost weed",79,7,true
+18,NONE,LOW,1,0,3,79,79,"Sure thing","Fi4hAgeH","Help Rohese Dwerryhouse to clean their beer mug",2,6,true
+18,NONE,HIGH,2,0,3,81,81,"Sure thing","gWBC1syJ","Steal bucket delivery to Masoud Rennold and share some of the profits with the people.",52,5,true
+18,NONE,HIGH,3,0,3,133,133,"Hmmm....","0wDue6Ov","Escort Morgaine Winslow to village in Ridgedeen where they can meet with their long lost squirrel",67,7,true
+18,NONE,LOW,4,0,3,200,200,"Hmmm....","SI24fEKm","Help Quinton Allaire to reach an agreement with Gwynfor Samuels on the matters of disputed water",7,7,true
+18,NONE,NA,5,0,3,207,207,"Sure thing","UfBUoNZ6","Steal dog delivery to Itxaro Herberts and share some of the profits with the people.",60,7,true
+18,NONE,LOW,6,0,3,267,267,"Quite likely","XU5GFaPr","Help Ferdinand Kingsley to sell an unordinary cat on the local market",27,7,true
+18,NONE,HIGH,7,0,3,294,294,"Walk in the park","zVc35Hvt","Escort Ademar Breckinridge to steppe in Dovepool where they can meet with their long lost wagon",74,7,false
+18,NONE,LOW,8,0,2,294,294,"Walk in the park","EoeI8DZz","Help Kukka Wheelock to transport a magic sheep to peninsula in Darkwell",15,6,true
+18,NONE,HIGH,9,0,2,309,309,"Gamble","qSvHZWIm","Escort Agus Cummins to pasture in Dovespring where they can meet with their long lost water",87,7,true
+18,NONE,HIGH,10,0,2,396,396,"Sure thing","ar4IXkzn","Steal weed delivery to Kalysta Johnson and share some of the profits with the people.",55,4,true
+18,NONE,LOW,11,0,2,451,451,"Quite likely","IdESj1h8","Create an advertisement campaign for Ljilja Herbertson to promote their turnips based business",26,3,false
+18,NONE,LOW,13,0,2,401,451,"Hmmm....","0zjz3Auz","Create an advertisement campaign for Seyyi̇t Patterson to promote their turnips based business",25,5,true
+18,NONE,LOW,14,0,2,426,476,"Piece of cake","CJlb2CQK","Help Merob Herbertson to sell an unordinary squirrel on the local market",28,7,true
+18,NONE,HIGH,15,0,2,454,504,"Risky","V9Nx3Un5","Help Flavianus Midgley to write their biographical novel about their difficulties with a deranged squirrel",41,7,false
+18,NONE,NA,17,0,2,404,504,"Sure thing","PzOggqij","Steal sheep delivery to Juuso Jernigan and share some of the profits with the people.",58,5,true
+18,NONE,HIGH,18,0,2,462,562,"Walk in the park","tBnT7dhP","Escort Ramon Danniell to savannah in Burnswhyte where they can meet with their long lost potatoes",68,5,false
+18,NONE,LOW,20,0,2,412,562,"Walk in the park","1obptoFm","Help Trudy Deering to write their biographical novel about their difficulties with a deranged horse",33,5,true
+18,NONE,LOW,21,0,2,445,595,"Suicide mission","p1uZC14p","Create an advertisement campaign for Marzia Haywood to promote their chicken based business",35,3,false
+18,NONE,HIGH,23,0,2,395,595,"Risky","NEWmkY0d","Escort Jaycob Whitaker to savannah in Southham where they can meet with their long lost horse",68,5,true
+18,NONE,LOW,24,0,2,463,663,"Piece of cake","YYjvMwFD","Help defending grassland in Eastfirth from the intruders",99,7,true
+18,NONE,HIGH,25,0,2,562,762,"Piece of cake","9f31lVWL","Help defending peninsula in Dornshore from the intruders",106,3,true
+18,NONE,LOW,26,0,2,668,868,"Piece of cake","xomjTWQj","Help defending peninsula in Orrinmire from the intruders",96,6,true
+18,NONE,LOW,27,0,2,764,964,"Piece of cake","skykp4H3","Help defending field in Penmountain from the intruders",114,6,true
+18,NONE,NA,28,0,2,878,1078,"Piece of cake","WQVLdwjs","Help defending field in Greyfire from the intruders",123,6,true
+18,NONE,LOW,29,0,2,1001,1201,"Walk in the park","vDG89uJI","Help defending plains in Redmere from the intruders",98,5,true
+18,NONE,HIGH,30,0,2,1099,1299,"Walk in the park","ugn9X3Vj","Help defending village in Highkeep from the intruders",114,7,true
+18,NONE,NA,31,0,2,1213,1413,"Piece of cake","EZ9hJYqP","Help defending plains in Southmountain from the intruders",114,7,true
+18,NONE,NA,32,0,2,1327,1527,"Piece of cake","PA07R3NF","Help defending field in Bleakseed from the intruders",92,7,true
+18,NONE,NA,33,0,2,1419,1619,"Walk in the park","ZHLcDkMT","Help defending thrift shoppe in Whiteseed from the intruders",107,3,true
+18,NONE,NA,34,0,2,1526,1726,"Quite likely","07kI2yrR","Help defending savannah in Ravendeen from the intruders",114,7,true
+18,NONE,HIGH,35,0,2,1640,1840,"Hmmm....","9q9EX1JN","Help defending thrift shoppe in Ravenwater from the intruders",96,7,true
+18,NONE,HIGH,36,0,2,1736,1936,"Gamble","Kx9bQwbo","Help defending savannah in Millerfair from the intruders",119,5,true
+18,NONE,LOW,37,0,2,1855,2055,"Hmmm....","83vGiYcB","Help defending meadow in Bloodwhyte from the intruders",73,5,true
+18,NONE,LOW,38,0,2,1928,2128,"Hmmm....","rqLe6V1g","Help defending peninsula in Frostton from the intruders",72,7,true
+18,NONE,LOW,39,0,2,2000,2200,"Walk in the park","ByRVNWTs","Help defending steppe in Oldchester from the intruders",75,4,true
+18,NONE,HIGH,40,0,2,2075,2275,"Walk in the park","Lw2oxZv4","Help defending savannah in Doveheart from the intruders",83,3,true
+18,NONE,LOW,41,0,2,2158,2358,"Quite likely","hu42D1KH","Help defending thrift shoppe in Blackbane from the intruders",64,7,true
+18,NONE,LOW,42,0,2,2222,2422,"Hmmm....","SZ9hWh9g","Help defending peninsula in Whitepine from the intruders",90,6,true
+18,NONE,HIGH,43,0,2,2312,2512,"Risky","hgG4hMdN","Help defending plains in Thornfire from the intruders",89,3,true
+18,NONE,LOW,44,0,2,2401,2601,"Piece of cake","LAyuEJMk","Help defending hill in Strongheart from the intruders",87,7,true
+18,NONE,HIGH,45,0,2,2488,2688,"Risky","M3TJneKe","Help defending thrift shoppe in Ravendean from the intruders",88,5,false
+18,NONE,LOW,47,0,2,2438,2688,"Suicide mission","I1jRzoHx","Help defending manor in Strongwhyte from the intruders",80,4,false
+18,NONE,HIGH,49,0,2,2388,2688,"Risky","aF9JZ2yj","Help defending cave in Scalechester from the intruders",83,3,false
+19,FAST,HIGH,0,0,3,0,0,"Quite likely","TRnwDVU9","Escort Haroun Romilly to thrift shoppe in Penpool where they can meet with their long lost clothes",66,7,true
+19,FAST,LOW,1,0,3,66,66,"Piece of cake","hNFwD6Po","Help 'ester Belanger to fix their sheep",7,6,true
+19,FAST,LOW,2,0,3,73,73,"Sure thing","DvBo7Fdd","Help Daniel Kimberley to clean their squirrel",10,7,true
+19,FAST,LOW,3,0,3,83,83,"Piece of cake","5Q07bKUQ","Help Giselle Tirrell to clean their squirrel",2,7,true
+19,FAST,LOW,4,0,3,85,85,"Piece of cake","ZApRVXkJ","Help Eljas Richard to reach an agreement with Angerona Tindall on the matters of disputed beer mug",11,3,true
+19,FAST,NA,5,0,3,96,96,"Sure thing","uUTYTujz","Steal chicken delivery to Dianna Langley and share some of the profits with the people.",49,3,true
+19,FAST,HIGH,7,1,3,45,145,"Walk in the park","tBdPhtAP","Escort Flávia Jardine to plains in Dovegannon where they can meet with their long lost dog",75,7,true
+19,FAST,LOW,9,2,3,20,220,"Piece of cake","HQcKOwTf","Help Dushyant Chapman to transport a magic bucket to thrift shoppe in Millerburg",18,3,true
+19,FAST,LOW,10,2,3,38,238,"Quite likely","tu4Mm7e4","Rescue Narayan Blackwood from field in Lighttown where they are attacked by angry house",25,7,true
+19,FAST,HIGH,11,2,3,63,263,"Piece of cake","nDjqlVUI","Escort Hali̇de Stevens to grassland in Thorndean where they can meet with their long lost house",94,7,true
+19,FAST,LOW,13,3,3,57,357,"Walk in the park","UPl1r1i8","Help Usman Endicott to sell an unordinary horse on the local market",25,7,false
+19,FAST,HIGH,14,3,2,57,357,"Quite likely","DTGOK4dp","Steal potatoes from Aldreda Thomson",113,7,true
+19,FAST,LOW,16,4,2,70,470,"Piece of cake","JEjbqZXo","Rescue Inkar Scrivenor from thrift shoppe in Voidsheen where they are attacked by angry potatoes",39,6,true
+19,FAST,HIGH,18,5,2,9,509,"Quite likely","pdM2rhKg","Escort Modred Haroldson to pasture in Darkshaw where they can meet with their long lost turnips",74,3,true
+19,FAST,NA,19,5,2,83,583,"Walk in the park","ly1yYqs9","Create an advertisement campaign for Dotty Humphrey to promote their pan based business",64,5,true
+19,FAST,HIGH,21,6,2,47,647,"Piece of cake","R7XQN7g8","Steal weed from Jef Odson",140,7,true
+19,FAST,LOW,22,6,2,187,787,"Hmmm....","x5RKyvSQ","Escort Sebastiano Cheshire to village in Northhill where they can meet with their long lost house",75,6,false
+19,FAST,LOW,24,6,2,137,787,"Hmmm....","hNU0Ttdt","Rescue Kartikeya Kingston from meadow in Bleakkeep where they are attacked by angry clothes",32,6,true
+19,FAST,LOW,25,6,2,169,819,"Piece of cake","QEbVINEQ","Rescue Manoj Chamberlain from steppe in Westville where they are attacked by angry horse",47,3,true
+19,FAST,NA,26,6,2,216,866,"Sure thing","YGW7f42q","Help defending plains in Newford from the intruders",197,7,true
+19,FAST,NA,27,6,2,413,1063,"Piece of cake","DenIlS4M","Help defending thrift shoppe in Southscale from the intruders",154,5,true
+19,FAST,HIGH,28,6,2,567,1217,"Piece of cake","WNAydhJ7","Help defending savannah in Millerloft from the intruders",154,4,true
+19,FAST,NA,29,6,2,721,1371,"Piece of cake","xuMhnZid","Help defending steppe in Penwatch from the intruders",139,6,true
+19,FAST,NA,30,6,2,860,1510,"Walk in the park","vLY2x9aR","Help defending plains in Razorgarden from the intruders",179,7,true
+19,FAST,HIGH,31,6,2,1039,1689,"Rather detrimental","rFguDl5D","Investigate Ryley Ericson and find out their relation to the magic beer mug.",208,3,false
+19,FAST,NA,33,6,2,989,1689,"Piece of cake","q0iU02sf","Help defending pasture in Voidford from the intruders",162,7,true
+19,FAST,NA,34,6,2,1151,1851,"Piece of cake","FFCWFpUZ","Help defending steppe in Greygill from the intruders",158,7,true
+19,FAST,HIGH,35,6,2,1309,2009,"Quite likely","gcVLFOD8","Help defending pasture in Frostmoore from the intruders",179,7,true
+19,FAST,LOW,36,6,2,1488,2188,"Walk in the park","LK9F8Ckd","Help defending steppe in Towerwell from the intruders",126,6,true
+19,FAST,HIGH,37,6,2,1614,2314,"Quite likely","gEFkJxtq","Help defending pasture in Dorncaster from the intruders",150,6,false
+19,FAST,LOW,39,6,2,1564,2314,"Rather detrimental","CRXk6N0a","Help defending field in Voidsheen from the intruders",125,5,false
+19,FAST,LOW,41,6,2,1514,2314,"Hmmm....","YTgxV5Tv","Help defending meadow in Lowefire from the intruders",131,6,true
+19,FAST,LOW,42,6,2,1645,2445,"Piece of cake","1YOtbRIt","Help defending pasture in Metalpool from the intruders",130,7,true
+19,FAST,LOW,43,6,2,1775,2575,"Piece of cake","ENZz3NV8","Help defending peninsula in Bleakchester from the intruders",118,7,true
+19,FAST,HIGH,44,6,2,1893,2693,"Rather detrimental","ytQ27BNw","Help defending field in Bleakgannon from the intruders",142,6,false
+19,FAST,HIGH,46,6,2,1843,2693,"Rather detrimental","J8hBwGcK","Help defending thicket in Ridgegill from the intruders",118,5,false
+19,FAST,HIGH,48,6,2,1793,2693,"Gamble","IUkqd1im","Help defending foggy riverside in Voidmountain from the intruders",150,6,false
+20,NONE,HIGH,0,0,3,0,0,"Sure thing","rsx7bKVa","Steal beer mug delivery to Modestine Davison and share some of the profits with the people.",61,7,true
+20,NONE,HIGH,1,0,3,61,61,"Sure thing","mRPytNFA","Steal pot delivery to Hannibal Hermanson and share some of the profits with the people.",59,7,true
+20,NONE,HIGH,2,0,3,120,120,"Sure thing","a0Icq28W","Steal beer mug delivery to Agape Headley and share some of the profits with the people.",58,5,true
+20,NONE,HIGH,3,0,3,178,178,"Piece of cake","WH7E7Xaq","Escort Brianne Þórsson to meadow in Oldcawl where they can meet with their long lost dog",64,4,true
+20,NONE,HIGH,4,0,3,242,242,"Piece of cake","b6MQBUV6","Steal pan delivery to Pier Garfield and share some of the profits with the people.",62,3,true
+20,NONE,HIGH,5,0,3,304,304,"Piece of cake","H2ho8NtE","Help Jeremiel Baldrick to reach an agreement with Matthaios Wilkinson on the matters of disputed dog",17,4,true
+20,NONE,HIGH,6,0,3,321,321,"Piece of cake","AXC7Hyu1","Create an advertisement campaign for Indu Parsley to promote their bucket based business",38,7,true
+20,NONE,LOW,7,0,3,359,359,"Piece of cake","T7q1shxd","Help Daryl Thacker to clean their pan",2,3,true
+20,NONE,HIGH,8,0,3,361,361,"Piece of cake","eJfjwpOL","Escort Usman Gardiner to village in Darkpine where they can meet with their long lost house",76,6,true
+20,NONE,LOW,9,0,3,437,437,"Piece of cake","rZgJCGhB","Help Jacintha Statham to transport a magic chariot to plains in Whitehole",13,5,true
+20,NONE,HIGH,10,0,3,450,450,"Suicide mission","gIDwpuqI","Create an advertisement campaign for Ingebjørg Kinsley to promote their turnips based business",38,5,false
+20,NONE,LOW,11,0,2,450,450,"Piece of cake","6pP8MtWW","Create an advertisement campaign for Agnesa Martinson to promote their house based business",23,3,true
+20,NONE,HIGH,12,0,2,473,473,"Piece of cake","xysooWly","Escort Ignacia Scriven to field in Highkeep where they can meet with their long lost bucket",73,6,true
+20,NONE,HIGH,13,0,2,546,546,"Piece of cake","A5kMwK3C","Escort Mercury Garland to peninsula in Bloodcrest where they can meet with their long lost squirrel",71,5,false
+20,NONE,LOW,15,0,2,496,546,"Piece of cake","vkQkUxbH","Create an advertisement campaign for Kuno Hatheway to promote their house based business",27,4,true
+20,NONE,LOW,16,0,2,523,573,"Quite likely","X91AWhdE","Escort Saltanat Chambers to plains in Orrinmountain where they can meet with their long lost cat",62,5,true
+20,NONE,LOW,17,0,2,585,635,"Piece of cake","mVcRoxzi","Help Danilo Cockburn to write their biographical novel about their difficulties with a deranged pot",23,7,true
+20,NONE,HIGH,18,0,2,608,658,"Walk in the park","oNHhjr7I","Create an advertisement campaign for Jyoti Westbrook to promote their squirrel based business",37,6,true
+20,NONE,NA,19,0,2,645,695,"Piece of cake","ter1fqyt","Steal chariot delivery to Akhenaten Attwater and share some of the profits with the people.",52,6,true
+20,NONE,LOW,20,0,2,697,747,"Quite likely","9nW20zFM","Help Orville Fairbairn to write their biographical novel about their difficulties with a deranged bucket",39,5,false
+20,NONE,LOW,22,0,2,647,747,"Gamble","ggBA4GQv","Help Attila Outterridge to write their biographical novel about their difficulties with a deranged pan",23,4,false
+20,NONE,LOW,24,0,2,597,747,"Piece of cake","9gn3V8Z1","Escort Chi Sauvage to plains in Voiddale where they can meet with their long lost chicken",74,7,true
+20,NONE,HIGH,25,0,2,671,821,"Sure thing","sur8Vw1w","Steal super awesome diamond squirrel from Willis Deering",176,7,false
+20,NONE,LOW,27,0,2,621,821,"Sure thing","hc24KoZL","Help defending plains in Burnscaster from the intruders",108,7,true
+20,NONE,HIGH,28,0,2,729,929,"Piece of cake","T1Mue9an","Steal super awesome diamond pan from Pandora Devereux",147,7,false
+20,NONE,HIGH,30,0,2,679,929,"Piece of cake","PUoOPqPD","Help defending plains in Redport from the intruders",112,4,true
+20,NONE,LOW,31,0,2,791,1041,"Piece of cake","O3MQUbVH","Help defending thrift shoppe in Ravenseed from the intruders",85,7,true
+20,NONE,HIGH,32,0,2,876,1126,"Quite likely","feORjNDQ","Help defending steppe in Towerscale from the intruders",100,5,true
+20,NONE,LOW,33,0,2,976,1226,"Gamble","NLOWYBMs","Help defending plains in Eastchester from the intruders",84,7,false
+20,NONE,HIGH,35,0,2,926,1226,"Sure thing","HDamcHjY","Steal super awesome diamond cat from Pradeep Evanson",166,4,false
+20,NONE,HIGH,37,0,2,876,1226,"Walk in the park","65WZOVNJ","Steal super awesome diamond potatoes from Trifon Waterman",163,7,false
+20,NONE,LOW,39,0,2,826,1226,"Sure thing","oXvzLOnI","Steal super awesome diamond chicken from Minato Coleman",138,3,false
+20,NONE,LOW,41,0,2,776,1226,"Sure thing","AsEiML10","Steal super awesome diamond potatoes from Hortensia Seely",154,3,false
+20,NONE,HIGH,43,0,2,726,1226,"Piece of cake","kgpaLDhc","Steal super awesome diamond weed from Nurul Tittensor",179,4,false
+20,NONE,LOW,45,0,2,676,1226,"Piece of cake","stOlS3I4","Help defending savannah in Whitefair from the intruders",87,5,true
+20,NONE,HIGH,46,0,2,763,1313,"Sure thing","9czKJWZT","Steal super awesome diamond wagon from Georgette Overton",165,3,false
+20,NONE,LOW,48,0,2,713,1313,"Sure thing","Et2p2TyW","Steal super awesome diamond pot from Hasse Blakesley",154,7,false
+21,FAST,LOW,0,0,3,0,0,"Gamble","SMl5IVKA","Help Keala Devereux to transport a magic water to steppe in Voidwell",6,7,false
+21,FAST,LOW,1,0,2,0,0,"Sure thing","ynYCzaB7","Help Ebbe Willard to fix their house",4,7,true
+21,FAST,LOW,2,0,2,4,4,"Sure thing","p70MhR0m","Help Amore Whittemore to fix their horse",5,5,true
+21,FAST,HIGH,3,0,2,9,9,"Piece of cake","2xoALD6Z","Create an advertisement campaign for Liliana Grenville to promote their squirrel based business",18,4,true
+21,FAST,HIGH,4,0,2,27,27,"Sure thing","7VrN9U6x","Help Mirta Winslow to fix their house",10,3,true
+21,FAST,NA,5,0,2,37,37,"Sure thing","8tDmaJkK","Help Gennadius Sappington to clean their squirrel",8,6,true
+21,FAST,HIGH,6,0,2,45,45,"Piece of cake","OGc0feYY","Help Dayna Leonard to transport a magic wagon to grassland in Newshore",16,7,true
+21,FAST,HIGH,7,0,2,61,61,"Piece of cake","NOli2erM","Help Nicéphore Scrivenor to sell an unordinary squirrel on the local market",32,7,true
+21,FAST,LOW,8,0,2,93,93,"Walk in the park","rkDOO8RN","Help Immaculata Dingfelder to reach an agreement with Mya Longstaff on the matters of disputed bucket",7,6,true
+21,FAST,HIGH,10,1,2,0,100,"Walk in the park","V2O0RorJ","Escort Nestani Crawford to savannah in Bloodpine where they can meet with their long lost potatoes",68,5,true
+21,FAST,LOW,11,1,2,68,168,"Walk in the park","FzGwxErW","Create an advertisement campaign for Séraphin Thurstan to promote their chicken based business",17,5,false
+21,FAST,LOW,13,1,2,18,168,"Walk in the park","86SMatk7","Escort Bogdana Zufall to grassland in Westdinny where they can meet with their long lost pan",65,6,true
+21,FAST,LOW,14,1,2,83,233,"Gamble","OkbViFm3","Steal beer mug delivery to Lassi Roderick and share some of the profits with the people.",34,5,true
+21,FAST,HIGH,16,2,2,17,267,"Hmmm....","mZkGJJ44","Escort Fiammetta Comstock to pasture in Fallheart where they can meet with their long lost chariot",56,5,true
+21,FAST,LOW,17,2,2,73,323,"Walk in the park","dibWjlE7","Help Ladislaus Hudnall to sell an unordinary pan on the local market",30,4,false
+21,FAST,HIGH,19,2,2,23,323,"Walk in the park","Ze9019pC","Escort Áine Bateson to field in Fallham where they can meet with their long lost pan",84,5,true
+21,FAST,HIGH,21,3,2,7,407,"Sure thing","xhufQpsL","Help defending thrift shoppe in Thorndean from the intruders",152,7,true
+21,FAST,LOW,23,4,2,59,559,"Sure thing","zpwR1b42","Help defending peninsula in Towerford from the intruders",133,5,true
+21,FAST,HIGH,25,5,2,92,692,"Piece of cake","uCcXBb3P","Help defending peninsula in Razorton from the intruders",141,6,true
+21,FAST,LOW,27,6,2,133,833,"Piece of cake","q20JLFDl","Rescue Aldebrand Hunnisett from pasture in Southdale where they are attacked by angry beer mug",29,5,true
+21,FAST,LOW,28,6,2,162,862,"Piece of cake","ilxtMHLF","Rescue Taneka Abrahams from thrift shoppe in Easthole where they are attacked by angry chariot",42,4,true
+21,FAST,LOW,29,6,2,204,904,"Walk in the park","NJcpz9Qx","Help defending peninsula in Scalebane from the intruders",152,7,true
+21,FAST,LOW,30,6,2,356,1056,"Walk in the park","i110pexU","Help defending field in Scaledean from the intruders",188,4,true
+21,FAST,LOW,31,6,2,544,1244,"Quite likely","j1AJcKas","Help defending thrift shoppe in Ravendean from the intruders",139,7,true
+21,FAST,LOW,32,6,2,683,1383,"Quite likely","HZHM0N5b","Help defending steppe in Darkfire from the intruders",144,7,true
+21,FAST,HIGH,33,6,2,827,1527,"Quite likely","Q5z1JBOp","Investigate Boyd Sigurðardóttir and find out their relation to the magic clothes.",200,3,true
+21,FAST,LOW,34,6,2,1027,1727,"Piece of cake","nV5CVuMr","Help defending thrift shoppe in Ridgepool from the intruders",138,6,true
+21,FAST,LOW,35,6,2,1165,1865,"Walk in the park","UwOci6C7","Help defending field in Penheart from the intruders",149,5,true
+21,FAST,LOW,36,6,2,1314,2014,"Piece of cake","sXNqTjKw","Help defending meadow in Burnsdean from the intruders",107,7,true
+21,FAST,HIGH,37,6,2,1421,2121,"Piece of cake","IhbDe9As","Help defending plains in Blackdale from the intruders",163,4,true
+21,FAST,LOW,38,6,2,1584,2284,"Piece of cake","raLgiP8E","Help defending meadow in Penpool from the intruders",123,5,true
+21,FAST,HIGH,39,6,2,1707,2407,"Gamble","L5p1HHqk","Help defending meadow in Stronggannon from the intruders",146,3,true
+21,FAST,LOW,40,6,2,1853,2553,"Piece of cake","Bydgva6i","Help defending savannah in Northshaw from the intruders",128,5,true
+21,FAST,NA,41,6,2,1981,2681,"Piece of cake","FkthXVWm","Help defending field in Doveseed from the intruders",144,5,true
+21,FAST,LOW,42,6,2,2125,2825,"Hmmm....","V8gbOHxu","Help defending plains in Burnswhyte from the intruders",115,7,true
+21,FAST,HIGH,43,6,2,2240,2940,"Gamble","hziFl5Jf","Help defending peninsula in Orrinbane from the intruders",134,7,false
+21,FAST,HIGH,45,6,2,2190,2940,"Rather detrimental","gC4og1gI","Help defending thrift shoppe in Fangpeak from the intruders",130,3,false
+21,FAST,LOW,47,6,2,2140,2940,"Risky","q92eDJ4p","Help defending hill in Fangford from the intruders",83,6,false
+21,FAST,LOW,49,6,2,2090,2940,"Walk in the park","KFiZz1lx","Help defending forest in Orrinbane from the intruders",120,5,true
+22,NONE,LOW,0,0,3,0,0,"Walk in the park","V6DDQNKL","Help Ji-u Chapman to fix their dog",4,7,true
+22,NONE,LOW,1,0,3,4,4,"Sure thing","TXkkwdde","Help Penko Ódinsson to clean their squirrel",4,6,true
+22,NONE,HIGH,2,0,3,8,8,"Sure thing","nCwI7fAl","Help Kimberleigh Martins to sell an unordinary chicken on the local market",28,5,true
+22,NONE,HIGH,3,0,3,36,36,"Piece of cake","Hf4BJWr9","Escort Tansy Forrest to savannah in Scalechester where they can meet with their long lost cat",79,4,true
+22,NONE,HIGH,4,0,3,115,115,"Walk in the park","wZWex2Ja","Steal beer mug delivery to Emerentius Shakesheave and share some of the profits with the people.",63,3,false
+22,NONE,LOW,5,0,2,115,115,"Sure thing","48a898mZ","Help Sagi Wilkerson to fix their turnips",5,3,true
+22,NONE,HIGH,6,0,2,120,120,"Risky","tNPuCgi8","Escort Nola Sergeant to village in Lightport where they can meet with their long lost squirrel",68,7,false
+22,NONE,LOW,8,0,2,70,120,"Quite likely","F2v8H5Ja","Help Melek Þórhalldóttir to transport a magic house to peninsula in Scaleville",19,6,true
+22,NONE,HIGH,9,0,2,89,139,"Hmmm....","cOJg11pB","Create an advertisement campaign for Noémie Blackwood to promote their squirrel based business",39,5,true
+22,NONE,LOW,10,0,2,128,178,"Quite likely","zjIvtkXh","Create an advertisement campaign for Ghislaine Norwood to promote their weed based business",32,7,true
+22,NONE,LOW,11,0,2,160,210,"Quite likely","7bIkhDE7","Create an advertisement campaign for Dimo Eldridge to promote their horse based business",27,7,true
+22,NONE,HIGH,12,0,2,187,237,"Hmmm....","YnDIK8Qu","Help Siegbert Ainsworth to write their biographical novel about their difficulties with a deranged sheep",35,4,true
+22,NONE,LOW,13,0,2,222,272,"Piece of cake","P1TWdHNN","Help Urtė Bowe to write their biographical novel about their difficulties with a deranged turnips",29,7,true
+22,NONE,HIGH,14,0,2,251,301,"Piece of cake","ypN3rsoU","Escort Noël Beverley to meadow in Southpine where they can meet with their long lost wagon",71,5,true
+22,NONE,NA,15,0,2,322,372,"Sure thing","JEE0vyjX","Steal bucket delivery to Chrysanthi Clinton and share some of the profits with the people.",64,7,true
+22,NONE,HIGH,16,0,2,386,436,"Piece of cake","Mg1nVrAs","Steal dog delivery to Gavrel Daniels and share some of the profits with the people.",57,7,true
+22,NONE,LOW,17,0,2,443,493,"Playing with fire","tKFa5zfB","Help Kjeld Readdie to write their biographical novel about their difficulties with a deranged wagon",30,6,false
+22,NONE,NA,19,0,2,393,493,"Piece of cake","ImXzxvHC","Escort Mirosława Normanson to steppe in Whiteport where they can meet with their long lost cat",42,7,true
+22,NONE,NA,20,0,2,435,535,"Hmmm....","Gg8iD7Dr","Help Vladilen Eymer to write their biographical novel about their difficulties with a deranged horse",27,5,false
+22,NONE,NA,22,0,2,385,535,"Piece of cake","JUjarG9e","Escort Gonçal Normanson to savannah in Razorhill where they can meet with their long lost water",59,6,true
+22,NONE,LOW,23,0,2,444,594,"Piece of cake","vx1nfITZ","Escort Emīlija Dickens to field in Dovepine where they can meet with their long lost chicken",56,7,true
+22,NONE,LOW,24,0,2,500,650,"Piece of cake","bsmlXgG2","Escort Sharmila Reynell to savannah in Redwatch where they can meet with their long lost dog",69,6,true
+22,NONE,HIGH,25,0,2,569,719,"Gamble","Hx9PYCT7","Investigate Honoratus Boatwright and find out their relation to the magic clothes.",134,3,true
+22,NONE,LOW,26,0,2,703,853,"Piece of cake","5TdSA7fZ","Escort Iedida Orange to steppe in Fernville where they can meet with their long lost cat",75,4,true
+22,NONE,HIGH,27,0,2,778,928,"Gamble","3mejF90O","Escort Críostóir Attaway to grassland in Lightdeen where they can meet with their long lost weed",77,4,true
+22,NONE,LOW,28,0,2,855,1005,"Gamble","qm8ZqqxL","Escort Zaharina Edduson to grassland in Scalecawl where they can meet with their long lost sheep",66,3,false
+22,NONE,LOW,30,0,2,805,1005,"Piece of cake","0cFSzoa9","Help defending savannah in Frostmoore from the intruders",94,5,true
+22,NONE,LOW,31,0,2,899,1099,"Suicide mission","3BjOwStC","Investigate Lorelei Trengove and find out their relation to the magic house.",117,3,false
+22,NONE,LOW,33,0,2,849,1099,"Piece of cake","YsXJzw0R","Help defending thrift shoppe in Fangbane from the intruders",103,4,true
+22,NONE,LOW,34,0,2,952,1202,"Piece of cake","J31PEoTW","Help defending meadow in Voidville from the intruders",96,7,true
+22,NONE,HIGH,35,0,2,1048,1298,"Piece of cake","WQHA0diY","Help defending savannah in Greyville from the intruders",105,3,true
+22,NONE,LOW,36,0,2,1153,1403,"Walk in the park","sj2pXFOL","Help defending pasture in Frostgarden from the intruders",84,6,true
+22,NONE,HIGH,37,0,2,1237,1487,"Walk in the park","8d6ymiZC","Help defending savannah in Bleakmoore from the intruders",100,5,true
+22,NONE,HIGH,38,0,2,1337,1587,"Walk in the park","9TvTGeDM","Help defending meadow in Eastchester from the intruders",94,5,true
+22,NONE,LOW,39,0,2,1431,1681,"Risky","ZZuqDO3Y","Help defending pasture in Bleakdeen from the intruders",89,3,true
+22,NONE,LOW,40,0,2,1520,1770,"Hmmm....","ElM9JbrN","Help defending grassland in Redshore from the intruders",75,7,true
+22,NONE,HIGH,41,0,2,1595,1845,"Gamble","2UJE21lq","Help defending savannah in Eastheart from the intruders",95,3,true
+22,NONE,LOW,42,0,2,1690,1940,"Risky","8yYaYqSc","Help defending thrift shoppe in Blackwell from the intruders",80,7,false
+22,NONE,HIGH,44,0,2,1640,1940,"Rather detrimental","vnY6EeYu","Help defending savannah in Sharpchester from the intruders",89,6,false
+22,NONE,HIGH,46,0,2,1590,1940,"Rather detrimental","uDRpp049","Help defending peninsula in Burnsdean from the intruders",85,4,true
+22,NONE,HIGH,47,0,2,1675,2025,"Playing with fire","b3Iz5eSs","Help defending meadow in Sharpmoore from the intruders",81,3,true
+22,NONE,LOW,48,0,2,1756,2106,"Rather detrimental","G6vtPx0N","Help defending well in Lowebury from the intruders",77,5,true
+22,NONE,LOW,49,0,2,1833,2183,"Suicide mission","1oCZNprX","Help defending well in Snowsheen from the intruders",55,7,false
+23,FAST,LOW,0,0,3,0,0,"Hmmm....","WwV34eHA","Help Aurél Merchant to write their biographical novel about their difficulties with a deranged water",33,7,false
+23,FAST,HIGH,1,0,2,0,0,"Walk in the park","2GDRiwMc","Create an advertisement campaign for Luningning Sackville to promote their sheep based business",24,6,true
+23,FAST,HIGH,2,0,2,24,24,"Piece of cake","1aelbTP7","Help Guda Scrivener to transport a magic bucket to steppe in Dornville",20,5,true
+23,FAST,LOW,3,0,2,44,44,"Risky","ahic2Rav","Help Óscar Richardson to write their biographical novel about their difficulties with a deranged chicken",29,5,false
+23,FAST,HIGH,4,0,1,44,44,"Hmmm....","SUNxH4N3","Escort Len Presley to thrift shoppe in Everwatch where they can meet with their long lost chicken",71,3,true
+23,FAST,NA,6,0,2,65,115,"Piece of cake","XxCJt0nm","Help Kağan Hackett to fix their beer mug",4,4,true
+23,FAST,LOW,7,0,2,69,119,"Piece of cake","ZfESFJJ0","Help Deep Gregory to transport a magic bucket to pasture in Greydale",11,7,true
+23,FAST,LOW,8,0,2,80,130,"Hmmm....","UGT6k10y","Help Etta Everett to transport a magic sheep to pasture in Fallfire",14,7,false
+23,FAST,HIGH,10,0,2,30,130,"Piece of cake","ytzrH1Vu","Escort Liudvikas Blanchard to savannah in Dovegannon where they can meet with their long lost cat",85,4,true
+23,FAST,LOW,12,1,2,15,215,"Sure thing","cZ3ax6F8","Help Catahecassa Beasley to sell an unordinary clothes on the local market",15,4,true
+23,FAST,LOW,13,1,2,30,230,"Piece of cake","dIGepqx7","Help Florinda Davison to sell an unordinary turnips on the local market",34,6,false
+23,FAST,LOW,14,1,1,30,230,"Sure thing","Gm1px631","Create an advertisement campaign for Abdullohi Þórsson to promote their sheep based business",29,7,true
+23,FAST,HIGH,16,1,2,9,259,"Walk in the park","edYfm29E","Steal pot delivery to Lyndsea Gilliam and share some of the profits with the people.",67,5,true
+23,FAST,HIGH,17,1,2,76,326,"Risky","Zi5Qz1FA","Create an advertisement campaign for Sprita Passelewe to promote their pot based business",47,3,false
+23,FAST,NA,19,1,2,26,326,"Sure thing","YNaM7AjZ","Steal bucket delivery to Cristal L'hernault and share some of the profits with the people.",58,6,true
+23,FAST,NA,20,1,2,84,384,"Piece of cake","KneL4gck","Rescue Fflur Crawford from village in Lightgill where they are attacked by angry cat",32,3,true
+23,FAST,LOW,22,2,2,16,416,"Piece of cake","r4OMBz8V","Rescue Emmaline Jarrett from field in Razorheart where they are attacked by angry squirrel",30,6,true
+23,FAST,NA,23,2,2,46,446,"Piece of cake","AmJZY3Za","Help defending steppe in Greypine from the intruders",110,5,true
+23,FAST,LOW,25,3,2,56,556,"Piece of cake","jsAzQalv","Rescue Mathis Willard from pasture in Loweseed where they are attacked by angry pot",28,7,true
+23,FAST,NA,26,3,2,84,584,"Piece of cake","WXCkIfM5","Help defending peninsula in Ridgecawl from the intruders",126,6,true
+23,FAST,LOW,29,5,2,10,710,"Piece of cake","eARWo8ek","Rescue Ritika Fairclough from pasture in Dornwater where they are attacked by angry beer mug",25,5,true
+23,FAST,NA,30,5,2,35,735,"Piece of cake","G2CLgL5c","Help defending grassland in Scalewatch from the intruders",158,6,true
+23,FAST,LOW,32,6,2,93,893,"Walk in the park","AiboOUWy","Rescue Reima Beverley from peninsula in Newwatch where they are attacked by angry clothes",48,4,true
+23,FAST,HIGH,33,6,2,141,941,"Piece of cake","DYqNnJCP","Help defending thrift shoppe in Ravenhill from the intruders",161,5,true
+23,FAST,HIGH,34,6,2,302,1102,"Sure thing","yYfPMucs","Help defending plains in Burnsshaw from the intruders",180,4,true
+23,FAST,HIGH,35,6,2,482,1282,"Piece of cake","tvF48slW","Help defending pasture in Frostford from the intruders",155,7,true
+23,FAST,HIGH,36,6,2,637,1437,"Hmmm....","psqWGmKO","Help defending grassland in Snowham from the intruders",149,7,true
+23,FAST,LOW,37,6,2,786,1586,"Walk in the park","saYRKkzS","Help defending peninsula in Orrincaster from the intruders",133,7,false
+23,FAST,LOW,39,6,2,736,1586,"Walk in the park","kIlg38hJ","Help defending village in Everhole from the intruders",114,6,true
+23,FAST,HIGH,40,6,2,850,1700,"Walk in the park","7ATX9e9I","Help defending field in Bleakwater from the intruders",139,5,true
+23,FAST,HIGH,41,6,2,989,1839,"Walk in the park","hDu9oInD","Help defending pasture in Darkdinny from the intruders",158,7,true
+23,FAST,HIGH,42,6,2,1147,1997,"Piece of cake","9yySZ8f0","Help defending field in Frostmere from the intruders",142,6,true
+23,FAST,HIGH,43,6,2,1289,2139,"Hmmm....","o9ocuzpw","Help defending peninsula in Millerseed from the intruders",155,5,false
+23,FAST,LOW,45,6,2,1239,2139,"Suicide mission","dkXnmnai","Help defending church in Frostwhyte from the intruders",118,7,false
+23,FAST,HIGH,47,6,2,1189,2139,"Suicide mission","ZY83Im3P","Help defending church in Voidseed from the intruders",149,4,false
+23,FAST,LOW,49,6,2,1139,2139,"Risky","8J7npJer","Help defending foggy riverside in Lowechester from the intruders",83,7,false
+24,NONE,HIGH,0,0,3,0,0,"Walk in the park","EIlHGm6I","Steal weed delivery to Pridoni Forester and share some of the profits with the people.",67,7,true
+24,NONE,HIGH,1,0,3,67,67,"Hmmm....","KlmNV9VI","Help Min-seo Sangster to sell an unordinary beer mug on the local market",28,6,true
+24,NONE,LOW,2,0,3,95,95,"Piece of cake","1V6zOuyK","Help Kimberleigh Overton to clean their horse",3,5,true
+24,NONE,LOW,3,0,3,98,98,"Quite likely","2Vt4Goua","Help Drusa Branson to transport a magic pot to steppe in Frostmire",20,7,true
+24,NONE,LOW,4,0,3,118,118,"Piece of cake","hbaf5yHx","Help Adanna Shepherd to reach an agreement with Neves Kitchen on the matters of disputed sheep",8,3,true
+24,NONE,NA,5,0,3,126,126,"Piece of cake","07tfWmFO","Help Janis Beverly to transport a magic wagon to pasture in Metaldinny",22,6,true
+24,NONE,NA,6,0,3,148,148,"Piece of cake","JcWPCapo","Escort Zabulon Rickard to savannah in Oldbury where they can meet with their long lost horse",69,7,true
+24,NONE,LOW,7,0,3,217,217,"Risky","HetK4rDb","Help Eireen Townsend to sell an unordinary bucket on the local market",16,5,true
+24,NONE,HIGH,8,0,3,233,233,"Hmmm....","mHH0tuGV","Create an advertisement campaign for Pandora Simonson to promote their squirrel based business",43,6,false
+24,NONE,HIGH,9,0,2,233,233,"Quite likely","5dH5RCkR","Help Vimal Rennoll to write their biographical novel about their difficulties with a deranged water",39,6,true
+24,NONE,HIGH,10,0,2,272,272,"Hmmm....","bIEwshdM","Create an advertisement campaign for Imani Richards to promote their beer mug based business",28,4,true
+24,NONE,LOW,11,0,2,300,300,"Piece of cake","DVVbdktz","Create an advertisement campaign for Spyridoula Michaelson to promote their pan based business",21,3,true
+24,NONE,HIGH,12,0,2,321,321,"Piece of cake","Dz9kFdB9","Escort Safi̇ye Brewster to field in Razorheart where they can meet with their long lost beer mug",65,6,false
+24,NONE,HIGH,14,0,2,271,321,"Piece of cake","jZhKKYPc","Escort Manisha Christianson to village in Everford where they can meet with their long lost cat",68,7,true
+24,NONE,LOW,15,0,2,339,389,"Quite likely","H2GFnrSo","Help Zaïre Ericson to write their biographical novel about their difficulties with a deranged clothes",34,4,false
+24,NONE,HIGH,17,0,2,289,389,"Quite likely","MRCsaAaI","Escort Alanna Williams to peninsula in Darkdinny where they can meet with their long lost water",52,4,true
+24,NONE,NA,18,0,2,341,441,"Piece of cake","HANCTSfg","Steal cat delivery to Edgard Goddard and share some of the profits with the people.",59,5,true
+24,NONE,HIGH,19,0,2,400,500,"Walk in the park","pER1aAKC","Steal beer mug delivery to Bas Kjartansson and share some of the profits with the people.",70,7,true
+24,NONE,LOW,20,0,2,470,570,"Gamble","klFW36UQ","Help Martyn Hogarth to write their biographical novel about their difficulties with a deranged bucket",34,6,false
+24,NONE,LOW,22,0,2,420,570,"Quite likely","33qPFybO","Escort Justína Beverley to thrift shoppe in Fallfair where they can meet with their long lost squirrel",42,6,true
+24,NONE,LOW,23,0,2,462,612,"Quite likely","Wp7S5laa","Escort Drusa Painter to field in Bleakgill where they can meet with their long lost cat",54,7,true
+24,NONE,NA,24,0,2,516,666,"Quite likely","W6F2UTqk","Help defending field in Blackchester from the intruders",108,6,false
+24,NONE,LOW,26,0,2,466,666,"Hmmm....","A5VUa07x","Help defending village in Westport from the intruders",99,7,false
+24,NONE,HIGH,28,0,2,416,666,"Walk in the park","oe8qm3iY","Help defending steppe in Masonhole from the intruders",110,4,true
+24,NONE,NA,29,0,2,526,776,"Sure thing","tlkyeVXO","Help defending steppe in Voidbury from the intruders",107,3,true
+24,NONE,HIGH,30,0,2,633,883,"Walk in the park","pXNzxxT8","Help defending steppe in Millerspring from the intruders",99,3,true
+24,NONE,NA,31,0,2,732,982,"Piece of cake","K0nV4bbT","Help defending grassland in Reddean from the intruders",110,4,true
+24,NONE,LOW,32,0,2,842,1092,"Gamble","sBpiSbDG","Help defending field in Voidmoore from the intruders",103,7,false
+24,NONE,NA,34,0,2,792,1092,"Piece of cake","mfKld8zW","Help defending meadow in Redloft from the intruders",103,6,true
+24,NONE,NA,35,0,2,895,1195,"Quite likely","hhiZqKUC","Help defending savannah in Westhole from the intruders",109,3,true
+24,NONE,LOW,36,0,2,1004,1304,"Playing with fire","OugYh4LU","Help defending savannah in Fallwatch from the intruders",95,6,true
+24,NONE,HIGH,37,0,2,1099,1399,"Risky","gNLmSejI","Help defending steppe in Masonbury from the intruders",95,4,false
+24,NONE,LOW,39,0,2,1049,1399,"Risky","H9IEJ03O","Help defending peninsula in Penpine from the intruders",72,5,false
+24,NONE,LOW,41,0,2,999,1399,"Gamble","mGb6vWVI","Help defending field in Darkheart from the intruders",63,6,false
+24,NONE,LOW,43,0,2,949,1399,"Risky","vMjVrlyX","Help defending peninsula in Greydeen from the intruders",70,7,false
+24,NONE,HIGH,45,0,2,899,1399,"Gamble","DDYyf47a","Help defending well in Southport from the intruders",104,6,true
+24,NONE,HIGH,46,0,2,1003,1503,"Suicide mission","EOGCy25C","Help defending steppe in Lightpeak from the intruders",92,4,false
+24,NONE,HIGH,48,0,2,953,1503,"Playing with fire","kXq5SYTs","Help defending foggy riverside in Masonpine from the intruders",95,6,false
+25,FAST,LOW,0,0,3,0,0,"Quite likely","mv3r4iyo","Help Vibianus Smedley to reach an agreement with Nadzieja Sackville on the matters of disputed clothes",7,7,false
+25,FAST,LOW,1,0,2,0,0,"Piece of cake","UozNHgOA","Help Liza Zufall to clean their water",1,7,true
+25,FAST,HIGH,2,0,2,1,1,"Sure thing","D3CwmEFl","Steal weed delivery to Kyung Stainthorpe and share some of the profits with the people.",63,5,true
+25,FAST,LOW,3,0,2,64,64,"Piece of cake","QPh1wXd2","Help Sture Gladwin to reach an agreement with Domnika Eymer on the matters of disputed wagon",8,4,true
+25,FAST,LOW,4,0,2,72,72,"Gamble","BvXwxFAB","Help Wei Leonard to sell an unordinary house on the local market",23,3,true
+25,FAST,NA,5,0,2,95,95,"Sure thing","RxSVWuDR","Help Chadwick Harford to clean their potatoes",5,4,true
+25,FAST,LOW,7,1,2,0,100,"Piece of cake","FgHZ174A","Help Lilian Jónsson to write their biographical novel about their difficulties with a deranged horse",37,6,true
+25,FAST,HIGH,8,1,2,37,137,"Piece of cake","Rbbz03rw","Steal pot delivery to Gunvor Bennett and share some of the profits with the people.",75,6,true
+25,FAST,LOW,10,2,2,12,212,"Piece of cake","CEYY2XqG","Help Alter Tindall to reach an agreement with Jaynie Seymour on the matters of disputed pot",15,5,true
+25,FAST,HIGH,11,2,2,27,227,"Piece of cake","B3GkWyDx","Steal sheep delivery to Timothei Edgell and share some of the profits with the people.",42,3,true
+25,FAST,NA,12,2,2,69,269,"Piece of cake","TY8NljB7","Create an advertisement campaign for Annikki Gorbold to promote their bucket based business",29,6,true
+25,FAST,HIGH,13,2,2,98,298,"Walk in the park","SUgGxdm1","Escort Filippu Jakeman to pasture in Metalburg where they can meet with their long lost sheep",83,7,false
+25,FAST,LOW,15,2,2,48,298,"Hmmm....","NC2M65fk","Help Ermelinda Averill to write their biographical novel about their difficulties with a deranged bucket",41,6,false
+25,FAST,LOW,16,2,1,48,298,"Piece of cake","MnYy084R","Help Meta Andrewson to sell an unordinary water on the local market",28,5,true
+25,FAST,HIGH,18,2,2,26,326,"Sure thing","1zFmWPoH","Steal chicken delivery to Britt Blakeslee and share some of the profits with the people.",71,3,true
+25,FAST,HIGH,19,2,2,97,397,"Piece of cake","yiMCZZrJ","Steal sheep delivery to Lærke Michaelson and share some of the profits with the people.",80,7,true
+25,FAST,LOW,21,3,2,77,477,"Sure thing","0vD7uRze","Steal squirrel delivery to Yong Parsons and share some of the profits with the people.",66,3,true
+25,FAST,LOW,23,4,2,43,543,"Sure thing","EXzBLBoQ","Rescue Mariah Marsden from steppe in Redgill where they are attacked by angry water",23,6,true
+25,FAST,HIGH,24,4,2,66,566,"Hmmm....","6mbCLg3n","Help defending plains in Lightdinny from the intruders",152,4,false
+25,FAST,LOW,26,4,2,16,566,"Sure thing","nr1xs0N6","Help defending field in Eastpine from the intruders",170,4,true
+25,FAST,LOW,28,5,2,86,736,"Sure thing","k7ErRZBd","Steal super awesome diamond bucket from Rosalba Christophers",232,4,false
+25,FAST,LOW,30,5,2,36,736,"Piece of cake","e2cG8Lax","Help defending pasture in Westsheen from the intruders",114,6,true
+25,FAST,LOW,32,6,2,50,850,"Sure thing","b5AlIO6Q","Rescue Isaac Hepburn from plains in Sharpdean where they are attacked by angry wagon",39,4,true
+25,FAST,LOW,33,6,2,89,889,"Piece of cake","Jmp1ebZs","Help defending field in Burnsfair from the intruders",125,4,true
+25,FAST,HIGH,34,6,2,214,1014,"Sure thing","eRerchsP","Steal super awesome diamond chicken from Georgette Bowe",294,6,false
+25,FAST,LOW,36,6,2,164,1014,"Walk in the park","zCmJXR1q","Help defending field in Fangburg from the intruders",125,6,true
+25,FAST,HIGH,37,6,2,289,1139,"Piece of cake","iyRvAXwD","Steal super awesome diamond wagon from Ananta Shackleford",270,3,false
+25,FAST,LOW,39,6,2,239,1139,"Sure thing","cJsim1Wf","Help defending steppe in Bleakmountain from the intruders",138,3,true
+25,FAST,HIGH,40,6,2,377,1277,"Piece of cake","PYFpqgD5","Steal super awesome diamond beer mug from Eelis Langdon",266,5,false
+25,FAST,HIGH,42,6,2,327,1277,"Piece of cake","eYktCGkA","Steal super awesome diamond dog from Mahin Holmwood",227,3,false
+25,FAST,HIGH,44,6,2,277,1277,"Sure thing","6mz0NFVc","Steal super awesome diamond turnips from Elma Whitney",269,4,false
+25,FAST,LOW,46,6,2,227,1277,"Sure thing","EAO9QxNn","Steal super awesome diamond sheep from Alkibiades Sharman",224,5,false
+25,FAST,LOW,48,6,2,177,1277,"Sure thing","KHnIyvqA","Steal super awesome diamond chicken from Hillevi Strudwick",243,6,false
+26,NONE,LOW,0,0,3,0,0,"Quite likely","85uQGXYy","Create an advertisement campaign for Bee Thwaite to promote their clothes based business",29,7,true
+26,NONE,LOW,1,0,3,29,29,"Hmmm....","mBmzSYg5","Help Liina Traviss to transport a magic pot to savannah in Redton",18,6,true
+26,NONE,HIGH,2,0,3,47,47,"Hmmm....","oqTkFtLw","Escort Shota Wardrobe to grassland in Greypeak where they can meet with their long lost bucket",69,6,true
+26,NONE,HIGH,3,0,3,116,116,"Piece of cake","p8UqjxpR","Create an advertisement campaign for Cecilie Francis to promote their wagon based business",44,4,true
+26,NONE,HIGH,4,0,3,160,160,"Gamble","SupDIANY","Help Anabela Brittain to write their biographical novel about their difficulties with a deranged sheep",31,5,true
+26,NONE,HIGH,5,0,3,191,191,"Piece of cake","FkNqyzo3","Help Euphrasia Rodgers to transport a magic dog to peninsula in Towerburg",16,5,true
+26,NONE,HIGH,6,0,3,207,207,"Piece of cake","j7rQieeZ","Help Ognen Bannister to transport a magic potatoes to meadow in Masongannon",11,7,true
+26,NONE,HIGH,7,0,3,218,218,"Piece of cake","cydO1VRR","Escort Paulette Courtenay to steppe in Westfirth where they can meet with their long lost beer mug",71,7,true
+26,NONE,LOW,8,0,3,289,289,"Quite likely","y1XsWREP","Help Rokus Hermanson to transport a magic horse to steppe in Eastdean",21,6,true
+26,NONE,LOW,9,0,3,310,310,"Quite likely","sr5wPgSK","Help Pratap Seabrooke to transport a magic chariot to plains in Sharpbane",23,5,true
+26,NONE,LOW,10,0,3,333,333,"Hmmm....","jhzEEbWW","Help Hayim Þórsson to transport a magic bucket to plains in Blackcaster",19,4,true
+26,NONE,LOW,11,0,3,352,352,"Piece of cake","ZkupcKwH","Help Christen Gabriels to reach an agreement with Cierra Allsopp on the matters of disputed chicken",17,3,true
+26,NONE,LOW,12,0,3,369,369,"Hmmm....","3HSi9mjF","Help Efemena Courtier to write their biographical novel about their difficulties with a deranged pot",21,3,false
+26,NONE,HIGH,13,0,2,369,369,"Hmmm....","llVHu1bi","Create an advertisement campaign for Prune Traviss to promote their sheep based business",32,3,true
+26,NONE,LOW,14,0,2,401,401,"Walk in the park","Wgt4qX4k","Help Fajr Jackson to sell an unordinary house on the local market",19,5,true
+26,NONE,HIGH,15,0,2,420,420,"Walk in the park","fM3qZLPS","Escort Jimmy Derrickson to peninsula in Millerloft where they can meet with their long lost wagon",63,6,true
+26,NONE,HIGH,16,0,2,483,483,"Piece of cake","QGslvcej","Steal weed delivery to Cila Ásmundsdóttir and share some of the profits with the people.",53,5,true
+26,NONE,LOW,17,0,2,536,536,"Hmmm....","kYO6owpf","Help Fulvia Trueman to sell an unordinary cat on the local market",22,3,false
+26,NONE,LOW,19,0,2,486,536,"Quite likely","hCxj6ezq","Escort Şukri̇ye Brigham to steppe in Blackfirth where they can meet with their long lost pan",62,5,true
+26,NONE,LOW,20,0,2,548,598,"Rather detrimental","d8M1yOu4","Create an advertisement campaign for Vytautas Jónsson to promote their chicken based business",42,5,false
+26,NONE,NA,22,0,2,498,598,"Piece of cake","Md9f5uhD","Escort Félicien Kingsley to pasture in Oldmire where they can meet with their long lost chariot",69,7,false
+26,NONE,LOW,24,0,2,448,598,"Piece of cake","ysHprimV","Help defending field in Scaleseed from the intruders",91,7,true
+26,NONE,HIGH,25,0,2,539,689,"Sure thing","Gni5fIBK","Help defending village in Blacktown from the intruders",114,5,true
+26,NONE,NA,26,0,2,653,803,"Sure thing","39pn9sQj","Help defending plains in Lightgill from the intruders",107,4,true
+26,NONE,NA,27,0,2,760,910,"Piece of cake","4OmxQOtJ","Help defending plains in Whiteshaw from the intruders",106,3,true
+26,NONE,HIGH,28,0,2,866,1016,"Suicide mission","YP7PTCq1","Investigate Chae-won Björnsdóttir and find out their relation to the magic pan.",145,3,false
+26,NONE,NA,30,0,2,816,1016,"Walk in the park","4NKDOuDI","Help defending meadow in Snowdrone from the intruders",100,6,false
+26,NONE,HIGH,32,0,2,766,1016,"Piece of cake","u7pLmZGx","Help defending thrift shoppe in Orringannon from the intruders",97,6,false
+26,NONE,LOW,34,0,2,716,1016,"Quite likely","tuQuTSuC","Help defending village in Sharppeak from the intruders",97,4,true
+26,NONE,LOW,35,0,2,813,1113,"Walk in the park","GAKm2NnE","Help defending village in Scaledeen from the intruders",87,7,true
+26,NONE,LOW,36,0,2,900,1200,"Quite likely","h7CtOvHG","Help defending meadow in Lowefirth from the intruders",86,7,true
+26,NONE,LOW,37,0,2,986,1286,"Walk in the park","8PaFqjE3","Help defending meadow in Snowwell from the intruders",72,7,true
+26,NONE,HIGH,38,0,2,1058,1358,"Risky","77KdMp5P","Help defending meadow in Ridgeshore from the intruders",119,4,true
+26,NONE,LOW,39,0,2,1177,1477,"Hmmm....","5B0RwOhe","Help defending village in Blackville from the intruders",89,4,false
+26,NONE,HIGH,41,0,2,1127,1477,"Risky","XhzokbBU","Help defending grassland in Razorton from the intruders",96,4,false
+26,NONE,NA,43,0,2,1077,1477,"Piece of cake","YLLRuJLn","Help defending plains in Voidfire from the intruders",76,6,true
+26,NONE,LOW,44,0,2,1153,1553,"Quite likely","PXkdG1Jq","Help defending foggy riverside in Sharpwell from the intruders",71,7,true
+26,NONE,HIGH,45,0,2,1224,1624,"Playing with fire","a90s8j2y","Help defending rocky plains in Whitebury from the intruders",90,6,false
+26,NONE,HIGH,47,0,2,1174,1624,"Quite likely","hqRie9HQ","Help defending pasture in Southmoore from the intruders",91,3,true
+26,NONE,LOW,48,0,2,1265,1715,"Quite likely","xAj096Rw","Help defending woodland in Metalwell from the intruders",81,5,true
+26,NONE,LOW,49,0,2,1346,1796,"Risky","dHxqMnz5","Help defending cave in Bloodcrest from the intruders",62,7,false
+27,FAST,HIGH,0,0,3,0,0,"Walk in the park","HswT9RWs","Escort Janessa Beverley to savannah in Frostbane where they can meet with their long lost bucket",71,7,true
+27,FAST,LOW,1,0,3,71,71,"Gamble","q5q0mmM6","Help Monday Turnbull to sell an unordinary pot on the local market",15,6,false
+27,FAST,LOW,2,0,2,71,71,"Risky","0x7fv5qT","Help Qiu Beverley to fix their weed",3,5,true
+27,FAST,HIGH,3,0,2,74,74,"Piece of cake","u84OHz0y","Create an advertisement campaign for Bidane Baldwin to promote their horse based business",28,4,true
+27,FAST,LOW,5,1,2,2,102,"Piece of cake","LN3hHZRi","Help Kunthea Millhouse to fix their wagon",4,6,true
+27,FAST,NA,6,1,2,6,106,"Piece of cake","Ix3VrSfg","Help Benjamim Walters to transport a magic horse to thrift shoppe in Fangdale",17,4,true
+27,FAST,HIGH,7,1,2,23,123,"Walk in the park","7up8QHlA","Create an advertisement campaign for Pjetër Rowland to promote their chicken based business",40,7,true
+27,FAST,LOW,8,1,2,63,163,"Piece of cake","0VIQtxRs","Help Fergie Porcher to reach an agreement with Prema Godfrey on the matters of disputed pot",14,6,true
+27,FAST,LOW,9,1,2,77,177,"Piece of cake","hwohcSSE","Help Geertje Brynjólfsson to reach an agreement with Rowena Whittemore on the matters of disputed sheep",9,7,true
+27,FAST,HIGH,10,1,2,86,186,"Walk in the park","18Uu9SqC","Escort Ogechi Eglington to pasture in Sharpshaw where they can meet with their long lost potatoes",77,6,true
+27,FAST,HIGH,12,2,2,63,263,"Piece of cake","D9oTGvfa","Steal pot delivery to Kord Harding and share some of the profits with the people.",76,3,true
+27,FAST,HIGH,14,3,2,39,339,"Piece of cake","56ODHLLf","Escort Swanhilda Spalding to steppe in Westfair where they can meet with their long lost wagon",95,7,true
+27,FAST,LOW,16,4,2,34,434,"Quite likely","BymEXLqv","Help Celino Abrahams to write their biographical novel about their difficulties with a deranged squirrel",32,5,true
+27,FAST,LOW,17,4,2,66,466,"Rather detrimental","dVqHOlG8","Escort Zusa Washington to savannah in Frostwater where they can meet with their long lost turnips",77,3,true
+27,FAST,HIGH,19,5,2,43,543,"Quite likely","H8Iqe5Gi","Escort Azad Bristow to plains in Greyspring where they can meet with their long lost horse",120,6,true
+27,FAST,NA,21,6,2,63,663,"Sure thing","3JK4o2k9","Steal wagon delivery to Roxane Bristow and share some of the profits with the people.",67,4,true
+27,FAST,NA,22,6,2,130,730,"Piece of cake","MSvb65NB","Escort Kumiko Keighley to grassland in Orrindean where they can meet with their long lost weed",101,6,true
+27,FAST,HIGH,23,6,2,231,831,"Risky","oocpSWC0","Steal weed from Nicolás Chandler",149,7,false
+27,FAST,HIGH,25,6,2,181,831,"Quite likely","N6y8co8b","Escort Amalthea Quickley to field in Snowbury where they can meet with their long lost pot",107,6,true
+27,FAST,HIGH,26,6,2,288,938,"Piece of cake","7LRNiear","Escort Damla Travers to savannah in Sharpmere where they can meet with their long lost squirrel",130,5,true
+27,FAST,HIGH,27,6,2,418,1068,"Piece of cake","wRs7dA4E","Help defending village in Blackmere from the intruders",189,7,true
+27,FAST,HIGH,28,6,2,607,1257,"Suicide mission","s8czyP49","Investigate Pauline Shelton and find out their relation to the magic pan.",237,3,false
+27,FAST,HIGH,30,6,2,557,1257,"Quite likely","PjXKEXbX","Rescue Anoubis Bardsley from village in Everdean where they are attacked by angry weed",42,4,false
+27,FAST,NA,32,6,2,507,1257,"Piece of cake","7FNMkEg0","Rescue Damhán Burnham from steppe in Metaldinny where they are attacked by angry chicken",54,4,true
+27,FAST,LOW,33,6,2,561,1311,"Walk in the park","d82tA4bd","Help defending field in Westwhyte from the intruders",146,7,true
+27,FAST,LOW,34,6,2,707,1457,"Piece of cake","2IDLZKJy","Help defending grassland in Orrindale from the intruders",139,7,true
+27,FAST,HIGH,35,6,2,846,1596,"Piece of cake","7L2CcN8B","Help defending grassland in Snowhill from the intruders",179,7,true
+27,FAST,LOW,36,6,2,1025,1775,"Hmmm....","O1xJwR1L","Help defending plains in Dornhill from the intruders",115,7,false
+27,FAST,HIGH,38,6,2,975,1775,"Gamble","6plaTRyn","Help defending steppe in Towermoore from the intruders",168,6,true
+27,FAST,LOW,39,6,2,1143,1943,"Walk in the park","SbuEUOYL","Help defending savannah in Millerloft from the intruders",118,7,false
+27,FAST,NA,41,6,2,1093,1943,"Piece of cake","fYFrw04B","Help defending steppe in Fallmountain from the intruders",125,7,true
+27,FAST,HIGH,42,6,2,1218,2068,"Playing with fire","qnf4JPft","Help defending village in Towergannon from the intruders",131,7,true
+27,FAST,LOW,43,6,2,1349,2199,"Hmmm....","wqRzd8Lr","Help defending field in Redpeak from the intruders",115,7,false
+27,FAST,HIGH,45,6,2,1299,2199,"Hmmm....","UCX5wdra","Help defending field in Darkmountain from the intruders",150,3,true
+27,FAST,HIGH,46,6,2,1449,2349,"Risky","6LNMejGb","Help defending grassland in Fangfire from the intruders",144,3,false
+27,FAST,LOW,48,6,2,1399,2349,"Risky","wXCzMcff","Help defending island in Eastmere from the intruders",107,6,false
+28,NONE,LOW,0,0,3,0,0,"Hmmm....","o8UyA9GJ","Help Kolman Tennyson to transport a magic horse to plains in Fallcaster",12,7,true
+28,NONE,HIGH,1,0,3,12,12,"Piece of cake","AhOlbfGM","Steal pan delivery to Matthieu Fitzroy and share some of the profits with the people.",42,6,true
+28,NONE,LOW,2,0,3,54,54,"Walk in the park","Hx44RnTG","Help Angra Christians to transport a magic chicken to grassland in Eastscale",11,5,false
+28,NONE,HIGH,3,0,2,54,54,"Walk in the park","bQVqKOU7","Create an advertisement campaign for Giacomina Sanderson to promote their cat based business",37,4,false
+28,NONE,NA,5,0,2,4,54,"Sure thing","T0mmmcOu","Help Alanna Samuels to clean their weed",4,3,true
+28,NONE,LOW,6,0,2,8,58,"Walk in the park","ajMngrYH","Help Khanpasha Packard to reach an agreement with Athaliah Garrard on the matters of disputed chariot",7,4,true
+28,NONE,HIGH,7,0,2,15,65,"Walk in the park","90eNux1Z","Steal bucket delivery to Yeruslan Hudnall and share some of the profits with the people.",46,6,true
+28,NONE,LOW,8,0,2,61,111,"Piece of cake","PggauoT6","Help Georgina Milburn to reach an agreement with Jaya Boothman on the matters of disputed bucket",2,7,true
+28,NONE,HIGH,9,0,2,63,113,"Playing with fire","iHiID65Y","Help Ugnė Berryann to write their biographical novel about their difficulties with a deranged potatoes",36,7,false
+28,NONE,LOW,11,0,2,13,113,"Sure thing","V8CsEw0O","Help Sandro Harland to reach an agreement with Mélissa Thrussell on the matters of disputed sheep",11,3,true
+28,NONE,HIGH,12,0,2,24,124,"Walk in the park","pJJfk1jJ","Help Reto Sanders to sell an unordinary dog on the local market",20,4,true
+28,NONE,LOW,13,0,2,44,144,"Walk in the park","WsJtTXiO","Create an advertisement campaign for Vilja Harrison to promote their water based business",16,4,true
+28,NONE,LOW,14,0,2,60,160,"Walk in the park","sfBOepjV","Create an advertisement campaign for Tyge Orange to promote their wagon based business",22,6,true
+28,NONE,HIGH,15,0,2,82,182,"Walk in the park","0f8uNTco","Help Kreios Bullock to write their biographical novel about their difficulties with a deranged wagon",38,6,true
+28,NONE,LOW,16,0,2,120,220,"Walk in the park","VnvyIRhU","Create an advertisement campaign for Atalanta Abramson to promote their pan based business",24,6,true
+28,NONE,LOW,17,0,2,144,244,"Walk in the park","K20vjaZk","Create an advertisement campaign for Derby Derrickson to promote their chicken based business",30,4,true
+28,NONE,NA,18,0,2,174,274,"Sure thing","IYJNQVXB","Help Sonja Spearing to sell an unordinary wagon on the local market",22,3,true
+28,NONE,HIGH,19,0,2,196,296,"Hmmm....","oIbxSr0j","Create an advertisement campaign for Navneet Painter to promote their water based business",44,7,true
+28,NONE,NA,20,0,2,240,340,"Sure thing","6xWXu0vH","Steal house delivery to Saffron Meadows and share some of the profits with the people.",53,6,true
+28,NONE,HIGH,21,0,2,293,393,"Piece of cake","QFa2Yyhg","Help defending peninsula in Blackdrone from the intruders",142,7,true
+28,NONE,HIGH,22,0,2,435,535,"Hmmm....","BbbaB1mA","Help defending thrift shoppe in Voidgill from the intruders",146,6,true
+28,NONE,LOW,23,0,2,581,681,"Piece of cake","ptjcHatj","Steal horse delivery to Dessislava Martins and share some of the profits with the people.",39,3,true
+28,NONE,HIGH,24,0,2,620,720,"Piece of cake","HKdQf2LT","Escort Chioma Hameldon to pasture in Strongmere where they can meet with their long lost turnips",57,6,true
+28,NONE,HIGH,25,0,2,677,777,"Walk in the park","3g9XPQaD","Help defending steppe in Dorngill from the intruders",117,7,false
+28,NONE,LOW,27,0,2,627,777,"Piece of cake","mRwwKgfO","Escort Jia Morrison to field in Blackmere where they can meet with their long lost weed",56,4,true
+28,NONE,HIGH,28,0,2,683,833,"Hmmm....","YOJNurSf","Help defending plains in Blackport from the intruders",95,7,true
+28,NONE,HIGH,29,0,2,778,928,"Walk in the park","VsdRPm2S","Help defending peninsula in Fernscale from the intruders",104,3,true
+28,NONE,NA,30,0,2,882,1032,"Piece of cake","SVtjOsmc","Help defending plains in Westcrest from the intruders",100,4,true
+28,NONE,HIGH,31,0,2,982,1132,"Walk in the park","1IvH6b69","Help defending thrift shoppe in Metalwater from the intruders",92,7,true
+28,NONE,LOW,32,0,2,1074,1224,"Gamble","DVgJpXox","Help defending plains in Westburg from the intruders",91,7,false
+28,NONE,LOW,34,0,2,1024,1224,"Risky","Bgpur4e2","Help defending steppe in Orrinshore from the intruders",104,7,true
+28,NONE,LOW,35,0,2,1128,1328,"Piece of cake","vUq9FboJ","Help defending plains in Pengannon from the intruders",89,3,true
+28,NONE,LOW,36,0,2,1217,1417,"Walk in the park","DWiua8yS","Help defending savannah in Dovefair from the intruders",79,6,true
+28,NONE,LOW,37,0,2,1296,1496,"Walk in the park","HvgRJvlf","Help defending savannah in Eastcawl from the intruders",81,5,true
+28,NONE,LOW,38,0,2,1377,1577,"Walk in the park","nmZUpaHk","Help defending grassland in Fangwell from the intruders",97,6,true
+28,NONE,HIGH,39,0,2,1474,1674,"Walk in the park","FXiGcCvh","Help defending pasture in Ridgebury from the intruders",102,6,true
+28,NONE,LOW,40,0,2,1576,1776,"Hmmm....","8GytNYiO","Help defending thrift shoppe in Fangdale from the intruders",71,7,true
+28,NONE,NA,41,0,2,1647,1847,"Piece of cake","OAniBTPC","Help defending steppe in Razorheart from the intruders",80,6,true
+28,NONE,NA,42,0,2,1727,1927,"Walk in the park","y73wkUDu","Help defending peninsula in Ridgecrest from the intruders",95,4,false
+28,NONE,HIGH,44,0,2,1677,1927,"Gamble","Bjaqeqh0","Help defending thrift shoppe in Razordinny from the intruders",94,5,false
+28,NONE,HIGH,46,0,2,1627,1927,"Piece of cake","lzUvE4ij","Help defending forest in Ridgecrest from the intruders",98,6,true
+28,NONE,HIGH,47,0,2,1725,2025,"Suicide mission","jYnrk69M","Help defending village in Lowecrest from the intruders",66,3,false
+28,NONE,NA,49,0,2,1675,2025,"Walk in the park","C5YkNsim","Help defending cave in Lowecaster from the intruders",94,5,true
+29,FAST,LOW,0,0,3,0,0,"Piece of cake","4clgnYqF","Help Fionnghall Bristol to reach an agreement with Torbjörn Millard on the matters of disputed chariot",12,7,false
+29,FAST,HIGH,1,0,2,0,0,"Piece of cake","gkLeO2Cn","Escort Borislava Harrelson to meadow in Snowmere where they can meet with their long lost pan",64,6,true
+29,FAST,HIGH,2,0,2,64,64,"Piece of cake","WqMvGbng","Steal potatoes delivery to Laurentine Harrelson and share some of the profits with the people.",40,5,true
+29,FAST,HIGH,4,1,2,4,104,"Quite likely","1pnKLXhL","Create an advertisement campaign for Amandeep Dedrick to promote their potatoes based business",43,3,true
+29,FAST,LOW,5,1,2,47,147,"Piece of cake","8K1rBVHV","Help Vašek Atterberry to clean their wagon",3,4,true
+29,FAST,NA,6,1,2,50,150,"Piece of cake","754BUPWC","Help Kazimír Rowbottom to sell an unordinary sheep on the local market",14,4,true
+29,FAST,LOW,7,1,2,64,164,"Hmmm....","XRXm346B","Rescue Janetta Jenkins from grassland in Thornseed where they are attacked by angry bucket",29,7,true
+29,FAST,HIGH,8,1,2,93,193,"Piece of cake","RdH50bdB","Steal chariot delivery to Henry Fairburn and share some of the profits with the people.",72,7,true
+29,FAST,LOW,10,2,2,65,265,"Walk in the park","L7e9k9tg","Create an advertisement campaign for Innocent Pritchett to promote their chicken based business",37,6,true
+29,FAST,NA,12,3,2,2,302,"Piece of cake","cYe5LkK6","Create an advertisement campaign for Helēna Stevens to promote their cat based business",22,6,true
+29,FAST,LOW,13,3,2,24,324,"Walk in the park","bmVx4tHZ","Rescue Marilena Whittle from plains in Metalville where they are attacked by angry potatoes",40,7,true
+29,FAST,HIGH,14,3,2,64,364,"Quite likely","nTjIR2yD","Steal potatoes from Ans English",127,7,false
+29,FAST,HIGH,16,3,2,14,364,"Walk in the park","rkZarHm1","Steal clothes from Hiroki Soule",117,5,false
+29,FAST,HIGH,17,3,1,14,364,"Quite likely","0ewFHdur","Escort Peppi Trueman to thrift shoppe in Orrinpool where they can meet with their long lost chicken",86,4,true
+29,FAST,NA,19,3,2,50,450,"Walk in the park","byndrwiL","Steal weed delivery to Anunciación Dingfelder and share some of the profits with the people.",74,7,false
+29,FAST,LOW,21,3,2,0,450,"Piece of cake","8LoqpRYh","Escort Berit Brasher to savannah in Orringill where they can meet with their long lost pot",59,7,true
+29,FAST,HIGH,22,3,2,59,509,"Rather detrimental","vl0gM4r0","Investigate Keturah Royceston and find out their relation to the magic house.",190,3,false
+29,FAST,LOW,24,3,2,9,509,"Gamble","puIdDF5b","Escort Syarhey Thwaite to meadow in Metalkeep where they can meet with their long lost beer mug",57,5,false
+29,FAST,HIGH,25,3,1,9,509,"Walk in the park","RpkRNuRl","Escort Émilie Edgell to peninsula in Razorfirth where they can meet with their long lost turnips",88,4,true
+29,FAST,LOW,27,3,2,47,597,"Walk in the park","vdKlG2jy","Rescue Nicolaos Debenham from pasture in Lowecrest where they are attacked by angry house",29,5,true
+29,FAST,NA,28,3,2,76,626,"Sure thing","SjHeyQGn","Help defending meadow in Burnshill from the intruders",101,7,true
+29,FAST,HIGH,30,4,2,77,727,"Walk in the park","wdf2JanK","Help defending pasture in Fanghole from the intruders",160,4,true
+29,FAST,LOW,33,6,2,37,887,"Piece of cake","GG6A18Ba","Help defending pasture in Westmire from the intruders",140,5,true
+29,FAST,LOW,34,6,2,177,1027,"Hmmm....","OJnX8AZY","Help defending savannah in Easttown from the intruders",86,3,true
+29,FAST,HIGH,35,6,2,263,1113,"Piece of cake","50Ej9yGN","Help defending grassland in Thornfirth from the intruders",171,3,true
+29,FAST,HIGH,36,6,2,434,1284,"Piece of cake","MpY8DpUz","Help defending village in Snowburg from the intruders",170,5,true
+29,FAST,HIGH,37,6,2,604,1454,"Walk in the park","brdIv8DO","Help defending field in Dornloft from the intruders",157,5,true
+29,FAST,HIGH,38,6,2,761,1611,"Hmmm....","3TkC2MFc","Help defending grassland in Sharpwater from the intruders",149,7,true
+29,FAST,HIGH,39,6,2,910,1760,"Piece of cake","q8vBBMQ3","Help defending village in Oldheart from the intruders",133,7,true
+29,FAST,NA,40,6,2,1043,1893,"Walk in the park","SLjx8GqO","Help defending field in Thornpine from the intruders",123,4,true
+29,FAST,HIGH,41,6,2,1166,2016,"Quite likely","SwUDDKjK","Help defending steppe in Millerdean from the intruders",122,7,true
+29,FAST,HIGH,42,6,2,1288,2138,"Rather detrimental","V7QOtRDb","Help defending savannah in Eastshore from the intruders",162,5,false
+29,FAST,HIGH,44,6,2,1238,2138,"Walk in the park","3CnHkQK5","Help defending steppe in Everbane from the intruders",125,6,false
+29,FAST,NA,46,6,2,1188,2138,"Piece of cake","4SzUwoYC","Help defending thrift shoppe in Redcrest from the intruders",93,4,true
+29,FAST,NA,47,6,2,1281,2231,"Walk in the park","qLrGZVKt","Help defending foggy riverside in Scalehole from the intruders",112,4,true
+29,FAST,LOW,48,6,2,1393,2343,"Rather detrimental","mWecnES4","Help defending island in Redgannon from the intruders",98,7,true
+29,FAST,LOW,49,6,2,1491,2441,"Hmmm....","XXPweqoa","Help defending foggy riverside in Lightbury from the intruders",98,6,false
+30,NONE,HIGH,0,0,3,0,0,"Quite likely","IXkr8CJc","Create an advertisement campaign for Jodene Leighton to promote their turnips based business",40,7,false
+30,NONE,LOW,1,0,2,0,0,"Hmmm....","mcjfPr9d","Help Sita Neville to reach an agreement with Sabia Wylie on the matters of disputed house",16,6,true
+30,NONE,HIGH,2,0,2,16,16,"Piece of cake","KuwOELbg","Steal dog delivery to Åsmund Rennold and share some of the profits with the people.",47,6,true
+30,NONE,LOW,3,0,2,63,63,"Hmmm....","mBEqlpG3","Create an advertisement campaign for Hina Blackbourne to promote their bucket based business",19,7,true
+30,NONE,HIGH,4,0,2,82,82,"Sure thing","9K11VhzO","Help Badr Orange to clean their sheep",10,3,true
+30,NONE,NA,5,0,2,92,92,"Piece of cake","nlM8NlBu","Help Frantzisca Ásmundsdóttir to transport a magic chicken to thrift shoppe in Burnsscale",22,6,true
+30,NONE,NA,6,0,2,114,114,"Walk in the park","AELJRlZv","Help Gabriëlle Marchand to fix their water",3,3,false
+30,NONE,HIGH,8,0,2,64,114,"Quite likely","UsV84p06","Escort Dionísio Shelton to village in Fangwell where they can meet with their long lost bucket",60,6,true
+30,NONE,LOW,9,0,2,124,174,"Hmmm....","pcdQzdcm","Create an advertisement campaign for Fitzroy Lesassier to promote their sheep based business",30,4,false
+30,NONE,LOW,11,0,2,74,174,"Gamble","CiDMQblY","Create an advertisement campaign for Artturi Odson to promote their house based business",35,3,true
+30,NONE,NA,12,0,2,109,209,"Hmmm....","7v66AKQU","Help Ping Kendrick to write their biographical novel about their difficulties with a deranged water",26,7,true
+30,NONE,HIGH,13,0,2,135,235,"Gamble","4R5rMf0h","Help Sabahatti̇n Perkins to write their biographical novel about their difficulties with a deranged pot",38,3,true
+30,NONE,HIGH,14,0,2,173,273,"Walk in the park","KaOjejzu","Escort Lilija Rodgers to peninsula in Oldcrest where they can meet with their long lost dog",64,7,true
+30,NONE,HIGH,15,0,2,237,337,"Quite likely","w2N4L32e","Escort Thora Whittemore to steppe in Millershore where they can meet with their long lost pan",87,6,false
+30,NONE,HIGH,17,0,2,187,337,"Gamble","ZBhkkYMb","Escort Sissie Marlowe to plains in Dornsheen where they can meet with their long lost pot",58,4,true
+30,NONE,HIGH,18,0,2,245,395,"Piece of cake","9Zjm8TKc","Escort Martyna Blackbourne to thrift shoppe in Orrindale where they can meet with their long lost house",52,5,true
+30,NONE,HIGH,19,0,2,297,447,"Piece of cake","CAYbnDSY","Steal cat delivery to Siem Steffen and share some of the profits with the people.",47,7,true
+30,NONE,HIGH,20,0,2,344,494,"Piece of cake","1PYbWu5m","Escort Marzio Wortham to field in Metalham where they can meet with their long lost wagon",73,7,true
+30,NONE,LOW,21,0,2,417,567,"Piece of cake","eDAPtdC7","Create an advertisement campaign for Kalidasa Gabrielson to promote their pan based business",31,5,true
+30,NONE,LOW,22,0,2,448,598,"Gamble","FI9VvNcN","Help Luciana Fletcher to write their biographical novel about their difficulties with a deranged turnips",41,3,false
+30,NONE,HIGH,24,0,2,398,598,"Piece of cake","ziWF1V4g","Help defending village in Eastsheen from the intruders",119,4,true
+30,NONE,LOW,25,0,2,517,717,"Piece of cake","1VyC8ujU","Help defending field in Greyshaw from the intruders",102,3,true
+30,NONE,NA,26,0,2,619,819,"Piece of cake","Vz3pZqt0","Help defending grassland in Burnsfire from the intruders",108,7,true
+30,NONE,NA,27,0,2,727,927,"Gamble","jCFfqGrr","Help defending peninsula in Towermoore from the intruders",96,7,false
+30,NONE,NA,29,0,2,677,927,"Piece of cake","5eW0Xj41","Help defending savannah in Frostwell from the intruders",104,6,true
+30,NONE,NA,30,0,2,781,1031,"Piece of cake","MzlwbryF","Help defending grassland in Bleakton from the intruders",96,7,true
+30,NONE,LOW,31,0,2,877,1127,"Suicide mission","D8jnsRx1","Investigate Alena Winston and find out their relation to the magic chicken.",121,3,false
+30,NONE,NA,33,0,2,827,1127,"Piece of cake","5L9FMuIp","Help defending steppe in Snowcrest from the intruders",96,4,true
+30,NONE,LOW,34,0,2,923,1223,"Hmmm....","rQUTrCUA","Help defending meadow in Whitesheen from the intruders",99,5,true
+30,NONE,HIGH,35,0,2,1022,1322,"Hmmm....","BtFYv7wr","Help defending grassland in Lightmountain from the intruders",108,6,false
+30,NONE,LOW,37,0,2,972,1322,"Piece of cake","aqYGiNik","Help defending grassland in Bleakshaw from the intruders",76,6,true
+30,NONE,HIGH,38,0,2,1048,1398,"Risky","oNkslOEd","Help defending pasture in Towerpine from the intruders",109,4,false
+30,NONE,HIGH,40,0,2,998,1398,"Hmmm....","FnfvVvAV","Help defending peninsula in Oldpool from the intruders",88,6,true
+30,NONE,LOW,41,0,2,1086,1486,"Walk in the park","emt8Y09n","Help defending savannah in Voidmountain from the intruders",76,7,true
+30,NONE,LOW,42,0,2,1162,1562,"Walk in the park","b4KZBSGU","Help defending meadow in Masonsheen from the intruders",89,7,true
+30,NONE,HIGH,43,0,2,1251,1651,"Risky","JKZKEwru","Help defending grassland in Eastgill from the intruders",79,7,true
+30,NONE,HIGH,44,0,2,1330,1730,"Risky","krKdNJJS","Help defending thrift shoppe in Burnsshaw from the intruders",77,4,true
+30,NONE,HIGH,45,0,2,1407,1807,"Quite likely","t21YkrzL","Help defending hill in Strongburg from the intruders",86,7,false
+30,NONE,HIGH,47,0,2,1357,1807,"Risky","BNBuhWuA","Help defending field in Fangmountain from the intruders",72,3,false
+30,NONE,NA,49,0,2,1307,1807,"Walk in the park","fb4Oo9Mu","Help defending island in Razorville from the intruders",73,4,true
+31,FAST,HIGH,0,0,3,0,0,"Piece of cake","YE7VFGd9","Escort Michelina Willard to grassland in Ridgegarden where they can meet with their long lost sheep",74,7,true
+31,FAST,LOW,1,0,3,74,74,"Walk in the park","TSFdSwJ7","Create an advertisement campaign for Tivoli Comstock to promote their squirrel based business",21,6,true
+31,FAST,HIGH,2,0,3,95,95,"Piece of cake","TmkhH94p","Help Małgosia Akerman to reach an agreement with Charis Paulson on the matters of disputed chicken",11,5,true
+31,FAST,LOW,4,1,3,6,106,"Quite likely","Uh5kTMTC","Help Ichiro Patterson to reach an agreement with Vercingetorix Hargrave on the matters of disputed pan",7,3,false
+31,FAST,HIGH,5,1,2,6,106,"Piece of cake","aiVgeI2v","Help Sloan Travers to fix their weed",8,3,true
+31,FAST,LOW,6,1,2,14,114,"Piece of cake","h0EXUp8r","Help Marquita Patterson to clean their potatoes",4,4,true
+31,FAST,LOW,7,1,2,18,118,"Hmmm....","6HGbTeH2","Create an advertisement campaign for Itamar Goody to promote their wagon based business",37,7,true
+31,FAST,HIGH,8,1,2,55,155,"Piece of cake","1DwvkNSg","Create an advertisement campaign for Vilko Alexander to promote their weed based business",36,7,true
+31,FAST,LOW,9,1,2,91,191,"Piece of cake","QpqyIgzd","Help Fredrika Clifton to reach an agreement with Þone Brittain on the matters of disputed pot",8,4,true
+31,FAST,HIGH,10,1,2,99,199,"Piece of cake","TOmV0o9J","Escort Aurea Garfield to thrift shoppe in Ferndale where they can meet with their long lost chicken",86,6,true
+31,FAST,LOW,12,2,2,85,285,"Quite likely","qkFFvJBb","Help Ruzha Jónsdóttir to sell an unordinary beer mug on the local market",21,6,true
+31,FAST,LOW,14,3,2,6,306,"Piece of cake","cy1kLNfc","Create an advertisement campaign for Kendall Roberts to promote their sheep based business",41,7,true
+31,FAST,LOW,15,3,2,47,347,"Walk in the park","MogfnPLP","Rescue Yura Scriven from grassland in Dovedeen where they are attacked by angry horse",35,6,true
+31,FAST,HIGH,16,3,2,82,382,"Walk in the park","zE7WLw09","Help Tabby Gladwin to write their biographical novel about their difficulties with a deranged sheep",50,5,false
+31,FAST,LOW,18,3,2,32,382,"Walk in the park","Ni06TVwY","Rescue Braelyn Arrington from village in Newgarden where they are attacked by angry pot",27,5,true
+31,FAST,HIGH,19,3,2,59,409,"Walk in the park","Ypy1FG5Q","Help György Spurling to write their biographical novel about their difficulties with a deranged pot",52,7,true
+31,FAST,HIGH,21,4,2,11,461,"Piece of cake","BhVOyX22","Help defending grassland in Orrinwhyte from the intruders",120,7,true
+31,FAST,HIGH,23,5,2,31,581,"Piece of cake","eAn8eYDQ","Help defending peninsula in Highton from the intruders",152,5,true
+31,FAST,HIGH,25,6,2,83,733,"Piece of cake","xKydL1nC","Help defending village in Towerdrone from the intruders",191,6,true
+31,FAST,HIGH,26,6,2,274,924,"Risky","ZHkgrSyQ","Investigate Julian Marlowe and find out their relation to the magic house.",235,3,false
+31,FAST,HIGH,28,6,2,224,924,"Risky","Bvcfv0jj","Investigate Samuilu Abraham and find out their relation to the magic chariot.",229,3,false
+31,FAST,LOW,30,6,2,174,924,"Walk in the park","zdslpLFq","Rescue Lutz Fletcher from grassland in Greydrone where they are attacked by angry bucket",59,4,true
+31,FAST,NA,31,6,2,233,983,"Piece of cake","Uu484OBy","Rescue Dai Carlyle from plains in Southkeep where they are attacked by angry house",35,5,true
+31,FAST,HIGH,32,6,2,268,1018,"Walk in the park","ARBHiTBD","Help defending village in Frostwatch from the intruders",166,4,true
+31,FAST,HIGH,33,6,2,434,1184,"Hmmm....","qFLAZ9fs","Help defending village in Metalfair from the intruders",139,7,true
+31,FAST,HIGH,34,6,2,573,1323,"Walk in the park","hkqBqiiE","Help defending grassland in Pendean from the intruders",162,5,true
+31,FAST,HIGH,35,6,2,735,1485,"Walk in the park","Ez2UeAkn","Help defending grassland in Everkeep from the intruders",176,7,true
+31,FAST,HIGH,36,6,2,911,1661,"Piece of cake","ith6C119","Help defending peninsula in Bleakmountain from the intruders",166,7,true
+31,FAST,HIGH,37,6,2,1077,1827,"Piece of cake","oykHXMN5","Help defending village in Newmire from the intruders",133,3,true
+31,FAST,LOW,38,6,2,1210,1960,"Walk in the park","PmolpVhC","Help defending savannah in Newcaster from the intruders",136,3,true
+31,FAST,LOW,39,6,2,1346,2096,"Walk in the park","jCWL71KH","Help defending field in Fernwhyte from the intruders",122,7,false
+31,FAST,NA,41,6,2,1296,2096,"Piece of cake","8Ez1CIH4","Help defending peninsula in Millerbane from the intruders",174,6,true
+31,FAST,LOW,42,6,2,1470,2270,"Walk in the park","o4AFWuJ1","Help defending plains in Frosthole from the intruders",106,7,true
+31,FAST,LOW,43,6,2,1576,2376,"Walk in the park","QPCUCTHF","Help defending thrift shoppe in Blackmountain from the intruders",130,7,true
+31,FAST,LOW,44,6,2,1706,2506,"Risky","2AWgVKGY","Help defending hill in Orrinpool from the intruders",141,7,true
+31,FAST,LOW,45,6,2,1847,2647,"Piece of cake","fZRn2y5I","Help defending hill in Redseed from the intruders",114,6,true
+31,FAST,HIGH,46,6,2,1961,2761,"Piece of cake","clQan3dV","Help defending woodland in Olddean from the intruders",128,6,true
+31,FAST,HIGH,47,6,2,2089,2889,"Gamble","nrLPz47H","Help defending cave in Dorndean from the intruders",144,6,false
+31,FAST,LOW,49,6,2,2039,2889,"Suicide mission","4PzfQ4q0","Help defending foggy riverside in Dornfirth from the intruders",101,7,false
+32,NONE,LOW,0,0,3,0,0,"Sure thing","tVrTu33h","Steal chicken delivery to Kira Woodhams and share some of the profits with the people.",50,7,true
+32,NONE,HIGH,1,0,3,50,50,"Hmmm....","KABGePJ8","Escort Jadwiga Emor to field in Redcawl where they can meet with their long lost clothes",69,7,true
+32,NONE,HIGH,2,0,3,119,119,"Piece of cake","MzsjmLUC","Help Verónica Strange to transport a magic dog to plains in Ravenshore",18,7,true
+32,NONE,HIGH,3,0,3,137,137,"Sure thing","NsY5Qojt","Steal water delivery to Delphinus Rollins and share some of the profits with the people.",65,4,true
+32,NONE,LOW,4,0,3,202,202,"Quite likely","Buyjc4is","Help Maurício Armistead to transport a magic weed to thrift shoppe in Darkchester",4,3,false
+32,NONE,LOW,5,0,2,202,202,"Piece of cake","qQBSB3gE","Help Ingomar Northrop to reach an agreement with Randa Phillips on the matters of disputed potatoes",10,5,true
+32,NONE,HIGH,6,0,2,212,212,"Quite likely","JNNtwy3w","Create an advertisement campaign for Prometheus Atkinson to promote their clothes based business",30,5,false
+32,NONE,HIGH,8,0,2,162,212,"Quite likely","Mte7R7zY","Escort Yamikani Johnson to pasture in Stronggarden where they can meet with their long lost potatoes",61,6,true
+32,NONE,LOW,9,0,2,223,273,"Sure thing","UaxdtBco","Steal chicken delivery to Morgane Richards and share some of the profits with the people.",40,5,true
+32,NONE,HIGH,10,0,2,263,313,"Gamble","yUo7vNi2","Help Elma Winslow to write their biographical novel about their difficulties with a deranged sheep",34,4,true
+32,NONE,LOW,11,0,2,297,347,"Sure thing","N4uTeYDB","Steal water delivery to Kjersti Martell and share some of the profits with the people.",46,6,true
+32,NONE,LOW,12,0,2,343,393,"Piece of cake","6u2YzCQi","Help Azra Yohe to reach an agreement with Luzia Nielson on the matters of disputed cat",12,4,true
+32,NONE,HIGH,13,0,2,355,405,"Piece of cake","dhZEQOl7","Steal sheep delivery to Victòria Rowland and share some of the profits with the people.",60,7,true
+32,NONE,LOW,14,0,2,415,465,"Walk in the park","PGA7UWuD","Steal water delivery to Tadej Thrussell and share some of the profits with the people.",48,6,true
+32,NONE,LOW,15,0,2,463,513,"Piece of cake","1Nl4Hblc","Create an advertisement campaign for Fróði Woodham to promote their squirrel based business",26,4,true
+32,NONE,HIGH,16,0,2,489,539,"Piece of cake","j7Hx5aWK","Escort Rakhi Eymor to pasture in Orrindale where they can meet with their long lost squirrel",54,5,true
+32,NONE,LOW,17,0,2,543,593,"Gamble","JJHAeenp","Create an advertisement campaign for Enola Winchester to promote their house based business",28,5,true
+32,NONE,LOW,18,0,2,571,621,"Gamble","FHQDwJGQ","Create an advertisement campaign for Anastazja Gylfadóttir to promote their chicken based business",34,3,true
+32,NONE,LOW,19,0,2,605,655,"Piece of cake","0psTRAhz","Help Æthelred Ásmundsdóttir to write their biographical novel about their difficulties with a deranged pan",18,4,true
+32,NONE,NA,20,0,2,623,673,"Sure thing","cxw7vPAt","Steal super awesome diamond potatoes from Ile Carlisle",170,4,false
+32,NONE,LOW,22,0,2,573,673,"Piece of cake","UIZQzDQo","Create an advertisement campaign for Iahel Norwood to promote their chicken based business",25,3,true
+32,NONE,LOW,23,0,2,598,698,"Piece of cake","y0rJrQWu","Escort Hannas Rodgers to grassland in Bloodford where they can meet with their long lost wagon",52,5,true
+32,NONE,LOW,24,0,2,650,750,"Piece of cake","aCWbfrXO","Help defending thrift shoppe in Orrinscale from the intruders",110,6,true
+32,NONE,LOW,25,0,2,760,860,"Piece of cake","QI6zXKRC","Help defending field in Masonshore from the intruders",71,7,true
+32,NONE,HIGH,26,0,2,831,931,"Sure thing","YtpArj0D","Steal super awesome diamond pan from Deangelo Brittain",190,5,false
+32,NONE,LOW,28,0,2,781,931,"Piece of cake","Tuv6nKk7","Steal super awesome diamond bucket from Sunitha Patterson",166,4,false
+32,NONE,LOW,30,0,2,731,931,"Sure thing","e4fkqp1r","Steal super awesome diamond dog from Herakleides Andrewson",161,6,false
+32,NONE,HIGH,32,0,2,681,931,"Sure thing","82lj94dZ","Steal super awesome diamond potatoes from Kate Sandford",195,3,false
+32,NONE,LOW,34,0,2,631,931,"Hmmm....","ff7oZLEq","Help defending field in Fangfirth from the intruders",78,7,true
+32,NONE,HIGH,35,0,2,709,1009,"Piece of cake","HDcv5XnA","Steal super awesome diamond potatoes from Gisela Wootton",169,3,false
+32,NONE,HIGH,37,0,2,659,1009,"Piece of cake","QzCxfeA7","Steal super awesome diamond bucket from İzzet Mathewson",155,5,false
+32,NONE,HIGH,39,0,2,609,1009,"Sure thing","b9f95tkR","Steal super awesome diamond turnips from 'avima'el Prudhomme",170,6,false
+32,NONE,HIGH,41,0,2,559,1009,"Sure thing","HOYOo1o5","Steal super awesome diamond pot from Theodosia Pettigrew",151,3,false
+32,NONE,HIGH,43,0,2,509,1009,"Sure thing","QyQ2gXU4","Steal super awesome diamond weed from Yasir Georgeson",195,6,false
+32,NONE,LOW,45,0,2,459,1009,"Sure thing","gs7tSlAd","Steal super awesome diamond bucket from Gary Bullard",154,5,false
+32,NONE,LOW,47,0,2,409,1009,"Piece of cake","yseOR5mV","Steal super awesome diamond pot from Brandy Sackville",149,6,false
+32,NONE,HIGH,49,0,2,359,1009,"Hmmm....","aaGDrexw","Help defending hill in Whiteham from the intruders",80,6,false
+33,FAST,LOW,0,0,3,0,0,"Walk in the park","7FaXneVP","Help Yazhu Dickson to fix their sheep",2,7,false
+33,FAST,HIGH,1,0,2,0,0,"Piece of cake","DOB60uGG","Escort Sens Hameldon to pasture in Fangpine where they can meet with their long lost pan",59,6,true
+33,FAST,HIGH,2,0,2,59,59,"Piece of cake","LhQplfv0","Help Vieno Southers to sell an unordinary water on the local market",23,5,true
+33,FAST,HIGH,3,0,2,82,82,"Piece of cake","7h4LmvWr","Help 'aamir Clarkson to sell an unordinary chicken on the local market",31,7,true
+33,FAST,HIGH,5,1,2,13,113,"Piece of cake","mpcobRKE","Help Baldo Pierson to reach an agreement with Lior Studwick on the matters of disputed chariot",14,6,true
+33,FAST,NA,6,1,2,27,127,"Piece of cake","JGYmXppz","Help Aoife Woodhams to fix their beer mug",1,3,true
+33,FAST,LOW,7,1,2,28,128,"Hmmm....","mmbgMUqi","Help Rosalia Courtenay to transport a magic horse to peninsula in Eastburg",21,7,true
+33,FAST,LOW,8,1,2,49,149,"Hmmm....","VG1mKdT0","Rescue Jocelyn Barnard from village in Bleakshaw where they are attacked by angry water",30,7,true
+33,FAST,LOW,9,1,2,79,179,"Risky","6lzHRPUM","Help Caitlín Stoddard to reach an agreement with Tasoula Hawking on the matters of disputed cat",8,5,false
+33,FAST,HIGH,11,1,2,29,179,"Quite likely","5mh77TX8","Create an advertisement campaign for Rhona Willoughby to promote their beer mug based business",34,5,true
+33,FAST,NA,12,1,2,63,213,"Walk in the park","KSJ0W08p","Help Vedrana Banister to sell an unordinary water on the local market",33,5,true
+33,FAST,NA,13,1,2,96,246,"Quite likely","PM6gkfk5","Steal sheep delivery to Lochlann Jamison and share some of the profits with the people.",56,7,true
+33,FAST,HIGH,15,2,2,52,302,"Piece of cake","ZelCC375","Steal horse delivery to Charleen Edduson and share some of the profits with the people.",53,6,true
+33,FAST,HIGH,17,3,2,5,355,"Piece of cake","44XaenGb","Steal sheep delivery to Natsuko Albinson and share some of the profits with the people.",50,6,true
+33,FAST,LOW,18,3,2,55,405,"Piece of cake","HnOL24CO","Help Kristiane Granger to write their biographical novel about their difficulties with a deranged squirrel",25,3,true
+33,FAST,LOW,19,3,2,80,430,"Risky","3TLoZGp1","Create an advertisement campaign for Freddy Beckham to promote their chariot based business",43,7,false
+33,FAST,LOW,21,3,2,30,430,"Rather detrimental","TgYqwaZg","Rescue Ithiel Hlöðversson from pasture in Ravenham where they are attacked by angry pot",38,7,false
+33,FAST,HIGH,22,3,1,30,430,"Risky","MmoiV2DH","Steal dog from Spiridon Olhouser",87,6,true
+33,FAST,HIGH,24,3,2,67,517,"Piece of cake","QzQ7yze5","Help defending meadow in Towerpine from the intruders",146,6,true
+33,FAST,NA,27,5,2,13,663,"Piece of cake","i6n4f01W","Escort Kae Bloodworth to plains in Scalespring where they can meet with their long lost chicken",103,3,true
+33,FAST,LOW,29,6,2,16,766,"Piece of cake","puG8HTVJ","Help defending plains in Sharpmire from the intruders",123,7,true
+33,FAST,LOW,30,6,2,139,889,"Piece of cake","nuHg5i6C","Help defending plains in Voidpine from the intruders",141,6,true
+33,FAST,HIGH,31,6,2,280,1030,"Walk in the park","g3NDKKAQ","Help defending steppe in Highburg from the intruders",181,7,true
+33,FAST,LOW,32,6,2,461,1211,"Piece of cake","f0TeFvjQ","Help defending pasture in Southfire from the intruders",150,6,true
+33,FAST,LOW,33,6,2,611,1361,"Suicide mission","g4WNitrL","Investigate Peninnah Allsopp and find out their relation to the magic clothes.",173,3,false
+33,FAST,LOW,35,6,2,561,1361,"Quite likely","3RxmcVoH","Help defending meadow in Orrinmire from the intruders",118,7,false
+33,FAST,LOW,37,6,2,511,1361,"Walk in the park","byiBdZ0S","Help defending pasture in Bleakcawl from the intruders",123,6,true
+33,FAST,LOW,38,6,2,634,1484,"Piece of cake","MJoMDOHE","Help defending grassland in Snowcaster from the intruders",122,7,true
+33,FAST,HIGH,39,6,2,756,1606,"Piece of cake","tXBUtT8a","Help defending grassland in Bleakville from the intruders",170,7,true
+33,FAST,HIGH,40,6,2,926,1776,"Walk in the park","7hExYFZT","Help defending savannah in Ravensheen from the intruders",155,6,true
+33,FAST,HIGH,41,6,2,1081,1931,"Walk in the park","oNJplv47","Help defending peninsula in Voidmire from the intruders",154,3,true
+33,FAST,HIGH,42,6,2,1235,2085,"Piece of cake","staXHBQZ","Help defending village in Redspring from the intruders",144,7,true
+33,FAST,LOW,43,6,2,1379,2229,"Walk in the park","MOvYwXXv","Help defending pasture in Westheart from the intruders",94,5,true
+33,FAST,LOW,44,6,2,1473,2323,"Suicide mission","u8JYZhyy","Help defending village in Stronggannon from the intruders",125,6,false
+33,FAST,LOW,46,6,2,1423,2323,"Suicide mission","JzcTuCeZ","Help defending woodland in Thornspring from the intruders",112,7,false
+33,FAST,LOW,48,6,2,1373,2323,"Hmmm....","z1xeGyL2","Help defending church in Towerwater from the intruders",78,7,true
+33,FAST,LOW,49,6,2,1451,2401,"Suicide mission","0D5sO4Ns","Help defending cave in Everport from the intruders",101,7,false
+34,NONE,LOW,0,0,3,0,0,"Quite likely","R19a4rMt","Help Chrystal Courtier to fix their wagon",10,7,false
+34,NONE,LOW,1,0,2,0,0,"Piece of cake","KC6sngKw","Help Natalia Goodwin to clean their cat",2,6,true
+34,NONE,LOW,2,0,2,2,2,"Hmmm....","jBV0H2kt","Help Sabela Sergeant to transport a magic clothes to grassland in Fallcawl",20,5,true
+34,NONE,HIGH,3,0,2,22,22,"Sure thing","KxmJBZQA","Help Hagop Christians to transport a magic squirrel to pasture in Darkgill",18,7,true
+34,NONE,HIGH,4,0,2,40,40,"Quite likely","i2DQgunW","Escort Ina Jeffers to village in Sharpgarden where they can meet with their long lost pan",66,3,false
+34,NONE,NA,5,0,1,40,40,"Piece of cake","WiRrKJWD","Create an advertisement campaign for Kayla Aimar to promote their sheep based business",31,7,true
+34,NONE,LOW,7,0,2,21,71,"Piece of cake","P4QnA6HC","Help Zelimkhan Fairburn to reach an agreement with Bailey Kynaston on the matters of disputed squirrel",7,7,true
+34,NONE,LOW,8,0,2,28,78,"Piece of cake","PbXwux2U","Create an advertisement campaign for Linh Ásmundsdóttir to promote their house based business",35,6,true
+34,NONE,HIGH,9,0,2,63,113,"Hmmm....","oFihhejM","Escort Lorri Wootton to savannah in Penburg where they can meet with their long lost chicken",51,5,true
+34,NONE,LOW,10,0,2,114,164,"Walk in the park","Gp386fyK","Help Thaksin Chambers to transport a magic pan to grassland in Fallmountain",15,5,true
+34,NONE,HIGH,11,0,2,129,179,"Hmmm....","oauxUbnO","Help Talin Robertson to write their biographical novel about their difficulties with a deranged potatoes",29,5,true
+34,NONE,HIGH,12,0,2,158,208,"Hmmm....","ggyQluKn","Help Lahja Holland to write their biographical novel about their difficulties with a deranged chicken",28,5,false
+34,NONE,LOW,14,0,2,108,208,"Walk in the park","UxGTWYZj","Help Kiersten Edwardson to sell an unordinary dog on the local market",18,4,true
+34,NONE,HIGH,15,0,2,126,226,"Walk in the park","xT8E9Ad5","Create an advertisement campaign for Erastos Belcher to promote their water based business",32,7,false
+34,NONE,LOW,17,0,2,76,226,"Walk in the park","roqUZcJb","Create an advertisement campaign for Bhavana Packard to promote their beer mug based business",29,4,true
+34,NONE,LOW,18,0,2,105,255,"Risky","hGRpc0ER","Create an advertisement campaign for Nerva Westley to promote their turnips based business",31,3,true
+34,NONE,HIGH,19,0,2,136,286,"Walk in the park","9LMuBJ3R","Escort Petula Ericson to pasture in Scaleshaw where they can meet with their long lost clothes",61,7,true
+34,NONE,HIGH,20,0,2,197,347,"Risky","lj0lFyWt","Investigate Phaedra Alexander and find out their relation to the magic pot.",143,3,false
+34,NONE,NA,22,0,2,147,347,"Sure thing","1s7GroCP","Steal wagon delivery to Fletcher Hartell and share some of the profits with the people.",47,4,true
+34,NONE,LOW,23,0,2,194,394,"Piece of cake","xhKaeL7B","Escort Constantijn Matthewson to peninsula in Fallmountain where they can meet with their long lost potatoes",61,7,false
+34,NONE,HIGH,25,0,2,144,394,"Piece of cake","89JOoylK","Help defending plains in Eastdeen from the intruders",106,7,true
+34,NONE,HIGH,26,0,2,250,500,"Piece of cake","J50nU67x","Help defending savannah in Millergannon from the intruders",115,7,true
+34,NONE,LOW,27,0,2,365,615,"Piece of cake","r5nsy6GX","Help defending plains in Frostburg from the intruders",103,6,true
+34,NONE,HIGH,28,0,2,468,718,"Piece of cake","icqHs5ET","Help defending savannah in Bleakchester from the intruders",107,6,true
+34,NONE,NA,29,0,2,575,825,"Piece of cake","ypMHZLwp","Help defending thrift shoppe in Doveseed from the intruders",105,6,false
+34,NONE,NA,31,0,2,525,825,"Piece of cake","pmK44uSS","Help defending meadow in Voidwatch from the intruders",96,7,true
+34,NONE,NA,32,0,2,621,921,"Walk in the park","D0q5A7o1","Help defending village in Lightpool from the intruders",93,6,true
+34,NONE,HIGH,33,0,2,714,1014,"Risky","l076MJWH","Investigate Nikolče Westcott and find out their relation to the magic water.",163,3,true
+34,NONE,NA,34,0,2,877,1177,"Hmmm....","FBTquTqC","Help defending pasture in Ravenmountain from the intruders",79,6,false
+34,NONE,LOW,36,0,2,827,1177,"Risky","zCmqNVai","Help defending village in Eastshaw from the intruders",93,4,false
+34,NONE,LOW,38,0,2,777,1177,"Risky","skf2zWmA","Help defending peninsula in Ravenwater from the intruders",85,6,true
+34,NONE,HIGH,39,0,2,862,1262,"Walk in the park","4ygpyWAv","Help defending pasture in Oldpool from the intruders",96,7,true
+34,NONE,LOW,40,0,2,958,1358,"Walk in the park","W4WfDGrc","Help defending meadow in Ravensheen from the intruders",87,4,true
+34,NONE,NA,41,0,2,1045,1445,"Walk in the park","boUHJ4Ix","Help defending plains in Strongcrest from the intruders",90,3,true
+34,NONE,LOW,42,0,2,1135,1535,"Gamble","6dUcBNRz","Help defending field in Ridgechester from the intruders",53,7,true
+34,NONE,HIGH,43,0,2,1188,1588,"Gamble","11IgOiHh","Help defending steppe in Ridgeheart from the intruders",87,7,true
+34,NONE,HIGH,44,0,2,1275,1675,"Hmmm....","0JMznT92","Help defending steppe in Sharpmire from the intruders",83,3,false
+34,NONE,HIGH,46,0,2,1225,1675,"Suicide mission","M8WBqNeb","Help defending woodland in Northwatch from the intruders",88,6,false
+34,NONE,HIGH,48,0,2,1175,1675,"Suicide mission","0TOE4IYJ","Help defending forest in Metalpool from the intruders",87,7,false
+35,FAST,HIGH,0,0,3,0,0,"Piece of cake","spkvgsJL","Steal chicken delivery to Ábrahám Griffin and share some of the profits with the people.",51,7,true
+35,FAST,LOW,1,0,3,51,51,"Quite likely","Ohy5GiUW","Help Katarína Martinson to reach an agreement with Poldi Rogerson on the matters of disputed squirrel",5,6,true
+35,FAST,LOW,2,0,3,56,56,"Piece of cake","FB6IUr4R","Help Hypatia Treloar to transport a magic dog to pasture in Scaleshaw",16,5,true
+35,FAST,LOW,3,0,3,72,72,"Quite likely","7gM8a2sA","Help Ludde Lesassier to reach an agreement with Shea Holmwood on the matters of disputed pot",16,4,true
+35,FAST,LOW,4,0,3,88,88,"Piece of cake","mZ6kzbfd","Help Torill Painter to clean their pot",1,7,true
+35,FAST,LOW,5,0,3,89,89,"Piece of cake","lmvqCRBo","Help Nika Thatcher to write their biographical novel about their difficulties with a deranged cat",29,7,true
+35,FAST,HIGH,7,1,3,18,118,"Rather detrimental","7JVSm75I","Help Fergie Botwright to write their biographical novel about their difficulties with a deranged horse",48,6,true
+35,FAST,LOW,8,1,3,66,166,"Sure thing","XJgmPUsk","Help Jenny Padmore to reach an agreement with Steve Overton on the matters of disputed water",11,7,true
+35,FAST,HIGH,9,1,3,77,177,"Quite likely","GnQJeX58","Escort Meike Jeffries to field in Strongsheen where they can meet with their long lost wagon",73,7,false
+35,FAST,HIGH,10,1,2,77,177,"Quite likely","VBeytV6Y","Steal bucket delivery to Mami Martell and share some of the profits with the people.",55,6,true
+35,FAST,HIGH,12,2,2,32,232,"Quite likely","Kc60jTBh","Create an advertisement campaign for Aelius Garnett to promote their squirrel based business",28,6,true
+35,FAST,NA,13,2,2,60,260,"Quite likely","JMP3cpGN","Rescue Lenka Gylfadóttir from pasture in Dornfirth where they are attacked by angry weed",20,4,true
+35,FAST,LOW,14,2,2,80,280,"Rather detrimental","z2KPKC3Y","Help Heddwyn Shakesheave to write their biographical novel about their difficulties with a deranged chariot",34,7,true
+35,FAST,LOW,16,3,2,14,314,"Rather detrimental","JM0wR877","Help Shantanu Kingston to write their biographical novel about their difficulties with a deranged chicken",37,4,false
+35,FAST,HIGH,17,3,1,14,314,"Piece of cake","8C9zTM2y","Escort Laia Swindlehurst to steppe in Greyport where they can meet with their long lost horse",85,4,true
+35,FAST,HIGH,19,3,2,49,399,"Sure thing","LImVXlzH","Steal bucket delivery to Dell Skinner and share some of the profits with the people.",70,6,true
+35,FAST,LOW,21,4,2,19,469,"Walk in the park","WIlqsapM","Rescue Hasi̇p Collingwood from meadow in Ridgemountain where they are attacked by angry cat",42,7,false
+35,FAST,HIGH,22,4,1,19,469,"Piece of cake","wM5hnnIa","Help defending savannah in Snowhill from the intruders",150,7,false
+36,NONE,HIGH,0,0,3,0,0,"Piece of cake","Cw4F3S0x","Help Ali Bernard to sell an unordinary clothes on the local market",25,7,true
+36,NONE,LOW,1,0,3,25,25,"Gamble","DNDoPmZt","Help Derrick Normanson to sell an unordinary sheep on the local market",21,7,false
+36,NONE,LOW,2,0,2,25,25,"Piece of cake","leKSvphj","Help Zbignev Lukeson to reach an agreement with Madonna Rennold on the matters of disputed bucket",4,7,true
+36,NONE,HIGH,3,0,2,29,29,"Piece of cake","fzI2v2XQ","Help Ihor Hlöðversdóttir to transport a magic bucket to plains in Whitedrone",19,4,true
+36,NONE,HIGH,4,0,2,48,48,"Piece of cake","y8DC2bog","Help Helmold Summerfield to transport a magic chicken to steppe in Razordrone",19,3,true
+36,NONE,NA,5,0,2,67,67,"Sure thing","wA4ZsYsL","Help Evgeniya Sharrow to transport a magic bucket to meadow in Burnsheart",19,6,true
+36,NONE,HIGH,6,0,2,86,86,"Quite likely","fxbT7QTS","Help Eileithyia Leavitt to transport a magic weed to meadow in Fernmere",24,4,true
+36,NONE,HIGH,7,0,2,110,110,"Quite likely","nakyf4UA","Help Irina Edwardson to sell an unordinary bucket on the local market",24,7,true
+36,NONE,LOW,8,0,2,134,134,"Piece of cake","kRdN7qkA","Help Olwen Bateson to transport a magic potatoes to meadow in Metaldeen",16,6,true
+36,NONE,HIGH,9,0,2,150,150,"Piece of cake","JlP9GVhE","Create an advertisement campaign for Henrikki Edwards to promote their beer mug based business",31,7,true
+36,NONE,LOW,10,0,2,181,181,"Walk in the park","u4xLseME","Escort Jenifer Waldroup to steppe in Greyfire where they can meet with their long lost potatoes",65,7,true
+36,NONE,HIGH,11,0,2,246,246,"Walk in the park","SWM57sGj","Escort Louane Midgley to village in Bleakchester where they can meet with their long lost wagon",79,3,true
+36,NONE,LOW,12,0,2,325,325,"Quite likely","K5akh89B","Help Lyudmila Richardson to write their biographical novel about their difficulties with a deranged pot",19,6,false
+36,NONE,LOW,14,0,2,275,325,"Piece of cake","S5GKOWkJ","Help Kwame Masterson to sell an unordinary water on the local market",26,7,true
+36,NONE,HIGH,15,0,2,301,351,"Quite likely","6q3Rja7t","Escort Bengt Masters to pasture in Newwater where they can meet with their long lost house",71,7,true
+36,NONE,HIGH,16,0,2,372,422,"Quite likely","ihw99PBj","Escort Sacha Griffin to thrift shoppe in Lightgarden where they can meet with their long lost beer mug",57,5,false
+36,NONE,HIGH,18,0,2,322,422,"Suicide mission","GVP5Xben","Help Světlana Beckham to write their biographical novel about their difficulties with a deranged chicken",37,3,false
+36,NONE,LOW,20,0,2,272,422,"Rather detrimental","5lJc6ixg","Help Atif Roberts to write their biographical novel about their difficulties with a deranged potatoes",25,6,false
+36,NONE,HIGH,22,0,2,222,422,"Sure thing","8IgaZtnE","Help defending plains in Blackmoore from the intruders",112,6,true
+36,NONE,LOW,23,0,2,334,534,"Piece of cake","j1wTnS1W","Create an advertisement campaign for Theodore Beverley to promote their water based business",37,3,true
+36,NONE,LOW,24,0,2,371,571,"Quite likely","QrQyd4Qy","Help defending meadow in Lightburg from the intruders",106,4,true
+36,NONE,NA,25,0,2,477,677,"Piece of cake","49y4etjo","Help defending savannah in Ridgehole from the intruders",123,4,true
+36,NONE,HIGH,26,0,2,600,800,"Quite likely","sxMdRSpb","Help defending grassland in Metalshore from the intruders",124,7,false
+36,NONE,NA,28,0,2,550,800,"Sure thing","KpbkMx51","Help defending peninsula in Ravenville from the intruders",98,5,true
+36,NONE,NA,29,0,2,648,898,"Sure thing","DpULXbOb","Help defending steppe in Penshore from the intruders",127,7,true
+36,NONE,HIGH,30,0,2,775,1025,"Piece of cake","E31VuZdL","Help defending village in Fangdale from the intruders",113,7,true
+36,NONE,NA,31,0,2,888,1138,"Piece of cake","aDa7Sj5Y","Help defending field in Lightfair from the intruders",98,4,true
+36,NONE,NA,32,0,2,986,1236,"Suicide mission","vvcTypZ4","Investigate Sarnai Allaire and find out their relation to the magic pot.",158,3,false
+36,NONE,NA,34,0,2,936,1236,"Piece of cake","fjNHOmYV","Help defending grassland in Masoncaster from the intruders",82,6,true
+36,NONE,LOW,35,0,2,1018,1318,"Walk in the park","0tbvq2bY","Help defending steppe in Sharploft from the intruders",103,6,true
+36,NONE,LOW,36,0,2,1121,1421,"Hmmm....","xAA85CsW","Help defending village in Newville from the intruders",94,7,true
+36,NONE,HIGH,37,0,2,1215,1515,"Walk in the park","iiJf3hmw","Help defending field in Blackcawl from the intruders",104,5,true
+36,NONE,HIGH,38,0,2,1319,1619,"Walk in the park","0OFnrFOy","Help defending savannah in Lowepine from the intruders",103,5,true
+36,NONE,LOW,39,0,2,1422,1722,"Piece of cake","2VmqkqRL","Help defending plains in Ravendeen from the intruders",74,7,false
+36,NONE,HIGH,41,0,2,1372,1722,"Risky","IaYWMAbT","Help defending village in Frostwhyte from the intruders",103,6,false
+36,NONE,HIGH,43,0,2,1322,1722,"Risky","fmPFOv3x","Help defending pasture in Frostport from the intruders",95,6,false
+36,NONE,HIGH,45,0,2,1272,1722,"Rather detrimental","h6lJpXrE","Help defending hill in Orrinfire from the intruders",93,7,false
+36,NONE,LOW,47,0,2,1222,1722,"Rather detrimental","aUbr2hBx","Help defending church in Fangtown from the intruders",69,6,true
+36,NONE,LOW,48,0,2,1291,1791,"Suicide mission","Ey6Bll2b","Help defending manor in Ridgeshaw from the intruders",77,7,false
+37,FAST,LOW,0,0,3,0,0,"Piece of cake","NH8vZRKJ","Help Édouard Simonson to fix their beer mug",2,7,true
+37,FAST,HIGH,1,0,3,2,2,"Piece of cake","w1jimyAh","Escort Alex Whittle to grassland in Lowespring where they can meet with their long lost wagon",77,6,true
+37,FAST,HIGH,2,0,3,79,79,"Sure thing","eppC7yat","Steal wagon delivery to Þórr Wallace and share some of the profits with the people.",46,5,true
+37,FAST,HIGH,4,1,3,25,125,"Sure thing","vpwd4Lcq","Help Pascale Hatheway to sell an unordinary potatoes on the local market",16,3,true
+37,FAST,NA,5,1,3,41,141,"Sure thing","n3vp7NrC","Help Wayan Hamilton to clean their clothes",5,3,true
+37,FAST,NA,6,1,3,46,146,"Piece of cake","yvjahSeS","Help Kolya Parsons to clean their chariot",6,3,true
+37,FAST,HIGH,7,1,3,52,152,"Risky","XfLlFPFJ","Escort Sašo Olhouser to pasture in Snowscale where they can meet with their long lost turnips",70,6,true
+37,FAST,HIGH,9,2,3,22,222,"Piece of cake","MPyafUie","Steal pot delivery to Konstantina Fletcher and share some of the profits with the people.",62,5,true
+37,FAST,LOW,10,2,3,84,284,"Piece of cake","L7RtLEq4","Help Szonja Woodhams to sell an unordinary cat on the local market",26,4,true
+37,FAST,HIGH,12,3,3,10,310,"Quite likely","4q6F92Tp","Escort Hayden Bradford to pasture in Darkfirth where they can meet with their long lost chicken",80,7,false
+37,FAST,NA,13,3,2,10,310,"Sure thing","Su6oQjIj","Steal squirrel delivery to Salman Wilkerson and share some of the profits with the people.",83,7,true
+37,FAST,LOW,14,3,2,93,393,"Walk in the park","9Y3h0pN2","Create an advertisement campaign for Vasuda Ellisson to promote their turnips based business",33,7,true
+37,FAST,LOW,16,4,2,26,426,"Quite likely","Gzj8JfaX","Escort Răzvan Zufall to plains in Evercawl where they can meet with their long lost potatoes",77,6,false
+37,FAST,LOW,17,4,1,26,426,"Risky","OiuOYilj","Rescue Arethusa Stringer from grassland in Scalebane where they are attacked by angry water",38,7,false
+38,NONE,LOW,0,0,3,0,0,"Quite likely","2F9n6R2G","Help Àlex Mathewson to clean their clothes",9,7,true
+38,NONE,HIGH,1,0,3,9,9,"Walk in the park","mdEHuEsT","Escort Sixtine Atterberry to savannah in Dorndinny where they can meet with their long lost beer mug",55,7,true
+38,NONE,HIGH,2,0,3,64,64,"Piece of cake","A3F8S6F4","Help Dylis Normanson to write their biographical novel about their difficulties with a deranged chicken",25,5,true
+38,NONE,HIGH,3,0,3,89,89,"Quite likely","laFCtKV2","Create an advertisement campaign for Medrod Warrick to promote their potatoes based business",37,4,true
+38,NONE,HIGH,4,0,3,126,126,"Walk in the park","u6VtyYGA","Help Tjaard Beasley to sell an unordinary pan on the local market",18,3,true
+38,NONE,HIGH,5,0,3,144,144,"Sure thing","JbRYf5SF","Help Izydor Odson to fix their bucket",9,6,true
+38,NONE,NA,6,0,3,153,153,"Sure thing","serJzUoT","Help Irfan Cornell to reach an agreement with Nimat Shelton on the matters of disputed house",2,6,true
+38,NONE,LOW,7,0,3,155,155,"Playing with fire","zlLr3jJI","Help Reba Rennoll to transport a magic house to peninsula in Burnsspring",24,3,false
+38,NONE,HIGH,8,0,2,155,155,"Piece of cake","vpw3Erh6","Escort Jamillah Leighton to pasture in Highville where they can meet with their long lost chariot",58,6,true
+38,NONE,LOW,9,0,2,213,213,"Quite likely","ZJjHEJ6D","Help Vivien Jephson to write their biographical novel about their difficulties with a deranged wagon",29,5,true
+38,NONE,HIGH,10,0,2,242,242,"Walk in the park","wyPaP9UJ","Escort Răzvan Francis to field in Dornshaw where they can meet with their long lost chariot",70,4,true
+38,NONE,HIGH,11,0,2,312,312,"Playing with fire","20yzvmtv","Escort Garen Dedrick to meadow in Orrinfair where they can meet with their long lost clothes",75,3,false
+38,NONE,HIGH,13,0,2,262,312,"Piece of cake","xLkBjpsH","Steal horse delivery to Vangel Attwater and share some of the profits with the people.",48,6,true
+38,NONE,HIGH,14,0,2,310,360,"Risky","PKCbRpTS","Help Semen Adamson to write their biographical novel about their difficulties with a deranged potatoes",48,7,true
+38,NONE,LOW,15,0,2,358,408,"Piece of cake","0lsblrk6","Create an advertisement campaign for Teutorigos Reynell to promote their pan based business",34,7,true
+38,NONE,HIGH,16,0,2,392,442,"Piece of cake","bXAmOZ0D","Steal clothes delivery to Iikka Holland and share some of the profits with the people.",61,5,true
+38,NONE,HIGH,17,0,2,453,503,"Piece of cake","Je0hHIVB","Escort Talin St john to village in Ridgeford where they can meet with their long lost house",55,7,true
+38,NONE,LOW,18,0,2,508,558,"Rather detrimental","TXZtH9AW","Create an advertisement campaign for Linnaea Eddudóttir to promote their horse based business",35,7,false
+38,NONE,LOW,20,0,2,458,558,"Rather detrimental","STuQfPds","Escort Korinna Walters to savannah in Bloodwhyte where they can meet with their long lost bucket",49,5,false
+38,NONE,LOW,22,0,2,408,558,"Piece of cake","vyEqPTMY","Steal cat delivery to Geula Forrest and share some of the profits with the people.",37,4,true
+38,NONE,LOW,23,0,2,445,595,"Gamble","HF5hKPbw","Escort Gertrudis Spencer to village in Oldcrest where they can meet with their long lost bucket",70,4,true
+38,NONE,HIGH,24,0,2,515,665,"Hmmm....","9KTdB7sp","Investigate Abbi Butcher and find out their relation to the magic bucket.",129,3,false
+38,NONE,LOW,26,0,2,465,665,"Walk in the park","qvcSPVfZ","Escort Melina Mitchell to thrift shoppe in Thornwatch where they can meet with their long lost bucket",49,5,false
+38,NONE,NA,28,0,2,415,665,"Walk in the park","hjIL2wAL","Escort Werner Danniell to savannah in Dornchester where they can meet with their long lost dog",66,3,true
+38,NONE,HIGH,29,0,2,481,731,"Playing with fire","p3tx5GEr","Investigate Tiriaq Willoughby and find out their relation to the magic clothes.",145,3,false
+38,NONE,LOW,31,0,2,431,731,"Walk in the park","EgvM6sH3","Help defending field in Everhole from the intruders",104,6,true
+38,NONE,HIGH,32,0,2,535,835,"Walk in the park","6r9c89Mq","Investigate Kasey Roderick and find out their relation to the magic bucket.",129,3,true
+38,NONE,NA,33,0,2,664,964,"Piece of cake","bP9oHqRV","Help defending field in Voidwell from the intruders",120,4,true
+38,NONE,LOW,34,0,2,784,1084,"Hmmm....","hyohezmW","Help defending village in Scaleburg from the intruders",92,7,false
+38,NONE,HIGH,36,0,2,734,1084,"Gamble","UI73aLmk","Help defending village in Towerwell from the intruders",99,7,true
+38,NONE,HIGH,37,0,2,833,1183,"Piece of cake","5HSXBB80","Help defending meadow in Lightchester from the intruders",99,6,true
+38,NONE,HIGH,38,0,2,932,1282,"Piece of cake","hqQkw6us","Help defending thrift shoppe in Penport from the intruders",88,6,true
+38,NONE,LOW,39,0,2,1020,1370,"Piece of cake","aUi1trEO","Help defending plains in Thornmere from the intruders",81,6,true
+38,NONE,LOW,40,0,2,1101,1451,"Gamble","V5kP0bRn","Help defending thrift shoppe in Thornpeak from the intruders",72,6,true
+38,NONE,NA,41,0,2,1173,1523,"Piece of cake","TY8ZhBo8","Help defending steppe in Millerhill from the intruders",94,5,true
+38,NONE,LOW,42,0,2,1267,1617,"Suicide mission","MaGadFJX","Help defending plains in Dornfirth from the intruders",94,7,false
+38,NONE,LOW,44,0,2,1217,1617,"Walk in the park","FKfVQMoC","Help defending plains in Voidkeep from the intruders",87,6,true
+38,NONE,HIGH,45,0,2,1304,1704,"Walk in the park","Rv2xCShc","Help defending meadow in Blackpine from the intruders",94,3,true
+38,NONE,HIGH,46,0,2,1398,1798,"Gamble","r18VzyCW","Help defending plains in Penshaw from the intruders",95,3,true
+38,NONE,LOW,47,0,2,1493,1893,"Gamble","yBf7oDCK","Help defending foggy riverside in Dovedeen from the intruders",84,6,true
+38,NONE,HIGH,48,0,2,1577,1977,"Hmmm....","WtBSnpsM","Help defending hill in Bleakwater from the intruders",94,6,false
+39,FAST,HIGH,0,0,3,0,0,"Piece of cake","TItqCi4Y","Escort Aaliyah Þórhalldóttir to grassland in Orrinseed where they can meet with their long lost house",74,7,true
+39,FAST,HIGH,1,0,3,74,74,"Hmmm....","pthEAwCC","Help Livia Overton to transport a magic house to village in Frostbury",17,6,false
+39,FAST,LOW,2,0,2,74,74,"Hmmm....","4jzxVvI6","Help Titania Giffard to fix their chariot",3,5,true
+39,FAST,HIGH,3,0,2,77,77,"Quite likely","Xp83XjpI","Create an advertisement campaign for Chryseis Martins to promote their bucket based business",32,4,true
+39,FAST,LOW,5,1,2,9,109,"Quite likely","Ig8Vzwpd","Help Yisrael Eglington to sell an unordinary cat on the local market",17,5,false
+39,FAST,NA,6,1,1,9,109,"Sure thing","zCRi5JaF","Help Mykola Collins to clean their wagon",5,5,true
+39,FAST,HIGH,7,1,1,14,114,"Hmmm....","QtvqqFKW","Create an advertisement campaign for Ginger Bragadóttir to promote their squirrel based business",45,7,false

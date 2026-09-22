@@ -1,0 +1,36 @@
+{
+  "name": "dragons-of-mugloar",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Fullstack app that plays Dragons of Mugloar and reaches 1000+ points (Java backend + Vue frontend).",
+  "type": "module",
+  "engines": {
+    "node": "^22.22.2 || ^24.15.0 || >=26.0.0"
+  },
+  "workspaces": [
+    "packages/frontend"
+  ],
+  "scripts": {
+    "dev": "concurrently -n backend,frontend -c blue,magenta \"npm:dev:backend\" \"npm:dev:frontend\"",
+    "dev:backend": "mvn -q -f packages/backend/pom.xml spring-boot:run",
+    "dev:frontend": "npm run dev --workspace @dom/frontend",
+    "build": "npm run build --workspace @dom/frontend && mvn -q -f pom.xml -DskipTests package",
+    "test": "npm run test --workspace @dom/frontend",
+    "test:backend": "mvn -q -f pom.xml test",
+    "test:all": "npm run test && npm run test:backend",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "lint": "prettier --check \"packages/*/src/**/*.{ts,tsx,vue}\"",
+    "format": "prettier --write \"packages/*/src/**/*.{ts,tsx,vue}\"",
+    "characterize": "mvn -q -f pom.xml -pl :dragons-characterization -am compile exec:java",
+    "characterize:shop": "mvn -q -f pom.xml -pl :dragons-characterization -am compile exec:java -Dexec.args=shop",
+    "characterize:level": "mvn -q -f pom.xml -pl :dragons-characterization -am compile exec:java -Dexec.args=level",
+    "characterize:reward": "mvn -q -f pom.xml -pl :dragons-characterization -am compile exec:java -Dexec.args=reward",
+    "characterize:expiry": "mvn -q -f pom.xml -pl :dragons-characterization -am compile exec:java -Dexec.args=expiry",
+    "benchmark": "mvn -q -f pom.xml -pl :dragons-characterization -am compile exec:java -Dexec.args=benchmark"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0",
+    "prettier": "^3.3.3",
+    "typescript": "^5.6.3"
+  }
+}

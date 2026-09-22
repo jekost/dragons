@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>4.0.8</version>
+    <relativePath/>
+  </parent>
+
+  <groupId>com.mugloar</groupId>
+  <artifactId>dragons-parent</artifactId>
+  <version>1.0.0</version>
+  <packaging>pom</packaging>
+  <name>dragons-parent</name>
+  <description>Aggregator for the Dragons of Mugloar backend and its offline measurement tool.</description>
+
+  <!--
+    Two modules, one direction of dependency: `characterization` depends on `backend`, never the
+    reverse. Keeping the tool in its own module is what stops ~1100 lines of one-off measurement
+    code being compiled into the application jar and read as part of the application.
+  -->
+  <modules>
+    <module>packages/backend</module>
+    <module>packages/characterization</module>
+  </modules>
+
+  <properties>
+    <java.version>25</java.version>
+    <maven.compiler.release>25</maven.compiler.release>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <dependencies>
+    <!-- Compile-time only: generates the constructors for our @RequiredArgsConstructor beans. -->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <pluginManagement>
+      <plugins>
+        <!-- JDK 23+ no longer runs classpath annotation processors implicitly, so declare Lombok. -->
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <configuration>
+            <annotationProcessorPaths>
+              <path>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>${lombok.version}</version>
+              </path>
+            </annotationProcessorPaths>
+          </configuration>
+        </plugin>
+        <!--
+          Pin the version and skip by default. `exec:java` from the command line runs against every
+          project in the reactor, so without this it fails on the parent and on backend, neither of
+          which has a main class. The characterization module turns it back on.
+        -->
+        <plugin>
+          <groupId>org.codehaus.mojo</groupId>
+          <artifactId>exec-maven-plugin</artifactId>
+          <version>3.5.0</version>
+          <configuration>
+            <!-- mainClass is a required parameter, validated before the mojo ever consults skip,
+                 so it has to be set here too even though these modules never run it. -->
+            <mainClass>com.mugloar.characterization.CharacterizationMain</mainClass>
+            <skip>true</skip>
+          </configuration>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+      </plugin>
+    </plugins>
+  </build>
+</project>

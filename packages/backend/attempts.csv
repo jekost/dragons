@@ -1,0 +1,792 @@
+game,arm,turn,level,lives,gold,score,tier,reward,expiresIn,success
+0,NONE,0,0,3,0,0,"Quite likely",27,7,true
+0,NONE,1,0,3,27,27,"Risky",27,6,true
+0,NONE,2,0,3,54,54,"Hmmm....",19,5,true
+0,NONE,3,0,3,73,73,"Sure thing",4,4,true
+0,NONE,4,0,3,77,77,"Gamble",26,7,false
+0,NONE,5,0,2,77,77,"Sure thing",45,4,true
+0,NONE,6,0,2,122,122,"Quite likely",13,7,true
+0,NONE,7,0,2,135,135,"Quite likely",37,7,true
+0,NONE,8,0,2,172,172,"Gamble",70,6,true
+0,NONE,9,0,2,242,242,"Risky",45,7,false
+0,NONE,11,0,2,192,242,"Hmmm....",13,3,true
+0,NONE,12,0,2,205,255,"Hmmm....",34,7,true
+0,NONE,13,0,2,239,289,"Piece of cake",62,4,true
+0,NONE,14,0,2,301,351,"Gamble",38,7,false
+0,NONE,16,0,2,251,351,"Quite likely",35,6,false
+0,NONE,18,0,2,201,351,"Quite likely",63,6,false
+0,NONE,20,0,2,151,351,"Rather detrimental",50,7,false
+0,NONE,22,0,2,101,351,"Gamble",35,4,true
+0,NONE,23,0,2,136,386,"Quite likely",33,7,false
+0,NONE,25,0,2,86,386,"Rather detrimental",136,3,false
+0,NONE,27,0,2,36,386,"Quite likely",126,6,true
+0,NONE,28,0,2,162,512,"Gamble",143,3,true
+0,NONE,29,0,2,305,655,"Piece of cake",91,7,true
+0,NONE,30,0,2,396,746,"Gamble",107,7,true
+0,NONE,31,0,2,503,853,"Quite likely",128,3,true
+0,NONE,32,0,2,631,981,"Quite likely",97,7,true
+0,NONE,33,0,2,728,1078,"Quite likely",109,7,false
+0,NONE,35,0,2,678,1078,"Quite likely",81,6,true
+0,NONE,36,0,2,759,1159,"Risky",112,6,false
+0,NONE,38,0,2,709,1159,"Quite likely",81,6,true
+0,NONE,39,0,2,790,1240,"Rather detrimental",75,5,false
+0,NONE,41,0,2,740,1240,"Rather detrimental",77,7,false
+0,NONE,43,0,2,690,1240,"Quite likely",83,6,true
+0,NONE,44,0,2,773,1323,"Quite likely",78,7,true
+0,NONE,45,0,2,851,1401,"Quite likely",74,5,false
+0,NONE,47,0,2,801,1401,"Quite likely",101,7,true
+0,NONE,48,0,2,902,1502,"Risky",97,5,false
+1,NONE,0,0,3,0,0,"Hmmm....",19,7,true
+1,NONE,1,0,3,19,19,"Gamble",3,6,false
+1,NONE,2,0,2,19,19,"Quite likely",5,5,true
+1,NONE,3,0,2,24,24,"Sure thing",63,4,true
+1,NONE,4,0,2,87,87,"Sure thing",64,3,true
+1,NONE,5,0,2,151,151,"Hmmm....",15,7,true
+1,NONE,6,0,2,166,166,"Sure thing",20,3,true
+1,NONE,7,0,2,186,186,"Gamble",11,7,true
+1,NONE,8,0,2,197,197,"Risky",24,7,true
+1,NONE,9,0,2,221,221,"Quite likely",27,6,true
+1,NONE,10,0,2,248,248,"Hmmm....",34,7,false
+1,NONE,12,0,2,198,248,"Quite likely",17,4,true
+1,NONE,13,0,2,215,265,"Sure thing",63,5,true
+1,NONE,14,0,2,278,328,"Quite likely",39,7,true
+1,NONE,15,0,2,317,367,"Quite likely",31,6,true
+1,NONE,16,0,2,348,398,"Quite likely",18,5,true
+1,NONE,17,0,2,366,416,"Risky",128,3,true
+1,NONE,18,0,2,494,544,"Sure thing",72,7,true
+1,NONE,19,0,2,566,616,"Piece of cake",48,3,true
+1,NONE,20,0,2,614,664,"Piece of cake",30,5,true
+1,NONE,21,0,2,644,694,"Gamble",72,7,true
+1,NONE,22,0,2,716,766,"Rather detrimental",85,7,false
+1,NONE,24,0,2,666,766,"Rather detrimental",156,3,false
+1,NONE,26,0,2,616,766,"Gamble",116,3,true
+1,NONE,27,0,2,732,882,"Sure thing",177,7,false
+1,NONE,29,0,2,682,882,"Gamble",134,3,false
+1,NONE,31,0,2,632,882,"Sure thing",170,3,false
+1,NONE,33,0,2,582,882,"Gamble",106,6,true
+1,NONE,34,0,2,688,988,"Sure thing",184,5,false
+1,NONE,36,0,2,638,988,"Sure thing",165,4,false
+1,NONE,38,0,2,588,988,"Quite likely",91,6,true
+1,NONE,39,0,2,679,1079,"Risky",93,7,false
+1,NONE,41,0,2,629,1079,"Gamble",79,7,true
+1,NONE,42,0,2,708,1158,"Sure thing",172,5,false
+1,NONE,44,0,2,658,1158,"Gamble",75,7,true
+1,NONE,45,0,2,733,1233,"Sure thing",184,4,false
+1,NONE,47,0,2,683,1233,"Sure thing",167,6,false
+1,NONE,49,0,2,633,1233,"Hmmm....",55,7,true
+2,NONE,0,0,3,0,0,"Gamble",31,7,true
+2,NONE,1,0,3,31,31,"Rather detrimental",29,6,false
+2,NONE,2,0,2,31,31,"Hmmm....",51,7,false
+2,NONE,3,0,1,31,31,"Hmmm....",23,7,true
+2,NONE,5,0,2,4,54,"Hmmm....",11,3,false
+2,NONE,6,0,1,4,54,"Quite likely",28,7,true
+2,NONE,7,0,1,32,82,"Rather detrimental",33,7,false
+3,NONE,0,0,3,0,0,"Hmmm....",19,7,true
+3,NONE,1,0,3,19,19,"Quite likely",60,6,true
+3,NONE,2,0,3,79,79,"Quite likely",19,5,true
+3,NONE,3,0,3,98,98,"Quite likely",17,6,true
+3,NONE,4,0,3,115,115,"Quite likely",12,6,true
+3,NONE,5,0,3,127,127,"Sure thing",33,7,true
+3,NONE,6,0,3,160,160,"Quite likely",55,7,false
+3,NONE,7,0,2,160,160,"Risky",31,7,false
+3,NONE,9,0,2,110,160,"Risky",27,6,true
+3,NONE,10,0,2,137,187,"Hmmm....",63,4,true
+3,NONE,11,0,2,200,250,"Hmmm....",76,7,false
+3,NONE,13,0,2,150,250,"Hmmm....",19,5,true
+3,NONE,14,0,2,169,269,"Risky",50,7,false
+3,NONE,16,0,2,119,269,"Risky",37,6,true
+3,NONE,17,0,2,156,306,"Gamble",66,4,false
+3,NONE,19,0,2,106,306,"Walk in the park",55,3,true
+3,NONE,20,0,2,161,361,"Hmmm....",74,7,true
+3,NONE,21,0,2,235,435,"Piece of cake",69,7,true
+3,NONE,22,0,2,304,504,"Gamble",68,7,false
+3,NONE,24,0,2,254,504,"Risky",61,7,true
+3,NONE,25,0,2,315,565,"Risky",134,3,false
+3,NONE,27,0,2,265,565,"Quite likely",94,6,true
+3,NONE,28,0,2,359,659,"Risky",95,7,false
+3,NONE,30,0,2,309,659,"Risky",105,7,false
+3,NONE,32,0,2,259,659,"Hmmm....",106,5,true
+3,NONE,33,0,2,365,765,"Rather detrimental",115,3,true
+3,NONE,34,0,2,480,880,"Hmmm....",90,5,false
+3,NONE,36,0,2,430,880,"Hmmm....",98,6,false
+3,NONE,38,0,2,380,880,"Gamble",96,4,false
+3,NONE,40,0,2,330,880,"Hmmm....",82,5,true
+3,NONE,41,0,2,412,962,"Risky",90,7,true
+3,NONE,42,0,2,502,1052,"Risky",79,6,true
+3,NONE,43,0,2,581,1131,"Hmmm....",110,7,false
+3,NONE,45,0,2,531,1131,"Hmmm....",84,6,false
+3,NONE,47,0,2,481,1131,"Risky",67,7,true
+3,NONE,48,0,2,548,1198,"Hmmm....",81,4,true
+3,NONE,49,0,2,629,1279,"Risky",89,7,false
+4,NONE,0,0,3,0,0,"Rather detrimental",24,7,false
+4,NONE,1,0,2,0,0,"Gamble",34,6,true
+4,NONE,2,0,2,34,34,"Gamble",29,5,true
+4,NONE,3,0,2,63,63,"Quite likely",44,4,true
+4,NONE,4,0,2,107,107,"Quite likely",33,6,false
+4,NONE,6,0,2,57,107,"Quite likely",13,6,true
+4,NONE,7,0,2,70,120,"Gamble",35,7,true
+4,NONE,8,0,2,105,155,"Hmmm....",61,7,true
+4,NONE,9,0,2,166,216,"Hmmm....",29,5,false
+4,NONE,11,0,2,116,216,"Gamble",31,6,true
+4,NONE,12,0,2,147,247,"Risky",15,7,false
+4,NONE,14,0,2,97,247,"Risky",21,6,false
+4,NONE,16,0,2,47,247,"Gamble",72,7,false
+4,NONE,17,0,1,47,247,"Gamble",138,3,false
+5,FAST,0,0,3,0,0,"Quite likely",58,7,false
+5,FAST,1,0,2,0,0,"Risky",45,6,false
+5,FAST,2,0,1,0,0,"Risky",79,7,true
+5,FAST,4,0,2,29,79,"Risky",37,3,false
+5,FAST,5,0,1,29,79,"Gamble",31,3,true
+5,FAST,7,0,2,10,110,"Hmmm....",31,7,false
+5,FAST,8,0,1,10,110,"Rather detrimental",61,7,false
+6,FAST,0,0,3,0,0,"Hmmm....",37,7,true
+6,FAST,1,0,3,37,37,"Risky",36,6,false
+6,FAST,2,0,2,37,37,"Hmmm....",25,7,false
+6,FAST,3,0,1,37,37,"Gamble",45,4,true
+6,FAST,5,0,2,32,82,"Gamble",40,5,false
+6,FAST,6,0,1,32,82,"Piece of cake",6,5,true
+6,FAST,7,0,1,38,88,"Quite likely",47,7,true
+6,FAST,9,0,2,35,135,"Gamble",29,6,false
+6,FAST,10,0,1,35,135,"Gamble",37,7,false
+7,FAST,0,0,3,0,0,"Quite likely",33,7,true
+7,FAST,1,0,3,33,33,"Quite likely",29,6,true
+7,FAST,2,0,3,62,62,"Sure thing",49,5,true
+7,FAST,4,1,3,11,111,"Sure thing",8,3,true
+7,FAST,5,1,3,19,119,"Piece of cake",12,3,true
+7,FAST,6,1,3,31,131,"Piece of cake",8,3,true
+7,FAST,7,1,3,39,139,"Risky",21,7,false
+7,FAST,8,1,2,39,139,"Hmmm....",29,6,false
+7,FAST,9,1,1,39,139,"Hmmm....",14,6,true
+7,FAST,11,1,2,3,153,"Quite likely",70,3,true
+7,FAST,12,1,2,73,223,"Risky",79,7,true
+7,FAST,14,2,2,52,302,"Rather detrimental",47,7,false
+7,FAST,16,2,2,2,302,"Risky",42,4,true
+7,FAST,17,2,2,44,344,"Quite likely",23,4,true
+7,FAST,18,2,2,67,367,"Risky",37,7,true
+7,FAST,20,3,2,4,404,"Quite likely",70,7,true
+7,FAST,21,3,2,74,474,"Risky",202,3,true
+7,FAST,24,5,2,76,676,"Hmmm....",50,7,true
+7,FAST,26,6,2,26,726,"Quite likely",48,7,true
+7,FAST,27,6,2,74,774,"Piece of cake",147,5,true
+7,FAST,28,6,2,221,921,"Rather detrimental",242,3,false
+7,FAST,30,6,2,171,921,"Quite likely",182,7,true
+7,FAST,31,6,2,353,1103,"Quite likely",170,6,true
+7,FAST,32,6,2,523,1273,"Rather detrimental",237,3,false
+7,FAST,34,6,2,473,1273,"Gamble",162,6,true
+7,FAST,35,6,2,635,1435,"Rather detrimental",147,4,false
+7,FAST,37,6,2,585,1435,"Gamble",150,7,false
+7,FAST,39,6,2,535,1435,"Hmmm....",173,3,false
+7,FAST,41,6,2,485,1435,"Risky",126,4,false
+7,FAST,43,6,2,435,1435,"Hmmm....",122,6,true
+7,FAST,44,6,2,557,1557,"Hmmm....",133,7,true
+7,FAST,45,6,2,690,1690,"Gamble",104,7,true
+7,FAST,46,6,2,794,1794,"Rather detrimental",125,7,true
+7,FAST,47,6,2,919,1919,"Hmmm....",117,7,true
+7,FAST,48,6,2,1036,2036,"Quite likely",133,4,false
+8,FAST,0,0,3,0,0,"Risky",36,7,false
+8,FAST,1,0,2,0,0,"Risky",21,6,true
+8,FAST,2,0,2,21,21,"Gamble",66,7,true
+8,FAST,3,0,2,87,87,"Hmmm....",26,4,true
+8,FAST,5,1,2,13,113,"Rather detrimental",23,6,false
+8,FAST,6,1,1,13,113,"Gamble",31,7,false
+9,FAST,0,0,3,0,0,"Risky",27,7,true
+9,FAST,1,0,3,27,27,"Hmmm....",62,6,false
+9,FAST,2,0,2,27,27,"Rather detrimental",34,7,false
+9,FAST,3,0,1,27,27,"Quite likely",34,4,true
+9,FAST,5,0,2,11,61,"Piece of cake",7,3,true
+9,FAST,6,0,2,18,68,"Quite likely",30,7,true
+9,FAST,7,0,2,48,98,"Risky",30,7,false
+9,FAST,8,0,1,48,98,"Quite likely",48,6,true
+9,FAST,10,0,2,46,146,"Quite likely",24,4,false
+9,FAST,11,0,1,46,146,"Hmmm....",9,7,true
+9,FAST,13,0,2,5,155,"Piece of cake",59,3,true
+9,FAST,14,0,2,64,214,"Hmmm....",69,7,false
+9,FAST,16,0,2,14,214,"Hmmm....",35,6,true
+9,FAST,17,0,2,49,249,"Hmmm....",47,7,false
+9,FAST,18,0,1,49,249,"Gamble",148,3,false
+10,NONE,0,0,3,0,0,"Quite likely",36,7,true
+10,NONE,1,0,3,36,36,"Quite likely",26,6,true
+10,NONE,2,0,3,62,62,"Quite likely",21,5,true
+10,NONE,3,0,3,83,83,"Quite likely",9,4,true
+10,NONE,4,0,3,92,92,"Gamble",86,3,true
+10,NONE,5,0,3,178,178,"Quite likely",20,7,true
+10,NONE,6,0,3,198,198,"Hmmm....",19,7,false
+10,NONE,7,0,2,198,198,"Quite likely",28,7,true
+10,NONE,8,0,2,226,226,"Quite likely",20,7,true
+10,NONE,9,0,2,246,246,"Rather detrimental",61,5,false
+10,NONE,11,0,2,196,246,"Risky",33,6,false
+10,NONE,13,0,2,146,246,"Quite likely",69,6,true
+10,NONE,14,0,2,215,315,"Quite likely",45,7,false
+10,NONE,16,0,2,165,315,"Quite likely",29,5,true
+10,NONE,17,0,2,194,344,"Quite likely",25,4,true
+10,NONE,18,0,2,219,369,"Risky",69,3,true
+10,NONE,19,0,2,288,438,"Gamble",29,7,false
+10,NONE,21,0,2,238,438,"Hmmm....",74,4,true
+10,NONE,22,0,2,312,512,"Gamble",57,7,true
+10,NONE,23,0,2,369,569,"Hmmm....",56,7,false
+10,NONE,25,0,2,319,569,"Piece of cake",99,4,true
+10,NONE,26,0,2,418,668,"Piece of cake",64,4,true
+10,NONE,27,0,2,482,732,"Risky",120,7,false
+10,NONE,29,0,2,432,732,"Quite likely",111,6,true
+10,NONE,30,0,2,543,843,"Gamble",111,4,true
+10,NONE,31,0,2,654,954,"Gamble",116,7,false
+10,NONE,33,0,2,604,954,"Hmmm....",94,7,true
+10,NONE,34,0,2,698,1048,"Gamble",98,3,false
+10,NONE,36,0,2,648,1048,"Quite likely",111,6,false
+10,NONE,38,0,2,598,1048,"Risky",90,6,false
+10,NONE,40,0,2,548,1048,"Risky",100,6,true
+10,NONE,41,0,2,648,1148,"Quite likely",82,7,true
+10,NONE,42,0,2,730,1230,"Rather detrimental",78,7,false
+10,NONE,44,0,2,680,1230,"Quite likely",73,7,false
+10,NONE,46,0,2,630,1230,"Risky",75,3,true
+10,NONE,47,0,2,705,1305,"Gamble",108,3,false
+10,NONE,49,0,2,655,1305,"Rather detrimental",82,6,true
+11,NONE,0,0,3,0,0,"Hmmm....",64,7,false
+11,NONE,1,0,2,0,0,"Hmmm....",29,6,true
+11,NONE,2,0,2,29,29,"Hmmm....",15,6,true
+11,NONE,3,0,2,44,44,"Rather detrimental",28,4,false
+11,NONE,4,0,1,44,44,"Quite likely",10,3,true
+11,NONE,6,0,2,4,54,"Sure thing",60,3,true
+11,NONE,7,0,2,64,114,"Hmmm....",58,7,true
+11,NONE,8,0,2,122,172,"Risky",26,6,false
+11,NONE,10,0,2,72,172,"Quite likely",57,7,false
+11,NONE,12,0,2,22,172,"Quite likely",25,6,false
+11,NONE,13,0,1,22,172,"Sure thing",19,3,true
+11,NONE,14,0,1,41,191,"Sure thing",47,7,true
+11,NONE,16,0,2,38,238,"Quite likely",61,6,true
+11,NONE,17,0,2,99,299,"Quite likely",36,5,true
+11,NONE,18,0,2,135,335,"Gamble",30,7,false
+11,NONE,20,0,2,85,335,"Gamble",148,3,false
+11,NONE,22,0,2,35,335,"Quite likely",56,3,true
+11,NONE,23,0,2,91,391,"Rather detrimental",128,3,false
+11,NONE,25,0,2,41,391,"Quite likely",148,3,true
+11,NONE,26,0,2,189,539,"Risky",161,3,true
+11,NONE,27,0,2,350,700,"Rather detrimental",141,3,true
+11,NONE,28,0,2,491,841,"Gamble",148,3,false
+11,NONE,30,0,2,441,841,"Risky",129,3,true
+11,NONE,31,0,2,570,970,"Rather detrimental",157,3,true
+11,NONE,32,0,2,727,1127,"Gamble",110,6,true
+11,NONE,33,0,2,837,1237,"Rather detrimental",129,3,true
+11,NONE,34,0,2,966,1366,"Risky",82,7,true
+11,NONE,35,0,2,1048,1448,"Rather detrimental",87,7,true
+11,NONE,36,0,2,1135,1535,"Hmmm....",73,7,false
+11,NONE,38,0,2,1085,1535,"Hmmm....",83,6,false
+11,NONE,40,0,2,1035,1535,"Hmmm....",71,4,true
+11,NONE,41,0,2,1106,1606,"Rather detrimental",90,7,false
+11,NONE,43,0,2,1056,1606,"Hmmm....",96,6,true
+11,NONE,44,0,2,1152,1702,"Hmmm....",71,5,true
+11,NONE,45,0,2,1223,1773,"Rather detrimental",73,3,false
+11,NONE,47,0,2,1173,1773,"Hmmm....",82,6,true
+11,NONE,48,0,2,1255,1855,"Risky",73,3,false
+12,NONE,0,0,3,0,0,"Gamble",37,7,false
+12,NONE,1,0,2,0,0,"Risky",37,7,false
+12,NONE,2,0,1,0,0,"Gamble",52,7,false
+13,NONE,0,0,3,0,0,"Gamble",38,7,true
+13,NONE,1,0,3,38,38,"Sure thing",5,6,true
+13,NONE,2,0,3,43,43,"Sure thing",14,5,true
+13,NONE,3,0,3,57,57,"Sure thing",16,4,true
+13,NONE,4,0,3,73,73,"Hmmm....",24,7,true
+13,NONE,5,0,3,97,97,"Hmmm....",18,7,false
+13,NONE,6,0,2,97,97,"Piece of cake",57,4,true
+13,NONE,7,0,2,154,154,"Rather detrimental",29,7,false
+13,NONE,9,0,2,104,154,"Hmmm....",16,5,true
+13,NONE,10,0,2,120,170,"Quite likely",33,6,true
+13,NONE,11,0,2,153,203,"Quite likely",25,3,false
+13,NONE,13,0,2,103,203,"Risky",27,7,false
+13,NONE,15,0,2,53,203,"Risky",28,6,false
+13,NONE,17,0,2,3,203,"Rather detrimental",52,4,true
+13,NONE,18,0,2,55,255,"Gamble",49,5,false
+13,NONE,20,0,2,5,255,"Hmmm....",33,6,true
+13,NONE,21,0,2,38,288,"Quite likely",89,3,true
+13,NONE,22,0,2,127,377,"Quite likely",100,7,false
+13,NONE,24,0,2,77,377,"Piece of cake",75,4,true
+13,NONE,25,0,2,152,452,"Piece of cake",53,4,true
+13,NONE,26,0,2,205,505,"Rather detrimental",129,3,false
+13,NONE,28,0,2,155,505,"Risky",97,7,false
+13,NONE,30,0,2,105,505,"Rather detrimental",111,7,true
+13,NONE,31,0,2,216,616,"Risky",164,3,true
+13,NONE,32,0,2,380,780,"Rather detrimental",93,3,true
+13,NONE,33,0,2,473,873,"Rather detrimental",153,3,false
+13,NONE,35,0,2,423,873,"Gamble",110,6,false
+13,NONE,37,0,2,373,873,"Risky",95,7,true
+13,NONE,38,0,2,468,968,"Hmmm....",98,5,true
+13,NONE,39,0,2,566,1066,"Hmmm....",89,4,true
+13,NONE,40,0,2,655,1155,"Gamble",81,7,false
+13,NONE,42,0,2,605,1155,"Hmmm....",88,4,false
+13,NONE,44,0,2,555,1155,"Rather detrimental",80,7,true
+13,NONE,45,0,2,635,1235,"Hmmm....",64,5,true
+13,NONE,46,0,2,699,1299,"Gamble",70,7,true
+13,NONE,47,0,2,769,1369,"Rather detrimental",95,7,false
+13,NONE,49,0,2,719,1369,"Rather detrimental",53,6,false
+14,NONE,0,0,3,0,0,"Gamble",67,7,false
+14,NONE,1,0,2,0,0,"Risky",21,7,false
+14,NONE,2,0,1,0,0,"Sure thing",1,5,true
+14,NONE,3,0,1,1,1,"Sure thing",9,4,true
+14,NONE,4,0,1,10,10,"Quite likely",53,7,true
+14,NONE,6,0,2,13,63,"Hmmm....",19,6,false
+14,NONE,7,0,1,13,63,"Quite likely",32,7,true
+14,NONE,8,0,1,45,95,"Hmmm....",30,7,true
+14,NONE,10,0,2,25,125,"Rather detrimental",31,6,false
+14,NONE,11,0,1,25,125,"Gamble",27,6,true
+14,NONE,13,0,2,2,152,"Hmmm....",21,3,false
+14,NONE,14,0,1,2,152,"Gamble",43,7,true
+14,NONE,15,0,1,45,195,"Rather detrimental",58,7,false
+15,FAST,0,0,3,0,0,"Rather detrimental",34,7,true
+15,FAST,1,0,3,34,34,"Gamble",20,6,false
+15,FAST,2,0,2,34,34,"Hmmm....",7,5,true
+15,FAST,3,0,2,41,41,"Sure thing",53,4,true
+15,FAST,4,0,2,94,94,"Risky",10,7,true
+15,FAST,6,1,2,4,104,"Sure thing",2,4,true
+15,FAST,7,1,2,6,106,"Rather detrimental",31,7,false
+15,FAST,8,1,1,6,106,"Quite likely",34,7,true
+15,FAST,9,1,1,40,140,"Gamble",48,5,true
+15,FAST,11,1,2,38,188,"Risky",28,6,false
+15,FAST,12,1,1,38,188,"Risky",35,7,true
+15,FAST,14,1,2,23,223,"Quite likely",42,7,false
+15,FAST,15,1,1,23,223,"Quite likely",40,7,true
+15,FAST,17,1,2,13,263,"Quite likely",24,4,true
+15,FAST,18,1,2,37,287,"Gamble",39,3,true
+15,FAST,19,1,2,76,326,"Hmmm....",150,3,true
+15,FAST,22,3,2,26,476,"Gamble",74,5,false
+15,FAST,23,3,1,26,476,"Risky",90,7,false
+16,FAST,0,0,3,0,0,"Risky",11,7,false
+16,FAST,1,0,2,0,0,"Gamble",30,6,false
+16,FAST,2,0,1,0,0,"Gamble",14,6,true
+16,FAST,3,0,1,14,14,"Sure thing",55,7,true
+16,FAST,5,0,2,19,69,"Piece of cake",5,4,true
+16,FAST,6,0,2,24,74,"Gamble",56,7,true
+16,FAST,7,0,2,80,130,"Hmmm....",25,7,false
+16,FAST,9,0,2,30,130,"Gamble",45,5,true
+16,FAST,10,0,2,75,175,"Sure thing",44,4,true
+16,FAST,12,1,2,19,219,"Hmmm....",27,6,false
+16,FAST,13,1,1,19,219,"Piece of cake",68,4,true
+16,FAST,15,1,2,37,287,"Hmmm....",44,6,true
+16,FAST,16,1,2,81,331,"Hmmm....",28,5,true
+16,FAST,18,2,2,9,359,"Risky",30,3,false
+16,FAST,19,2,1,9,359,"Gamble",35,7,true
+16,FAST,20,2,1,44,394,"Quite likely",67,3,true
+16,FAST,22,2,2,61,461,"Hmmm....",158,3,false
+16,FAST,24,2,2,11,461,"Risky",148,3,false
+16,FAST,25,2,1,11,461,"Sure thing",134,5,true
+16,FAST,27,2,2,95,595,"Piece of cake",74,4,true
+16,FAST,29,3,2,69,669,"Quite likely",42,6,true
+16,FAST,31,4,2,11,711,"Gamble",122,7,false
+16,FAST,32,4,1,11,711,"Risky",206,3,true
+16,FAST,35,5,2,67,917,"Hmmm....",136,5,false
+16,FAST,37,5,2,17,917,"Hmmm....",129,4,true
+16,FAST,39,6,2,46,1046,"Hmmm....",108,4,true
+16,FAST,40,6,2,154,1154,"Quite likely",139,7,true
+16,FAST,41,6,2,293,1293,"Hmmm....",141,7,true
+16,FAST,42,6,2,434,1434,"Gamble",131,6,true
+16,FAST,43,6,2,565,1565,"Hmmm....",157,7,false
+16,FAST,45,6,2,515,1565,"Risky",133,7,false
+16,FAST,47,6,2,465,1565,"Piece of cake",109,3,true
+16,FAST,48,6,2,574,1674,"Walk in the park",122,3,true
+16,FAST,49,6,2,696,1796,"Risky",93,7,true
+17,FAST,0,0,3,0,0,"Gamble",73,7,true
+17,FAST,1,0,3,73,73,"Hmmm....",38,6,true
+17,FAST,3,1,3,11,111,"Gamble",29,6,false
+17,FAST,4,1,2,11,111,"Hmmm....",36,3,true
+17,FAST,5,1,2,47,147,"Sure thing",76,3,true
+17,FAST,7,2,2,23,223,"Risky",12,7,true
+17,FAST,8,2,2,35,235,"Hmmm....",83,6,false
+17,FAST,9,2,1,35,235,"Hmmm....",29,5,true
+17,FAST,11,2,2,14,264,"Gamble",78,6,true
+17,FAST,12,2,2,92,342,"Sure thing",71,7,true
+17,FAST,14,3,2,63,413,"Hmmm....",65,7,true
+17,FAST,16,4,2,28,478,"Quite likely",49,6,true
+17,FAST,17,4,2,77,527,"Quite likely",60,7,false
+17,FAST,19,4,2,27,527,"Risky",57,6,true
+17,FAST,20,4,2,84,584,"Rather detrimental",179,3,false
+17,FAST,22,4,2,34,584,"Quite likely",45,3,false
+17,FAST,23,4,1,34,584,"Gamble",155,7,false
+18,FAST,0,0,3,0,0,"Hmmm....",48,7,true
+18,FAST,1,0,3,48,48,"Gamble",16,7,true
+18,FAST,2,0,3,64,64,"Hmmm....",37,5,true
+18,FAST,4,1,3,1,101,"Rather detrimental",43,3,false
+18,FAST,5,1,2,1,101,"Quite likely",40,7,false
+18,FAST,6,1,1,1,101,"Hmmm....",9,7,true
+18,FAST,7,1,1,10,110,"Risky",90,7,false
+19,FAST,0,0,3,0,0,"Rather detrimental",35,7,true
+19,FAST,1,0,3,35,35,"Quite likely",37,6,true
+19,FAST,2,0,3,72,72,"Quite likely",25,5,true
+19,FAST,3,0,3,97,97,"Quite likely",21,6,true
+19,FAST,5,1,3,18,118,"Risky",38,6,false
+19,FAST,6,1,2,18,118,"Quite likely",28,7,false
+19,FAST,7,1,1,18,118,"Rather detrimental",31,7,true
+19,FAST,8,1,1,49,149,"Rather detrimental",33,7,false
+20,NONE,0,0,3,0,0,"Quite likely",39,7,false
+20,NONE,1,0,2,0,0,"Quite likely",53,7,false
+20,NONE,2,0,1,0,0,"Quite likely",30,5,true
+20,NONE,3,0,1,30,30,"Rather detrimental",25,4,false
+21,NONE,0,0,3,0,0,"Hmmm....",25,7,true
+21,NONE,1,0,3,25,25,"Quite likely",27,6,true
+21,NONE,2,0,3,52,52,"Quite likely",22,5,true
+21,NONE,3,0,3,74,74,"Risky",15,7,false
+21,NONE,4,0,2,74,74,"Quite likely",17,3,true
+21,NONE,5,0,2,91,91,"Rather detrimental",24,7,true
+21,NONE,6,0,2,115,115,"Hmmm....",28,7,false
+21,NONE,8,0,2,65,115,"Risky",37,6,false
+21,NONE,10,0,2,15,115,"Gamble",29,6,true
+21,NONE,11,0,2,44,144,"Gamble",23,3,false
+21,NONE,12,0,1,44,144,"Gamble",72,7,true
+21,NONE,14,0,2,66,216,"Hmmm....",54,7,false
+21,NONE,16,0,2,16,216,"Hmmm....",27,5,false
+21,NONE,17,0,1,16,216,"Rather detrimental",29,5,false
+22,NONE,0,0,3,0,0,"Gamble",35,7,true
+22,NONE,1,0,3,35,35,"Rather detrimental",69,6,true
+22,NONE,2,0,3,104,104,"Rather detrimental",28,7,true
+22,NONE,3,0,3,132,132,"Rather detrimental",18,4,false
+22,NONE,4,0,2,132,132,"Rather detrimental",28,7,false
+22,NONE,6,0,2,82,132,"Walk in the park",26,4,true
+22,NONE,7,0,2,108,158,"Hmmm....",31,7,false
+22,NONE,9,0,2,58,158,"Gamble",10,6,true
+22,NONE,10,0,2,68,168,"Hmmm....",27,4,true
+22,NONE,11,0,2,95,195,"Gamble",21,7,true
+22,NONE,12,0,2,116,216,"Piece of cake",47,7,true
+22,NONE,13,0,2,163,263,"Piece of cake",49,6,true
+22,NONE,14,0,2,212,312,"Gamble",60,7,false
+22,NONE,16,0,2,162,312,"Rather detrimental",14,5,false
+22,NONE,18,0,2,112,312,"Risky",73,3,true
+22,NONE,19,0,2,185,385,"Piece of cake",34,5,true
+22,NONE,20,0,2,219,419,"Hmmm....",63,7,false
+22,NONE,22,0,2,169,419,"Gamble",66,7,true
+22,NONE,23,0,2,235,485,"Sure thing",85,4,true
+22,NONE,24,0,2,320,570,"Gamble",76,7,true
+22,NONE,25,0,2,396,646,"Sure thing",124,3,true
+22,NONE,26,0,2,520,770,"Walk in the park",59,3,true
+22,NONE,27,0,2,579,829,"Walk in the park",78,3,true
+22,NONE,28,0,2,657,907,"Walk in the park",98,3,true
+22,NONE,29,0,2,755,1005,"Gamble",103,7,true
+22,NONE,30,0,2,858,1108,"Risky",138,3,false
+22,NONE,32,0,2,808,1108,"Risky",104,4,true
+22,NONE,33,0,2,912,1212,"Quite likely",104,4,true
+22,NONE,34,0,2,1016,1316,"Rather detrimental",159,3,false
+22,NONE,36,0,2,966,1316,"Risky",101,6,true
+22,NONE,37,0,2,1067,1417,"Risky",90,6,true
+22,NONE,38,0,2,1157,1507,"Rather detrimental",97,7,true
+22,NONE,39,0,2,1254,1604,"Risky",99,7,false
+22,NONE,41,0,2,1204,1604,"Risky",78,3,true
+22,NONE,42,0,2,1282,1682,"Risky",90,7,true
+22,NONE,43,0,2,1372,1772,"Risky",78,4,false
+22,NONE,45,0,2,1322,1772,"Gamble",72,6,false
+22,NONE,47,0,2,1272,1772,"Gamble",85,6,false
+22,NONE,49,0,2,1222,1772,"Gamble",49,7,true
+23,NONE,0,0,3,0,0,"Hmmm....",28,7,false
+23,NONE,1,0,2,0,0,"Gamble",19,7,true
+23,NONE,2,0,2,19,19,"Quite likely",33,5,true
+23,NONE,3,0,2,52,52,"Sure thing",44,4,true
+23,NONE,4,0,2,96,96,"Risky",29,7,false
+23,NONE,6,0,2,46,96,"Risky",39,6,true
+23,NONE,7,0,2,85,135,"Rather detrimental",33,7,false
+23,NONE,9,0,2,35,135,"Gamble",40,5,true
+23,NONE,10,0,2,75,175,"Sure thing",9,4,true
+23,NONE,11,0,2,84,184,"Rather detrimental",36,7,false
+23,NONE,13,0,2,34,184,"Sure thing",50,4,true
+23,NONE,14,0,2,84,234,"Quite likely",27,7,false
+23,NONE,16,0,2,34,234,"Rather detrimental",33,6,false
+23,NONE,17,0,1,34,234,"Hmmm....",57,5,true
+23,NONE,19,0,2,41,291,"Gamble",66,7,false
+23,NONE,20,0,1,41,291,"Risky",59,7,false
+24,NONE,0,0,3,0,0,"Risky",69,7,true
+24,NONE,1,0,3,69,69,"Gamble",28,6,true
+24,NONE,2,0,3,97,97,"Hmmm....",18,5,true
+24,NONE,3,0,3,115,115,"Rather detrimental",19,7,false
+24,NONE,4,0,2,115,115,"Quite likely",5,3,false
+24,NONE,6,0,2,65,115,"Hmmm....",33,6,false
+24,NONE,8,0,2,15,115,"Gamble",15,6,false
+24,NONE,9,0,1,15,115,"Quite likely",39,5,true
+24,NONE,11,0,2,4,154,"Rather detrimental",24,6,true
+24,NONE,12,0,2,28,178,"Sure thing",29,7,true
+24,NONE,13,0,2,57,207,"Rather detrimental",24,7,false
+24,NONE,15,0,2,7,207,"Rather detrimental",35,6,true
+24,NONE,16,0,2,42,242,"Rather detrimental",23,7,false
+24,NONE,17,0,1,42,242,"Rather detrimental",21,7,false
+25,FAST,0,0,3,0,0,"Rather detrimental",31,7,false
+25,FAST,1,0,2,0,0,"Risky",74,6,true
+25,FAST,2,0,2,74,74,"Risky",14,5,true
+25,FAST,3,0,2,88,88,"Hmmm....",31,4,false
+25,FAST,5,0,2,38,88,"Rather detrimental",35,6,false
+25,FAST,6,0,1,38,88,"Sure thing",15,3,true
+25,FAST,8,0,2,3,103,"Rather detrimental",24,6,false
+25,FAST,9,0,1,3,103,"Hmmm....",23,5,true
+25,FAST,10,0,1,26,126,"Quite likely",23,7,true
+25,FAST,11,0,1,49,149,"Hmmm....",13,6,false
+26,FAST,0,0,3,0,0,"Hmmm....",31,7,false
+26,FAST,1,0,2,0,0,"Gamble",71,6,true
+26,FAST,2,0,2,71,71,"Gamble",10,5,true
+26,FAST,3,0,2,81,81,"Hmmm....",56,7,true
+26,FAST,5,1,2,37,137,"Risky",29,6,true
+26,FAST,6,1,2,66,166,"Piece of cake",35,3,true
+26,FAST,8,2,2,1,201,"Hmmm....",70,6,true
+26,FAST,9,2,2,71,271,"Hmmm....",18,5,true
+26,FAST,10,2,2,89,289,"Hmmm....",34,7,false
+26,FAST,12,2,2,39,289,"Quite likely",35,4,true
+26,FAST,13,2,2,74,324,"Piece of cake",64,5,true
+26,FAST,15,3,2,38,388,"Rather detrimental",32,6,false
+26,FAST,16,3,1,38,388,"Gamble",43,5,true
+26,FAST,18,3,2,31,431,"Quite likely",103,5,true
+26,FAST,20,4,2,34,534,"Gamble",103,7,true
+26,FAST,22,5,2,37,637,"Quite likely",169,7,true
+26,FAST,24,6,2,106,806,"Risky",204,3,false
+26,FAST,26,6,2,56,806,"Quite likely",168,5,true
+26,FAST,27,6,2,224,974,"Quite likely",45,5,true
+26,FAST,28,6,2,269,1019,"Quite likely",38,3,true
+26,FAST,29,6,2,307,1057,"Piece of cake",165,6,true
+26,FAST,30,6,2,472,1222,"Walk in the park",54,4,true
+26,FAST,31,6,2,526,1276,"Quite likely",200,3,true
+26,FAST,32,6,2,726,1476,"Piece of cake",160,6,true
+26,FAST,33,6,2,886,1636,"Hmmm....",168,7,true
+26,FAST,34,6,2,1054,1804,"Rather detrimental",150,6,false
+26,FAST,36,6,2,1004,1804,"Hmmm....",152,6,false
+26,FAST,38,6,2,954,1804,"Risky",146,4,false
+26,FAST,40,6,2,904,1804,"Piece of cake",138,3,true
+26,FAST,41,6,2,1042,1942,"Hmmm....",150,7,false
+26,FAST,43,6,2,992,1942,"Hmmm....",155,6,true
+26,FAST,44,6,2,1147,2097,"Hmmm....",146,4,true
+26,FAST,45,6,2,1293,2243,"Hmmm....",130,3,false
+26,FAST,47,6,2,1243,2243,"Hmmm....",173,6,true
+26,FAST,48,6,2,1416,2416,"Quite likely",149,3,true
+26,FAST,49,6,2,1565,2565,"Hmmm....",115,7,true
+27,FAST,0,0,3,0,0,"Risky",37,7,true
+27,FAST,1,0,3,37,37,"Hmmm....",3,7,true
+27,FAST,2,0,3,40,40,"Risky",22,7,true
+27,FAST,3,0,3,62,62,"Sure thing",3,4,true
+27,FAST,4,0,3,65,65,"Sure thing",27,6,true
+27,FAST,5,0,3,92,92,"Sure thing",14,6,true
+27,FAST,7,1,3,6,106,"Sure thing",50,7,true
+27,FAST,8,1,3,56,156,"Piece of cake",63,5,false
+27,FAST,9,1,2,56,156,"Quite likely",22,7,true
+27,FAST,10,1,2,78,178,"Quite likely",39,7,false
+27,FAST,12,1,2,28,178,"Gamble",29,7,true
+27,FAST,13,1,2,57,207,"Piece of cake",25,7,true
+27,FAST,14,1,2,82,232,"Gamble",21,7,true
+27,FAST,16,2,2,3,253,"Gamble",46,5,false
+27,FAST,17,2,1,3,253,"Hmmm....",35,4,false
+28,FAST,0,0,3,0,0,"Rather detrimental",64,7,true
+28,FAST,1,0,3,64,64,"Quite likely",27,6,true
+28,FAST,2,0,3,91,91,"Sure thing",8,6,true
+28,FAST,3,0,3,99,99,"Piece of cake",12,4,true
+28,FAST,5,1,3,11,111,"Hmmm....",55,6,true
+28,FAST,6,1,3,66,166,"Piece of cake",65,7,true
+28,FAST,8,2,3,31,231,"Risky",74,6,false
+28,FAST,9,2,2,31,231,"Rather detrimental",31,5,false
+28,FAST,10,2,1,31,231,"Rather detrimental",42,7,false
+29,FAST,0,0,3,0,0,"Risky",23,7,true
+29,FAST,1,0,3,23,23,"Gamble",75,6,true
+29,FAST,2,0,3,98,98,"Gamble",18,5,false
+29,FAST,3,0,2,98,98,"Hmmm....",9,7,false
+29,FAST,5,0,2,48,98,"Sure thing",19,3,true
+29,FAST,6,0,2,67,117,"Gamble",39,7,false
+29,FAST,8,0,2,17,117,"Quite likely",8,6,false
+29,FAST,9,0,1,17,117,"Sure thing",19,7,true
+29,FAST,10,0,1,36,136,"Piece of cake",15,4,true
+29,FAST,12,0,2,1,151,"Quite likely",71,6,false
+29,FAST,13,0,1,1,151,"Piece of cake",37,7,true
+29,FAST,14,0,1,38,188,"Gamble",48,7,true
+29,FAST,16,0,2,36,236,"Gamble",146,3,false
+29,FAST,17,0,1,36,236,"Gamble",39,5,true
+29,FAST,19,0,2,25,275,"Rather detrimental",24,7,false
+29,FAST,20,0,1,25,275,"Gamble",32,5,true
+29,FAST,22,0,2,7,307,"Gamble",64,6,true
+29,FAST,23,0,2,71,371,"Hmmm....",123,5,false
+29,FAST,25,0,2,21,371,"Rather detrimental",132,3,true
+29,FAST,27,1,2,53,503,"Piece of cake",88,6,true
+29,FAST,29,2,2,41,591,"Gamble",30,6,true
+29,FAST,30,2,2,71,621,"Quite likely",24,5,true
+29,FAST,31,2,2,95,645,"Hmmm....",122,6,true
+29,FAST,34,4,2,17,767,"Gamble",127,7,false
+29,FAST,35,4,1,17,767,"Hmmm....",130,7,true
+29,FAST,37,4,2,97,897,"Rather detrimental",106,6,false
+29,FAST,39,4,2,47,897,"Rather detrimental",123,6,true
+29,FAST,41,5,2,70,1020,"Risky",99,6,false
+29,FAST,43,5,2,20,1020,"Gamble",126,7,true
+29,FAST,45,6,2,46,1146,"Gamble",120,5,false
+29,FAST,46,6,1,46,1146,"Gamble",111,6,true
+29,FAST,48,6,2,107,1257,"Rather detrimental",128,6,false
+30,NONE,0,0,3,0,0,"Quite likely",33,7,true
+30,NONE,1,0,3,33,33,"Risky",51,6,true
+30,NONE,2,0,3,84,84,"Quite likely",65,7,true
+30,NONE,3,0,3,149,149,"Sure thing",1,4,true
+30,NONE,4,0,3,150,150,"Sure thing",22,3,true
+30,NONE,5,0,3,172,172,"Quite likely",22,7,true
+30,NONE,6,0,3,194,194,"Piece of cake",6,4,true
+30,NONE,7,0,3,200,200,"Rather detrimental",38,7,false
+30,NONE,8,0,2,200,200,"Rather detrimental",22,6,false
+30,NONE,10,0,2,150,200,"Gamble",24,4,false
+30,NONE,12,0,2,100,200,"Gamble",27,6,true
+30,NONE,13,0,2,127,227,"Gamble",45,7,true
+30,NONE,14,0,2,172,272,"Risky",51,7,false
+30,NONE,16,0,2,122,272,"Hmmm....",61,5,true
+30,NONE,17,0,2,183,333,"Hmmm....",33,7,true
+30,NONE,18,0,2,216,366,"Piece of cake",55,3,true
+30,NONE,19,0,2,271,421,"Piece of cake",69,3,true
+30,NONE,20,0,2,340,490,"Piece of cake",51,3,true
+30,NONE,21,0,2,391,541,"Quite likely",115,7,true
+30,NONE,22,0,2,506,656,"Piece of cake",55,4,true
+30,NONE,23,0,2,561,711,"Gamble",70,7,false
+30,NONE,25,0,2,511,711,"Rather detrimental",56,6,false
+30,NONE,27,0,2,461,711,"Risky",73,4,true
+30,NONE,28,0,2,534,784,"Risky",82,7,false
+30,NONE,30,0,2,484,784,"Piece of cake",121,3,true
+30,NONE,31,0,2,605,905,"Gamble",123,3,true
+30,NONE,32,0,2,728,1028,"Quite likely",114,7,true
+30,NONE,33,0,2,842,1142,"Piece of cake",84,6,true
+30,NONE,34,0,2,926,1226,"Rather detrimental",96,7,false
+30,NONE,36,0,2,876,1226,"Quite likely",97,6,false
+30,NONE,38,0,2,826,1226,"Quite likely",92,5,false
+30,NONE,40,0,2,776,1226,"Risky",105,3,true
+30,NONE,41,0,2,881,1331,"Hmmm....",69,3,true
+30,NONE,42,0,2,950,1400,"Quite likely",84,7,true
+30,NONE,43,0,2,1034,1484,"Rather detrimental",94,6,false
+30,NONE,45,0,2,984,1484,"Rather detrimental",72,6,false
+30,NONE,47,0,2,934,1484,"Gamble",62,3,true
+30,NONE,48,0,2,996,1546,"Rather detrimental",69,7,true
+30,NONE,49,0,2,1065,1615,"Rather detrimental",77,7,false
+31,NONE,0,0,3,0,0,"Hmmm....",22,7,false
+31,NONE,1,0,2,0,0,"Rather detrimental",35,6,false
+31,NONE,2,0,1,0,0,"Rather detrimental",28,5,true
+31,NONE,3,0,1,28,28,"Gamble",32,5,false
+32,NONE,0,0,3,0,0,"Rather detrimental",36,7,true
+32,NONE,1,0,3,36,36,"Risky",20,7,true
+32,NONE,2,0,3,56,56,"Hmmm....",28,5,true
+32,NONE,3,0,3,84,84,"Quite likely",11,7,true
+32,NONE,4,0,3,95,95,"Quite likely",8,3,true
+32,NONE,5,0,3,103,103,"Piece of cake",27,4,true
+32,NONE,6,0,3,130,130,"Piece of cake",24,5,true
+32,NONE,7,0,3,154,154,"Quite likely",14,7,true
+32,NONE,8,0,3,168,168,"Sure thing",51,6,true
+32,NONE,9,0,3,219,219,"Risky",31,7,true
+32,NONE,10,0,3,250,250,"Rather detrimental",19,7,false
+32,NONE,11,0,2,250,250,"Quite likely",22,7,true
+32,NONE,12,0,2,272,272,"Sure thing",64,3,true
+32,NONE,13,0,2,336,336,"Quite likely",30,7,false
+32,NONE,15,0,2,286,336,"Rather detrimental",71,6,false
+32,NONE,17,0,2,236,336,"Risky",27,4,false
+32,NONE,19,0,2,186,336,"Gamble",29,7,false
+32,NONE,21,0,2,136,336,"Gamble",112,7,true
+32,NONE,22,0,2,248,448,"Rather detrimental",107,6,false
+32,NONE,24,0,2,198,448,"Rather detrimental",55,4,false
+32,NONE,26,0,2,148,448,"Quite likely",62,4,false
+32,NONE,28,0,2,98,448,"Hmmm....",112,6,true
+32,NONE,29,0,2,210,560,"Quite likely",82,7,true
+32,NONE,30,0,2,292,642,"Gamble",147,3,true
+32,NONE,31,0,2,439,789,"Gamble",103,7,true
+32,NONE,32,0,2,542,892,"Gamble",104,7,true
+32,NONE,33,0,2,646,996,"Rather detrimental",164,3,true
+32,NONE,34,0,2,810,1160,"Hmmm....",118,7,true
+32,NONE,35,0,2,928,1278,"Quite likely",96,4,true
+32,NONE,36,0,2,1024,1374,"Gamble",106,7,true
+32,NONE,37,0,2,1130,1480,"Gamble",79,6,true
+32,NONE,38,0,2,1209,1559,"Hmmm....",86,5,false
+32,NONE,40,0,2,1159,1559,"Rather detrimental",93,6,true
+32,NONE,41,0,2,1252,1652,"Gamble",78,7,true
+32,NONE,42,0,2,1330,1730,"Rather detrimental",99,7,false
+32,NONE,44,0,2,1280,1730,"Gamble",63,6,true
+32,NONE,45,0,2,1343,1793,"Gamble",78,7,true
+32,NONE,46,0,2,1421,1871,"Rather detrimental",69,5,false
+32,NONE,48,0,2,1371,1871,"Risky",86,6,true
+32,NONE,49,0,2,1457,1957,"Walk in the park",71,3,true
+33,NONE,0,0,3,0,0,"Risky",34,7,false
+33,NONE,1,0,2,0,0,"Risky",27,6,false
+33,NONE,2,0,1,0,0,"Gamble",42,6,true
+33,NONE,3,0,1,42,42,"Gamble",20,4,false
+34,NONE,0,0,3,0,0,"Risky",64,7,false
+34,NONE,1,0,2,0,0,"Hmmm....",67,6,true
+34,NONE,2,0,2,67,67,"Hmmm....",27,6,true
+34,NONE,3,0,2,94,94,"Sure thing",48,4,true
+34,NONE,4,0,2,142,142,"Sure thing",8,3,true
+34,NONE,5,0,2,150,150,"Piece of cake",6,5,true
+34,NONE,6,0,2,156,156,"Quite likely",54,7,false
+34,NONE,8,0,2,106,156,"Rather detrimental",22,6,false
+34,NONE,10,0,2,56,156,"Hmmm....",45,4,false
+34,NONE,12,0,2,6,156,"Sure thing",28,4,true
+34,NONE,13,0,2,34,184,"Piece of cake",44,3,true
+34,NONE,14,0,2,78,228,"Hmmm....",23,7,true
+34,NONE,15,0,2,101,251,"Quite likely",39,6,true
+34,NONE,16,0,2,140,290,"Quite likely",35,7,true
+34,NONE,17,0,2,175,325,"Risky",152,3,true
+34,NONE,18,0,2,327,477,"Sure thing",83,3,true
+34,NONE,19,0,2,410,560,"Risky",34,7,false
+34,NONE,21,0,2,360,560,"Hmmm....",131,7,true
+34,NONE,22,0,2,491,691,"Hmmm....",60,6,false
+34,NONE,24,0,2,441,691,"Rather detrimental",65,6,false
+34,NONE,26,0,2,391,691,"Piece of cake",106,7,true
+34,NONE,27,0,2,497,797,"Walk in the park",100,3,true
+34,NONE,28,0,2,597,897,"Risky",167,3,true
+34,NONE,29,0,2,764,1064,"Rather detrimental",91,7,false
+34,NONE,31,0,2,714,1064,"Risky",113,6,false
+34,NONE,33,0,2,664,1064,"Hmmm....",80,7,true
+34,NONE,34,0,2,744,1144,"Quite likely",110,3,true
+34,NONE,35,0,2,854,1254,"Rather detrimental",116,7,true
+34,NONE,36,0,2,970,1370,"Rather detrimental",100,6,true
+34,NONE,37,0,2,1070,1470,"Rather detrimental",100,6,false
+34,NONE,39,0,2,1020,1470,"Risky",84,6,false
+34,NONE,41,0,2,970,1470,"Gamble",83,3,true
+34,NONE,42,0,2,1053,1553,"Hmmm....",94,7,false
+34,NONE,44,0,2,1003,1553,"Rather detrimental",79,6,false
+34,NONE,46,0,2,953,1553,"Hmmm....",94,4,false
+34,NONE,48,0,2,903,1553,"Rather detrimental",77,6,false
+35,FAST,0,0,3,0,0,"Quite likely",59,7,true
+35,FAST,1,0,3,59,59,"Quite likely",40,7,true
+35,FAST,2,0,3,99,99,"Quite likely",11,5,false
+35,FAST,3,0,2,99,99,"Quite likely",1,4,true
+35,FAST,5,1,2,0,100,"Quite likely",23,6,true
+35,FAST,6,1,2,23,123,"Sure thing",68,7,true
+35,FAST,7,1,2,91,191,"Rather detrimental",37,7,true
+35,FAST,9,2,2,28,228,"Quite likely",47,5,true
+35,FAST,10,2,2,75,275,"Risky",19,7,false
+35,FAST,12,2,2,25,275,"Quite likely",31,6,true
+35,FAST,13,2,2,56,306,"Hmmm....",32,4,false
+35,FAST,15,2,2,6,306,"Quite likely",38,6,false
+35,FAST,16,2,1,6,306,"Quite likely",36,5,true
+35,FAST,17,2,1,42,342,"Rather detrimental",37,4,false
+36,FAST,0,0,3,0,0,"Risky",40,7,true
+36,FAST,1,0,3,40,40,"Gamble",39,6,false
+36,FAST,2,0,2,40,40,"Gamble",24,5,true
+36,FAST,3,0,2,64,64,"Quite likely",49,4,true
+36,FAST,5,1,2,13,113,"Quite likely",60,6,true
+36,FAST,6,1,2,73,173,"Rather detrimental",65,7,true
+36,FAST,8,2,2,38,238,"Rather detrimental",83,6,true
+36,FAST,10,3,2,21,321,"Gamble",55,6,false
+36,FAST,11,3,1,21,321,"Rather detrimental",122,7,false
+37,FAST,0,0,3,0,0,"Risky",24,7,false
+37,FAST,1,0,2,0,0,"Rather detrimental",18,6,false
+37,FAST,2,0,1,0,0,"Risky",63,6,false
+38,FAST,0,0,3,0,0,"Risky",22,7,false
+38,FAST,1,0,2,0,0,"Hmmm....",29,6,false
+38,FAST,2,0,1,0,0,"Hmmm....",13,5,false
+39,FAST,0,0,3,0,0,"Rather detrimental",44,7,true
+39,FAST,1,0,3,44,44,"Risky",77,7,true
+39,FAST,3,1,3,21,121,"Rather detrimental",21,6,true
+39,FAST,4,1,3,42,142,"Hmmm....",30,3,false
+39,FAST,5,1,2,42,142,"Risky",59,7,true
+39,FAST,7,2,2,1,201,"Risky",37,7,false
+39,FAST,8,2,1,1,201,"Gamble",20,5,true
+39,FAST,9,2,1,21,221,"Risky",72,7,true
+39,FAST,11,2,2,43,293,"Hmmm....",35,3,true
+39,FAST,12,2,2,78,328,"Quite likely",47,7,true
+39,FAST,14,3,2,25,375,"Rather detrimental",24,7,true
+39,FAST,15,3,2,49,399,"Risky",35,6,false
+39,FAST,16,3,1,49,399,"Gamble",47,4,true
+39,FAST,18,3,2,46,446,"Risky",59,7,true
+39,FAST,20,4,2,5,505,"Hmmm....",69,4,true
+39,FAST,21,4,2,74,574,"Piece of cake",62,3,true
+39,FAST,23,5,2,36,636,"Quite likely",143,6,true
+39,FAST,25,6,2,79,779,"Quite likely",159,7,true
+39,FAST,26,6,2,238,938,"Gamble",32,7,false
+39,FAST,28,6,2,188,938,"Gamble",51,7,false
+39,FAST,30,6,2,138,938,"Hmmm....",211,3,false
+39,FAST,32,6,2,88,938,"Rather detrimental",229,3,true
+39,FAST,33,6,2,317,1167,"Quite likely",173,4,true
+39,FAST,34,6,2,490,1340,"Rather detrimental",248,3,false
+39,FAST,36,6,2,440,1340,"Risky",134,7,false
+39,FAST,38,6,2,390,1340,"Gamble",133,6,true
+39,FAST,39,6,2,523,1473,"Hmmm....",141,4,true
+39,FAST,40,6,2,664,1614,"Gamble",117,7,true
+39,FAST,41,6,2,781,1731,"Gamble",130,7,true
+39,FAST,42,6,2,911,1861,"Gamble",91,5,false
+39,FAST,44,6,2,861,1861,"Rather detrimental",158,6,true
+39,FAST,45,6,2,1019,2019,"Risky",136,6,false
+39,FAST,47,6,2,969,2019,"Risky",102,6,true
+39,FAST,48,6,2,1071,2121,"Rather detrimental",102,7,false

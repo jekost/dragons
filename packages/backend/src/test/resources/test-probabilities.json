@@ -1,0 +1,27 @@
+{
+  "byTier": {
+    "Sure thing": 0.9,
+    "Piece of cake": 0.9,
+    "Walk in the park": 0.8,
+    "Quite likely": 0.85,
+    "Hmmm....": 0.55,
+    "Gamble": 0.55,
+    "Risky": 0.35,
+    "Rather detrimental": 0.3,
+    "Playing with fire": 0.2,
+    "Suicide mission": 0.12,
+    "Impossible": 0.08
+  },
+  "rewardCeilings": {
+    "Sure thing": {
+      "atOrAbove": 130,
+      "probability": 0.09,
+      "samples": 149
+    },
+    "Piece of cake": {
+      "atOrAbove": 150,
+      "probability": 0.46,
+      "samples": 72
+    }
+  }
+}

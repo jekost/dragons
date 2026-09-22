@@ -1,0 +1,14 @@
+# Normalise line endings in the repository. Without this the working tree is a mix of CRLF and LF
+# (it was 10 files vs 60), and any tool that rewrites a file in passing — sed, a formatter, an
+# editor on another OS — silently flips the whole file and buries the real change in the diff.
+* text=auto eol=lf
+
+# Binary: never touch these.
+*.jar binary
+*.png binary
+*.jpg binary
+*.ico binary
+
+# Windows-only scripts need CRLF to run.
+*.bat text eol=crlf
+*.cmd text eol=crlf
