@@ -56,8 +56,8 @@ function solveLine(
   return {
     kind: solve.success ? 'solve' : 'fail',
     text: solve.success
-      ? `✅ ${reason} → +score, now ${solve.score} (gold ${solve.gold}).`
-      : `❌ Failed: "${questMessage}" — lost a life (lives ${solve.lives}).`,
+      ? `${reason} → +score, now ${solve.score} (gold ${solve.gold}).`
+      : `"${questMessage}" — lost a life (lives ${solve.lives}).`,
   };
 }
 
@@ -156,7 +156,7 @@ export const useGameStore = defineStore('game', () => {
     log.value.push(
       logEntry(
         'investigate',
-        `🔍 Reputation — people ${people.toFixed(2)}, state ${state.toFixed(2)}, ` +
+        `Reputation — people ${people.toFixed(2)}, state ${state.toFixed(2)}, ` +
           `underworld ${underworld.toFixed(2)}. Cost 1 turn.`,
       ),
     );

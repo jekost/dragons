@@ -8,7 +8,7 @@ defineProps<{ label: string; value?: number }>();
 
 <template>
   <div class="stat">
-    <span class="statLabel">{{ label }}</span>
+    <span class="label">{{ label }}</span>
     <slot>
       <span class="statValue">{{ value }}</span>
     </slot>
@@ -20,15 +20,12 @@ defineProps<{ label: string; value?: number }>();
   display: flex;
   flex-direction: column;
   gap: 2px;
-}
-.statLabel {
-  font-size: var(--text-3xs);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: var(--text-dim);
+  padding: 6px 8px;
+  min-width: 0;
 }
 .statValue {
+  font-family: var(--font-mono), monospace;
   font-size: var(--text-lg);
-  font-weight: 600;
+  font-weight: 500;
 }
 </style>

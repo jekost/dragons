@@ -50,13 +50,11 @@ function onInvestigate(): void {
 
 <template>
   <div class="app">
-    <header class="head">
-      <div>
-        <h1 class="title">🐉 Dragons of Mugloar</h1>
-        <p class="subtitle">
-          Auto-playing bot - clear {{ GOAL_SCORE }} points, then keep going for a high score.
-        </p>
-      </div>
+    <header class="masthead">
+      <h1 class="title">Dragons of Mugloar</h1>
+      <p class="dek">
+        An auto-playing bot clears {{ GOAL_SCORE }} points, then keeps going for a high score.
+      </p>
     </header>
 
     <Controls
@@ -68,12 +66,13 @@ function onInvestigate(): void {
     />
 
     <div v-if="store.error" class="error" role="alert">
-      <span>{{ store.error }}</span>
-      <button aria-label="Dismiss error" @click="store.setError(null)">✕</button>
+      <span class="errorLabel">Error</span>
+      <span class="errorText">{{ store.error }}</span>
+      <button class="dismiss" aria-label="Dismiss error" @click="store.setError(null)">✕</button>
     </div>
 
     <main class="grid">
-      <div class="left">
+      <div class="col left">
         <Hud
           :state="store.snapshot?.state ?? null"
           :status="store.status"
@@ -83,7 +82,7 @@ function onInvestigate(): void {
         <Shop v-if="store.snapshot" :disabled="!canAct" @buy="onBuy" />
       </div>
 
-      <div class="center">
+      <div class="col center fill">
         <QuestList
           :ads="store.snapshot?.ads ?? []"
           :recommended-ad-id="store.recommendedAdId"
@@ -92,85 +91,148 @@ function onInvestigate(): void {
         />
       </div>
 
-      <div class="right">
+      <div class="col right fill">
         <DecisionLog :entries="store.log" />
       </div>
     </main>
-
-    <footer class="foot">
-      Strategy runs server-side; probabilities come from the committed characterization data.
-    </footer>
   </div>
 </template>
 
 <style scoped>
 .app {
-  max-width: 1200px;
+  max-width: 1280px;
   margin: 0 auto;
   padding: 24px 16px 48px;
   display: flex;
   flex-direction: column;
   gap: var(--gap);
 }
-.head {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+
+.masthead {
+  text-align: center;
+  border-bottom: var(--rule-heavy);
+  padding-bottom: 12px;
 }
 .title {
-  font-size: 1.5rem;
+  /* Big enough to own the page, capped so the board still starts above the fold on a laptop. */
+  font-size: clamp(2.75rem, 8vw, 6rem);
+  font-weight: 900;
+  line-height: 0.9;
+  letter-spacing: -0.03em;
+  /* The tight line-height lets the "g" descender crowd the line below; the bottom margin clears it. */
+  margin: 8px 0 24px;
 }
-.subtitle {
-  margin: 4px 0 0;
+.dek {
+  margin: 0;
+  font-style: italic;
   color: var(--text-dim);
-  font-size: var(--text-sm);
 }
+
 .error {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   gap: 12px;
-  background: rgba(var(--deadly-rgb), 0.12);
-  border: 1px solid var(--deadly);
-  color: var(--deadly);
-  border-radius: var(--radius);
-  padding: 10px 14px;
+  border: var(--rule);
+  border-left: 6px solid var(--red);
+  background: var(--paper);
+  padding: 4px 4px 4px 12px;
 }
-.error button {
+.errorLabel {
+  background: var(--red);
+  color: var(--paper);
+  font-family: var(--font-sans), sans-serif;
+  font-size: var(--text-3xs);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  padding: 2px 8px;
+  flex-shrink: 0;
+}
+.errorText {
+  flex: 1;
+}
+.dismiss {
   border: none;
-  background: transparent;
-  color: inherit;
+  min-width: 44px;
 }
+
+/* Columns: one ruled frame, columns divided by shared rules rather than gaps. */
 .grid {
   display: grid;
-  grid-template-columns: minmax(260px, 1fr) minmax(320px, 1.3fr) minmax(280px, 1fr);
-  gap: var(--gap);
-  align-items: start;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  border: var(--rule);
+  background: var(--paper);
+  align-items: stretch;
 }
-.left,
-.center,
-.right {
+.col {
   display: flex;
   flex-direction: column;
-  gap: var(--gap);
   min-width: 0;
 }
-.foot {
-  color: var(--text-dim);
-  font-size: var(--text-2xs);
-  text-align: center;
+.left {
+  grid-column: span 4;
+  border-right: var(--rule);
 }
+.center {
+  grid-column: span 5;
+  border-right: var(--rule);
+}
+.right {
+  grid-column: span 3;
+}
+/*
+ * The quest list and the log fill their column exactly and scroll inside it. Taking them out of
+ * flow is what lets the row height come from the left column (HUD + shop) alone — in flow, a long
+ * list would stretch the row to its own full length and never need to scroll. The min-height is a
+ * floor for when the left column is short (before a game starts, the shop isn't there yet).
+ */
+.fill {
+  position: relative;
+  min-height: 480px;
+}
+.fill > * {
+  position: absolute;
+  inset: 0;
+}
+
 @media (max-width: 1000px) {
-  .grid {
-    grid-template-columns: 1fr 1fr;
+  .left,
+  .center {
+    grid-column: span 6;
+  }
+  .center {
+    border-right: none;
   }
   .right {
     grid-column: 1 / -1;
+    border-top: var(--rule);
+  }
+  /* Alone on its row, the log has no neighbour to match, so it sizes itself up to a cap. */
+  .right {
+    min-height: 0;
+    --list-max: 620px;
+  }
+  .right > * {
+    position: static;
   }
 }
 @media (max-width: 680px) {
-  .grid {
-    grid-template-columns: 1fr;
+  .left,
+  .center,
+  .right {
+    grid-column: 1 / -1;
+    border-right: none;
+  }
+  .center,
+  .right {
+    border-top: var(--rule);
+  }
+  .center {
+    min-height: 0;
+    --list-max: 560px;
+  }
+  .center > * {
+    position: static;
   }
 }
 </style>

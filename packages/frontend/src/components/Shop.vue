@@ -27,9 +27,9 @@ const rows = computed(() =>
 
 <template>
   <section class="panel" aria-label="Shop">
-    <div class="header">
+    <div class="panel-header">
       <h2>Shop</h2>
-      <span class="gold">💰 {{ gold }}</span>
+      <span class="gold"><span class="label">Gold</span> {{ gold }}</span>
     </div>
     <ul class="list">
       <li v-for="{ item, affordable, recommended } in rows" :key="item.id">
@@ -40,7 +40,7 @@ const rows = computed(() =>
           :title="affordable ? `Buy ${item.name}` : 'Not enough gold'"
           @click="emit('buy', item.id)"
         >
-          <span class="name"> <span v-if="recommended" class="star">★</span>{{ item.name }} </span>
+          <span class="name"><span v-if="recommended" class="star">★</span>{{ item.name }}</span>
           <span class="cost" :class="{ tooExpensive: !affordable }">{{ item.cost }}</span>
         </button>
       </li>
@@ -50,30 +50,16 @@ const rows = computed(() =>
 
 <style scoped>
 .panel {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: var(--pad);
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+  border-bottom: var(--rule);
 }
 .gold {
-  color: var(--accent);
-  font-weight: 600;
+  font-family: var(--font-mono), monospace;
+  font-size: var(--text-md);
+  font-weight: 500;
 }
-.list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: var(--gap-sm);
+/* A price list: ruled rows, name left, mono price right, the row inverting on hover. */
+.list li + li {
+  border-top: var(--rule);
 }
 .item {
   width: 100%;
@@ -81,20 +67,28 @@ const rows = computed(() =>
   align-items: center;
   justify-content: space-between;
   gap: 10px;
-  padding: 9px 12px;
+  padding: 6px 4px;
+  border: none;
+  font-family: var(--font-body), serif;
+  font-size: var(--text-sm);
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: normal;
 }
 .item.recommended {
-  border-color: var(--accent);
-  box-shadow: 0 0 0 1px var(--accent) inset;
+  outline: 2px solid var(--ink);
+  outline-offset: -2px;
 }
-.name {
-  font-size: var(--text-sm);
+/* Dimmed by colour, not the global 40% opacity, which would drop the text below AA contrast. */
+.item:disabled {
+  opacity: 1;
+  color: var(--text-dim);
 }
 .cost {
-  font-family: var(--font-mono);
-  color: var(--accent);
+  font-family: var(--font-mono), monospace;
+  font-variant-numeric: tabular-nums;
 }
 .cost.tooExpensive {
-  color: var(--text-dim);
+  text-decoration: line-through;
 }
 </style>

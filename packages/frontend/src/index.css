@@ -1,101 +1,203 @@
+/*
+ * Newsprint: paper, ink and one editorial red. Nearly everything is black on off-white; red is kept
+ * for what must interrupt the eye (a failure, the recommended move). The exception is quest danger,
+ * which keeps its green-to-red scale. Corners are
+ * square everywhere, structure is drawn with visible rules, and there are no soft shadows.
+ */
 :root {
-  --bg: #0f1420;
-  --surface: #1a2130;
-  --surface-2: #232c3d;
-  --border: #313d52;
-  --text: #e6ebf2;
-  --text-dim: #9aa6b8;
-  --accent: #ffb020;
-  --accent-2: #4da3ff;
+  --paper: #f9f9f7;
+  --ink: #111111;
+  --muted: #e5e5e0;
+  --red: #cc0000;
+  --neutral-100: #f5f5f5;
+  --neutral-400: #a3a3a3;
+  --neutral-600: #525252;
+
+  /* Quest danger keeps its traffic-light hues: the one place colour carries meaning at a glance.
+     Used as fills under ink text, which clears 5.8:1 (AA) on every one of them. */
   --safe: #34c759;
   --medium: #e0b000;
   --risky: #ff8c42;
   --deadly: #ff4d5e;
 
-  /* Channel copies of the colors above, for the tinted backgrounds that need an alpha. Keeping
-     them here is what stops the same color being hand-expanded to rgba() at drifting alphas. */
-  --accent-2-rgb: 77, 163, 255;
-  --safe-rgb: 52, 199, 89;
-  --deadly-rgb: 255, 77, 94;
+  /* Role names the components use. */
+  --bg: var(--paper);
+  --surface: var(--paper);
+  --surface-2: var(--muted);
+  --border: var(--ink);
+  --text: var(--ink);
+  /* neutral-600, not the spec's 500: it is the one that clears AA for small text on paper. */
+  --text-dim: var(--neutral-600);
+  --accent: var(--red);
 
-  --radius: 10px;
-  --radius-sm: 8px;
-  --radius-xs: 6px;
-  --radius-pill: 999px;
+  --rule: 1px solid var(--ink);
+  --rule-heavy: 4px solid var(--ink);
 
   --gap: 16px;
   --gap-sm: 8px;
   --pad: 16px;
 
-  --font-mono: ui-monospace, monospace;
+  --font-serif: 'Playfair Display', 'Times New Roman', serif;
+  --font-body: 'Lora', Georgia, serif;
+  --font-sans: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+
   --text-sm: 0.9rem;
   --text-xs: 0.85rem;
   --text-2xs: 0.8rem;
-  --text-body: 0.92rem;
+  --text-body: 0.95rem;
   --text-3xs: 0.72rem;
   --text-md: 1.05rem;
-  --text-lg: 1.1rem;
+  --text-lg: 1.25rem;
 
-  color-scheme: dark;
+  color-scheme: light;
 }
 
 * {
   box-sizing: border-box;
+  border-radius: 0;
 }
 
 html,
 body,
 #root {
   margin: 0;
-  height: 100%;
+  min-height: 100%;
 }
 
 body {
-  background: var(--bg);
   color: var(--text);
-  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-family: var(--font-body), serif;
   line-height: 1.5;
-}
-
-button {
-  font: inherit;
-  cursor: pointer;
-  border: 1px solid var(--border);
-  background: var(--surface-2);
-  color: var(--text);
-  border-radius: var(--radius-sm);
-  padding: 8px 14px;
-  transition: background 0.15s, border-color 0.15s, opacity 0.15s;
-}
-
-button:hover:not(:disabled) {
-  border-color: var(--accent-2);
-}
-
-button:disabled {
-  opacity: 0.45;
-  cursor: not-allowed;
-}
-
-button.primary {
-  background: var(--accent);
-  color: #1a1200;
-  border-color: transparent;
-  font-weight: 600;
-}
-
-a {
-  color: var(--accent-2);
+  /* A 4px halftone dot grid: enough grain to read as paper, too faint to read as a pattern. */
+  background-color: var(--bg);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23111111' fill-opacity='0.04' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
 }
 
 h1,
 h2,
 h3 {
   margin: 0;
+  font-family: var(--font-serif), serif;
+  line-height: 1.1;
+}
+
+/* Buttons are outlined in ink and invert on hover; `primary` starts inverted. */
+button {
+  font-family: var(--font-sans), sans-serif;
+  font-size: var(--text-2xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+  min-height: 44px;
+  padding: 8px 16px;
+  border: var(--rule);
+  background: transparent;
+  color: var(--ink);
+  transition:
+    background-color 0.2s ease-out,
+    color 0.2s ease-out;
+}
+
+button:hover:not(:disabled) {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+button.primary {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+button.primary:hover:not(:disabled) {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+
+a {
+  color: var(--ink);
+  text-underline-offset: 4px;
+  text-decoration-thickness: 2px;
+}
+
+a:hover {
+  text-decoration-color: var(--red);
+}
+
+/* Uppercase mono metadata: section labels and stat captions. */
+.label {
+  font-family: var(--font-mono), monospace;
+  font-size: var(--text-3xs);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--text-dim);
+}
+
+/* One column: a section headed by a heavy rule, shared by the quest list, shop and log. */
+.panel {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 0;
+  padding: var(--pad);
+}
+
+.panel-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--gap-sm);
+  border-bottom: var(--rule-heavy);
+  padding-bottom: 6px;
+}
+
+.panel-header h2 {
+  font-size: 1.75rem;
+  font-weight: 900;
+}
+
+.count {
+  font-family: var(--font-mono), monospace;
+  font-size: var(--text-2xs);
+  border: var(--rule);
+  padding: 0 6px;
+}
+
+.empty {
+  margin: 0;
+  color: var(--text-dim);
+  font-style: italic;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 /* The "recommended" marker, shared by the quest list and the shop. */
 .star {
-  color: var(--accent);
+  color: var(--red);
   margin-right: 6px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+    scroll-behavior: auto !important;
+  }
 }

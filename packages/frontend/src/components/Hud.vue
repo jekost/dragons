@@ -19,6 +19,8 @@ const props = withDefaults(
 
 /** Past this many lives the hearts become unreadable, so the count is shown instead. */
 const MAX_HEARTS = 8;
+/** Hearts per line: the Lives tile is narrow, so a fifth heart wraps to its own row. */
+const HEARTS_PER_ROW = 4;
 
 /** One object to read the figures off, so every tile stops repeating `?? 0`. */
 const EMPTY: Pick<GameState, 'score' | 'lives' | 'gold' | 'level' | 'turn' | 'highScore'> = {
@@ -55,9 +57,15 @@ const factions = computed(() =>
 /** A reading taken before the current turn is history, not status. */
 const stale = computed(() => !!props.reputation && stats.value.turn > props.reputation.turn);
 const tooManyHearts = computed(() => stats.value.lives > MAX_HEARTS);
-const hearts = computed(() =>
-  stats.value.lives > 0 ? '❤️'.repeat(Math.min(stats.value.lives, MAX_HEARTS)) : '—',
-);
+/** The hearts to draw, split into rows of HEARTS_PER_ROW; empty when the dragon is dead. */
+const heartRows = computed(() => {
+  const shown = Math.min(stats.value.lives, MAX_HEARTS);
+  const rows: string[] = [];
+  for (let i = 0; i < shown; i += HEARTS_PER_ROW) {
+    rows.push('♥︎'.repeat(Math.min(HEARTS_PER_ROW, shown - i)));
+  }
+  return rows;
+});
 </script>
 
 <template>
@@ -67,7 +75,11 @@ const hearts = computed(() =>
     <div class="stats">
       <StatTile label="Lives">
         <span class="statValue hearts" :aria-label="`${stats.lives} lives`">
-          {{ hearts }}<template v-if="tooManyHearts"> ×{{ stats.lives }}</template>
+          <template v-if="heartRows.length">
+            <span v-for="(row, i) in heartRows" :key="i" class="heartRow">{{ row }}</span>
+          </template>
+          <template v-else>—</template>
+          <template v-if="tooManyHearts"> ×{{ stats.lives }}</template>
         </span>
       </StatTile>
       <StatTile label="Gold" :value="stats.gold" />
@@ -80,8 +92,8 @@ const hearts = computed(() =>
 
     <div v-if="reputation" class="reputation" data-testid="reputation">
       <div class="repHead">
-        <span class="repTitle">Reputation</span>
-        <span class="repTurn" :class="{ stale }">
+        <span class="label">Reputation</span>
+        <span class="label repTurn" :class="{ stale }">
           read on turn {{ reputation.turn }}<template v-if="stale"> — stale</template>
         </span>
       </div>
@@ -98,33 +110,50 @@ const hearts = computed(() =>
 
 <style scoped>
 .hud {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: var(--pad);
   display: flex;
   flex-direction: column;
   gap: 14px;
+  padding: var(--pad);
+  border-bottom: var(--rule);
+}
+/* Collapsed-border cells: the grid's rules are drawn by each cell's right and bottom edge, and the
+   container supplies the top and left, so no two rules ever double up. */
+.stats,
+.repRow {
+  display: grid;
+  border-top: var(--rule);
+  border-left: var(--rule);
 }
 .stats {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(72px, 1fr));
-  gap: 10px;
+  /* auto-fit, not auto-fill: five tiles share one row instead of orphaning the last. */
+  grid-template-columns: repeat(auto-fit, minmax(64px, 1fr));
 }
-/* The Lives tile supplies its own markup through StatTile's slot, so it styles its value here. */
+.repRow {
+  grid-template-columns: repeat(3, 1fr);
+}
+.stats > :deep(*),
+.repRow > :deep(*) {
+  border-right: var(--rule);
+  border-bottom: var(--rule);
+}
+/* The Lives and reputation tiles supply their own markup through StatTile's slot. */
 .statValue {
+  font-family: var(--font-mono), monospace;
   font-size: var(--text-lg);
-  font-weight: 600;
+  font-weight: 500;
 }
 .hearts {
-  letter-spacing: 1px;
+  color: var(--red);
+  letter-spacing: 2px;
+}
+.heartRow {
+  display: block;
+  line-height: 1.2;
 }
 .reputation {
-  border-top: 1px solid var(--border);
-  padding-top: 12px;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 6px;
 }
 .repHead {
   display: flex;
@@ -132,28 +161,14 @@ const hearts = computed(() =>
   justify-content: space-between;
   gap: var(--gap-sm);
 }
-.repTitle {
-  font-size: var(--text-3xs);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: var(--text-dim);
-}
-.repTurn {
-  font-size: var(--text-3xs);
-  color: var(--text-dim);
-}
 .repTurn.stale {
-  color: var(--accent);
-}
-.repRow {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
+  color: var(--red);
+  font-style: italic;
 }
 .good {
-  color: var(--safe);
+  color: var(--ink);
 }
 .bad {
-  color: var(--deadly);
+  color: var(--red);
 }
 </style>

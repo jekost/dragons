@@ -19,18 +19,20 @@ const STATUS_LABEL: Record<GameStatus, string> = {
 /** Game over is the one status whose wording depends on whether the target was met. */
 const statusLabel = computed(() => {
   if (props.status !== 'over') return STATUS_LABEL[props.status];
-  return props.goalReached ? 'Game over — target met 🎉' : 'Game over 💀';
+  return props.goalReached ? 'Game over — target met' : 'Game over';
 });
 
 /** Built from GOAL_SCORE so the badge cannot advertise a target the solver no longer uses. */
-const goalLabel = `🎯 ${GOAL_SCORE}+ reached`;
+const goalLabel = `${GOAL_SCORE}+ reached`;
 </script>
 
 <template>
   <div class="topRow">
     <div class="badges">
       <span class="badge" :class="status" data-testid="status-badge">{{ statusLabel }}</span>
-      <span v-if="goalReached" class="milestone" data-testid="goal-badge">{{ goalLabel }}</span>
+      <span v-if="goalReached" class="milestone" data-testid="goal-badge">
+        <span class="star" aria-hidden="true">★</span>{{ goalLabel }}
+      </span>
     </div>
     <span v-if="gameId" class="gameId">#{{ gameId }}</span>
   </div>
@@ -50,37 +52,32 @@ const goalLabel = `🎯 ${GOAL_SCORE}+ reached`;
 }
 .badge,
 .milestone {
-  padding: 4px 10px;
-  border-radius: var(--radius-pill);
-  font-size: var(--text-xs);
-  font-weight: 600;
-}
-.badge {
-  background: var(--surface-2);
-  border: 1px solid var(--border);
+  padding: 3px 8px;
+  border: var(--rule);
+  font-family: var(--font-sans), sans-serif;
+  font-size: var(--text-3xs);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
 }
 .badge.autoplaying {
-  background: rgba(var(--accent-2-rgb), 0.15);
-  border-color: var(--accent-2);
-  color: var(--accent-2);
-}
-.badge.over {
-  background: rgba(var(--deadly-rgb), 0.15);
-  border-color: var(--deadly);
-  color: var(--deadly);
+  background: var(--ink);
+  color: var(--paper);
 }
 .badge.paused {
-  color: var(--accent);
-  border-color: var(--accent);
+  border-style: dashed;
 }
-.milestone {
-  background: rgba(var(--safe-rgb), 0.15);
-  border: 1px solid var(--safe);
-  color: var(--safe);
+.badge.over {
+  background: var(--red);
+  border-color: var(--red);
+  color: var(--paper);
+}
+.milestone .star {
+  margin-right: 4px;
 }
 .gameId {
+  font-family: var(--font-mono), monospace;
+  font-size: var(--text-3xs);
   color: var(--text-dim);
-  font-family: var(--font-mono);
-  font-size: var(--text-xs);
 }
 </style>

@@ -74,18 +74,18 @@ npm run characterize  # re-run the live experiments (Java) → regenerate probab
 ## What it does
 
 - **Live game board** — current lives, gold, level, turn, score (with a progress bar to 1000 and
-  a "🎯 1000+ reached" milestone), and every quest with its risk tier, reward, and expiry,
+  a "1000+ reached" milestone), and every quest with its risk tier, reward, and expiry,
   color-coded by danger.
 - **Auto-play** — the bot plays turn-by-turn at an adjustable speed; **pause** and **step** give
   frame-by-frame control. It keeps going past 1000 to maximize score.
 - **Manual play** — click any quest to solve it or any shop item to buy it. The move the bot
-  *would* make is marked with a ★.
-- **Reputation lookup** — a 🔍 button asks the game how the dragon stands with the people, the
+  *would* make is marked with a red ★.
+- **Reputation lookup** — an **Investigate** button asks the game how the dragon stands with the people, the
   state and the underworld. It is a *move*, not a readout: the call spends a turn, so it is manual
   only, disabled during auto-play, and the HUD stamps each reading with the turn it was taken on
   and marks it stale once the game moves past it.
 - **Decision log** — a running, human-readable explanation of every action and its outcome.
-- **Encrypted quests** — decoded transparently (Base64 and ROT13) and marked with a 🔓.
+- **Encrypted quests** — decoded transparently (Base64 and ROT13) and marked "Decoded".
 - **Robust error handling** — upstream hiccups, dead games, and network failures surface as clear
   messages instead of crashes; auto-play pauses safely on error.
 

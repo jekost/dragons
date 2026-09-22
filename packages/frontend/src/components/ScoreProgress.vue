@@ -19,10 +19,10 @@ const heading = computed(() =>
 <template>
   <div class="scoreBlock">
     <div class="scoreHeader">
-      <span>{{ heading }}</span>
+      <span class="label">{{ heading }}</span>
       <span data-testid="score-value">
         <strong>{{ score }}</strong> / {{ GOAL_SCORE }}
-        <span v-if="goalReached" class="check">✓</span>
+        <span v-if="goalReached" class="check" aria-label="goal met">★</span>
       </span>
     </div>
     <div class="progressTrack">
@@ -44,30 +44,30 @@ const heading = computed(() =>
 .scoreHeader {
   display: flex;
   justify-content: space-between;
+  align-items: baseline;
   gap: var(--gap-sm);
+  font-family: var(--font-mono), monospace;
   font-size: var(--text-sm);
-  color: var(--text-dim);
 }
 .scoreHeader strong {
-  color: var(--text);
-  font-size: var(--text-md);
+  font-family: var(--font-serif), serif;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1;
+  /* Playfair's default old-style figures drop below the mono "/ 1000" beside them. */
+  font-variant-numeric: lining-nums;
 }
 .check {
-  color: var(--safe);
-  font-weight: 700;
+  color: var(--red);
 }
 .progressTrack {
-  height: 10px;
-  background: var(--surface-2);
-  border-radius: var(--radius-pill);
-  overflow: hidden;
+  height: 12px;
+  border: var(--rule);
+  background: var(--muted);
 }
 .progressFill {
   height: 100%;
-  background: linear-gradient(90deg, var(--accent-2), var(--safe));
-  transition: width 0.3s ease;
-}
-.progressFill.complete {
-  background: var(--safe);
+  background: var(--ink);
+  transition: width 0.3s ease-out;
 }
 </style>

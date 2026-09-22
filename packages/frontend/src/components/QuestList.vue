@@ -16,7 +16,7 @@ const adsByRewardDesc = computed(() => [...props.ads].sort((a, b) => b.reward - 
 
 <template>
   <section class="panel" aria-label="Quests">
-    <div class="header">
+    <div class="panel-header">
       <h2>Quests</h2>
       <span class="count">{{ adsByRewardDesc.length }}</span>
     </div>
@@ -36,39 +36,16 @@ const adsByRewardDesc = computed(() => [...props.ads].sort((a, b) => b.reward - 
 </template>
 
 <style scoped>
-.panel {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: var(--pad);
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  min-height: 0;
-}
-.header {
-  display: flex;
-  align-items: center;
-  gap: var(--gap-sm);
-}
-.count {
-  color: var(--text-dim);
-  background: var(--surface-2);
-  border-radius: var(--radius-pill);
-  padding: 1px 8px;
-  font-size: var(--text-2xs);
-}
-.empty {
-  color: var(--text-dim);
-}
+/* Rows share rules: each quest draws only its bottom edge. */
+/* Scrolls within whatever height the layout gives the panel; `--list-max` caps it only where the
+   layout stacks the columns and there is no neighbouring column to take the height from. */
 .list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: var(--gap-sm);
+  flex: 1 1 auto;
+  min-height: 0;
   overflow-y: auto;
-  max-height: 420px;
+  max-height: var(--list-max, none);
+}
+.list li {
+  border-bottom: var(--rule);
 }
 </style>

@@ -14,71 +14,92 @@ defineEmits<{ solve: [adId: string] }>();
     title="Solve this quest"
     @click="$emit('solve', ad.adId)"
   >
-    <span class="message">
-      <span v-if="recommended" class="star" aria-label="recommended">★</span>
-      {{ ad.message }}
-      <span v-if="ad.encrypted" class="decoded" title="Was encrypted"> 🔓</span>
-    </span>
+    <span v-if="recommended" class="pick label"><span class="star">★</span>Recommended</span>
+    <span class="message">{{ ad.message }}</span>
     <span class="meta">
       <span class="tier" :class="riskClass(ad.probability)">{{ ad.probability }}</span>
-      <span class="reward">💰 {{ ad.reward }}</span>
-      <span class="expires" title="Turns until it expires">⏳ {{ ad.expiresIn }}</span>
+      <span class="figure"><span class="label">Reward</span> {{ ad.reward }}</span>
+      <span class="figure" title="Turns until it expires">
+        <span class="label">Expires</span> {{ ad.expiresIn }}
+      </span>
+      <span v-if="ad.encrypted" class="label decoded" title="Was encrypted">Decoded</span>
     </span>
   </button>
 </template>
 
 <style scoped>
+/* Quests are articles, not controls: override the global button's uppercase sans and inversion. */
 .quest {
   width: 100%;
+  min-height: 0;
   text-align: left;
   display: flex;
   flex-direction: column;
   gap: var(--gap-sm);
-  padding: 10px 12px;
+  padding: 12px;
+  border: none;
+  background: var(--paper);
+  font-family: var(--font-body), serif;
+  font-size: var(--text-body);
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: normal;
+}
+.quest:hover:not(:disabled) {
+  background: var(--neutral-100);
+  color: var(--ink);
 }
 .quest.recommended {
-  border-color: var(--accent);
-  box-shadow: 0 0 0 1px var(--accent) inset;
+  outline: 2px solid var(--ink);
+  outline-offset: -2px;
+}
+.pick {
+  color: var(--ink);
 }
 .message {
-  font-size: var(--text-body);
-}
-.decoded {
-  opacity: 0.8;
+  line-height: 1.45;
 }
 .meta {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: var(--gap-sm);
-  font-size: var(--text-2xs);
+  gap: 6px 14px;
 }
+.figure {
+  font-family: var(--font-mono), monospace;
+  font-size: var(--text-sm);
+  font-variant-numeric: tabular-nums;
+}
+.figure .label {
+  margin-right: 2px;
+}
+.decoded {
+  border: 1px dotted var(--text-dim);
+  padding: 0 4px;
+}
+
+/* Danger by colour, green to red, as filled badges with ink text so the pale hues stay readable
+   on paper. The tier name is always printed too, so colour is never the only signal. */
 .tier {
-  padding: 1px 8px;
-  border-radius: var(--radius-pill);
-  font-weight: 600;
-  border: 1px solid transparent;
+  font-family: var(--font-sans), sans-serif;
+  font-size: var(--text-3xs);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 2px 6px;
+  border: var(--rule);
+  color: var(--ink);
 }
 .tier.safe {
-  color: var(--safe);
-  border-color: var(--safe);
+  background: var(--safe);
 }
 .tier.medium {
-  color: var(--medium);
-  border-color: var(--medium);
+  background: var(--medium);
 }
 .tier.risky {
-  color: var(--risky);
-  border-color: var(--risky);
+  background: var(--risky);
 }
 .tier.deadly {
-  color: var(--deadly);
-  border-color: var(--deadly);
-}
-.reward {
-  color: var(--accent);
-}
-.expires {
-  color: var(--text-dim);
+  background: var(--deadly);
 }
 </style>
