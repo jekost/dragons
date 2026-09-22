@@ -1,20 +1,46 @@
-# 🐉 Dragons of Mugloar — Fullstack Auto-Player
+# Dragons of Mugloar - Full-Stack Auto-Player
 
-A fullstack app that plays [Dragons of Mugloar](https://dragonsofmugloar.com/) and **reliably
-reaches 1000+ points**. A **Vue 3** SPA visualizes the game live while a **Java (Spring Boot)**
-backend runs the strategy engine (the "program") — solving quests, managing lives and gold, and
+A full-stack app that plays [Dragons of Mugloar](https://dragonsofmugloar.com/) and **reliably
+reaches 1000+ points**. A **Vue 3** single page app visualizes the game live while a **Spring Boot**
+backend runs the strategy engine (the "program") - solving quests, managing lives and gold, and
 driving the game either fully autonomously or under manual control.
 
-> **Stack:** Java 25 + Spring Boot backend, Vue 3 + TypeScript frontend — matching the team's
+> **Stack:** Java 25 + Spring Boot backend, Vue 3 + TypeScript frontend - matching the team's
 > stack. The design leaves clean seams for the rest of it: the in-memory session store swaps
 > directly for **Redis**, and turn events could be published over **RabbitMQ** — without
 > over-building a take-home.
 
 > **Result:** the solver clears 1000 points in **38 of 40 games** and scores a median of
-> **~2,900** (measured live by `npm run benchmark` — see
+> **~2,900** (measured live by `npm run benchmark` - see
 > [Characterization](#characterization-measuring-the-hidden-mechanics)). **1000 is a milestone,
-> not a finish line** — the bot plays on to maximize the final score and only stops when it runs
+> not a finish line** - the bot plays on to maximize the final score and only stops when it runs
 > out of lives.
+
+### Reverse engineering the API
+
+It was very difficult finding out how the game actually behaves,
+because the API documents its endpoints but not their effects. The shop lists a name and a price and
+nothing about what an item does. Each quest carries a text label like "Sure thing" or "Gamble" with
+no number behind it. And several responses behave in ways nothing warns you about. So I measured the
+game against the live API instead of guessing. The open questions fell into three groups:
+
+- **What do the power-ups do?** Healing potions restore a life, and upgrades raise
+  the level, but I haven't been able to show that levels improve your odds at all, or that the ten
+  upgrades differ from each other beyond their price.
+- **How hard are the different ads?** Largely answered. Every tier's success rate is measured (a
+  "Sure thing" succeeds about 98% of the time, a "Suicide mission" about 17%). The biggest finding
+  is that a label stops meaning anything above a certain reward: a "Sure thing" paying 130 gold or
+  more succeeds only 9% of the time.
+- **Edge cases.** I found some and missed others. Found:
+  - Looking up your reputation quietly costs a turn - and when time goes ahead, the ads become more difficult.
+  - Solve responses never include the level.
+  - Encrypted ads use two different ciphers.
+  - The shop is identical in every game.
+
+  Still unresolved: whether reputation affects anything, and whether the pricier upgrades are worth it.
+
+Everything is written up as settled, tried-and-failed, or still open in
+[Characterization](#characterization-measuring-the-hidden-mechanics), with the numbers behind each.
 
 ---
 
